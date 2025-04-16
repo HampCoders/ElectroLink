@@ -214,3 +214,8 @@ Con el propósito de obtener una comprensión más profunda de las necesidades d
 - ¿Dónde surge el problema?
   Este problema ocurre en lugares con alta demanda eléctrica, como por ejemplo: hogares, centros educativos, oficinas, centros comerciales, entre otros, donde la sobrecarga o fallos eléctricos pueden generar inconvenientes significativos.
 
+<hr>
+#### 1.2.2.4. Lean UX Canvas
+<img src="https://i.imgur.com/OD3PmHm.png"/>
+<hr>
+

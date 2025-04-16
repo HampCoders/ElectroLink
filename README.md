@@ -363,6 +363,7 @@ Entrega de productos:
 - Tranquilidad una vez que el cliente confirma.
   
 **Conclusión**
+
 Alejandro enfrenta varios puntos críticos en su proceso: publicidad poco efectiva, consultas y cotizaciones manuales que lo agobian, y entregas propensas a errores. Aunque hay momentos de esperanza, su experiencia general es frustrante. Esto evidencia la necesidad urgente de herramientas digitales que lo ayuden a automatizar, organizar y profesionalizar su servicio.
 
 

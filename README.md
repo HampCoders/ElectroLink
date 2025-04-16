@@ -320,6 +320,9 @@ Aspectos psicográficos:
 - Están interesados en plataformas que les faciliten la gestión de pedidos o contactos comerciales.
 - Valoran pertenecer a una red confiable de profesionales del rubro eléctrico.
 - Están enfocados en el crecimiento profesional y la fidelización de clientes.
+  
+## 2.3.5. As-is Scenario Mapping
+**Alejandro Lopez**
 
 <hr>
 

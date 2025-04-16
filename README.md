@@ -323,7 +323,7 @@ Aspectos psicográficos:
   
 ## 2.3.5. As-is Scenario Mapping
 **Alejandro Lopez**
-<img src="https://i.imgur.com/wdXr2ah.png"/>
+
 
 <hr>
 

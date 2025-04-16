@@ -251,7 +251,9 @@ Con el propósito de obtener una comprensión más profunda de las necesidades d
 
 **How much (Cuánto)**
 - En 2021, el 45,3% de los hogares con acceso a la red pública de energía eléctrica experimentaron cortes o interrupciones.
-- En 2022, la frecuencia promedio de interrupciones fue de 9,8 veces.
+- En 2021, el 45,3% de los hogares con acceso a la red pública de energía eléctrica experimentaron cortes o interrupciones.
+- Estudios indican que departamentos como Áncash, Arequipa, Cusco, Huánuco, Madre de Dios, Pasco y Puno presentan altos porcentajes de hogares con experiencias negativas en la calidad del servicio eléctrico.
+- En 2022, la frecuencia promedio de interrupciones fue de 9,8 veces, con mayor incidencia en el segmento de distribución eléctrica.
 
 <hr>
 

@@ -321,6 +321,158 @@ Aspectos psicográficos:
 - Valoran pertenecer a una red confiable de profesionales del rubro eléctrico.
 - Están enfocados en el crecimiento profesional y la fidelización de clientes.
   
+## Capítulo II: Requirements Elicitation & Analysis
+### 2.1. Competidores
+# Análisis del Mercado Digital de Servicios
+
+Hoy en día, en el competitivo mercado digital para la contratación de servicios, existen diversas empresas importantes que ofrecen soluciones en áreas como reparaciones, mantenimiento y tareas domésticas. Entre los competidores más destacados se encuentran **Thumbtack**, **Handy** y **TaskRabbit**.
+
+---
+
+## Thumbtack
+
+Plataforma en línea que conecta a personas que necesitan servicios locales con profesionales que los ofrecen. Funciona como un **marketplace** donde puedes buscar desde plomeros, electricistas, entre muchos otros.
+
+### ¿Cómo funciona?
+
+1. El cliente publica un proyecto explicando qué necesita.
+2. Los profesionales registrados en esa categoría y área geográfica reciben una notificación.
+3. Los interesados envían cotizaciones o propuestas al cliente.
+4. El cliente elige al profesional que mejor se adapte a su presupuesto y necesidades.
+
+**Popularidad:** Muy usada en Estados Unidos.  
+**Usuarios frecuentes:** Freelancers y pequeñas empresas.
+
+---
+
+## Handy
+
+A diferencia de Thumbtack, **Handy no muestra varios profesionales**, sino que asigna uno automáticamente basado en disponibilidad y ubicación.
+
+### Especialidad
+Servicios para el hogar:
+- Limpieza
+- Montaje de muebles
+- Plomería
+- Electricidad
+- Mudanzas, etc.
+
+### ¿Cómo funciona?
+
+1. El cliente reserva directamente desde la app o sitio web.
+2. Elige fecha, hora y tipo de servicio.
+3. Handy asigna automáticamente a un profesional disponible.
+ **Ubicación:** EE. UU., Canadá y Reino Unido.
+
+---
+
+## TaskRabbit
+
+Plataforma donde puedes contratar **taskers** (personas que realizan tareas). Opera como un mercado en línea conectado con la demanda local.
+
+### Servicios populares:
+- Montaje de muebles (especialmente de IKEA, gracias a una alianza).
+- Mudanzas y cargado de objetos pesados.
+- Limpieza.
+- Reparaciones menores en el hogar.
+- Hacer compras o entregas.
+- Colgar cuadros, instalar estanterías, etc.
+
+### ¿Cómo funciona TaskRabbit?
+
+1. Buscas el tipo de tarea que necesitas.
+2. Eliges a un tasker según su perfil, tarifas por hora y reseñas.
+3. Agendas el servicio directamente con esa persona (fecha y hora).
+4. Pagas a través de la plataforma una vez que el trabajo esté completo.
+
+---
+
+#### 2.1.1. Análisis competitivo
+
+# Competitive Analysis Landscape
+
+## ¿Por qué llevar a cabo este análisis?
+
+Porque necesitamos identificar fortalezas, debilidades y diferenciadores clave frente a plataformas similares para definir la estrategia competitiva de **ElectroLink**.
+
+**Necesitamos adaptarnos a las tendencias del mercado**
+
+| Categoría                        | ElectroLink                                                                                                                                     | Thumbtack                                                                                   | Handy                                                                                  | TaskRabbit                                                                                      |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Perfil**                       |                                                                                                                                                 |                                                                                             |                                                                                        |                                                                                                  |
+| Overview                         | Plataforma especializada en instalaciones y mantenimiento eléctrico legal y seguro. Conecta a clientes con proveedores certificados, ofreciendo asesoría técnica, prevención de riesgos y seguimiento en tiempo real. | Marketplace general de servicios donde los usuarios pueden encontrar profesionales para tareas como reparaciones | Plataforma centrada en tareas del hogar como limpieza, montaje de muebles y algunas reparaciones menores | Conecta personas con taskers para tareas del hogar como mudanzas, reparaciones menores, compras y más. |
+| Ventaja competitiva ¿Qué valor ofrece a los clientes? | Instalaciones y mantenimiento eléctrico general con proveedores certificados. Servicio legal, seguro y con asesoría técnica. | Ofrece una amplia variedad de servicios, pero sin enfoque especializado.                     | Servicios de hogar bajo demanda. Asignación automática.                              | Contratación rápida para tareas específicas, con perfiles seleccionables.                         |
+| **Perfil de Marketing**          |                                                                                                                                                 |                                                                                             |                                                                                        |                                                                                                  |
+| Mercado objetivo                 | Hogares, oficinas, escuelas y PYMES urbanas que requieren instalaciones o mantenimiento eléctrico confiable.                                   | Clientes generales que necesitan servicios variados (hogar, eventos, clases, etc.).         | Personas que requieren limpieza, montaje o reparaciones domésticas.                  | Hogares que requieren tareas prácticas como mudanza, limpieza, montaje, etc.                     |
+| Estrategias de marketing         | Alianzas con proveedores certificados, educación sobre mantenimiento eléctrico.                                                                 | Publicidad digital, visibilidad en buscadores, reviews de usuarios.                         | Integración con IKEA, marketing por conveniencia y rapidez.                          | Visibilidad en buscadores con una app amigable y con integración con IKEA                        |
+| **Perfil de productos**          |                                                                                                                                                 |                                                                                             |                                                                                        |                                                                                                  |
+| Productos & Servicios            | Instalación de componentes, mantenimiento general, diagnósticos técnicos y asesoría normativa.                                                  | Servicios generales (fotografía, plomería, eventos, clases, etc.).                          | Limpieza, fontanería, montaje, electricidad básica, mudanza.                        | Montaje de muebles, limpieza, ayuda con tareas, mudanza.                                        |
+| Precios y Costos                 | Costos por servicio y suscripción mensual para monitoreo/prevención.                                                                            | Los profesionales establecen precios. Thumbtack cobra parte de la comisión.                | Precio fijo por servicio. Handy toma parte de la comisión.                          | Costo por hora según la tarea deseada. TaskRabbit cobra una comisión al profesional.             |
+| Canales de distribución (Web y/o Móvil) | Plataforma web + app móvil (foco en experiencia técnica y educativa)                                                                           | Web + app móvil.                                                                            | Web + app móvil.                                                                     | Web + app móvil.                                                                                 |
+| **Análisis SWOT**                |                                                                                                                                                 |                                                                                             |                                                                                        |                                                                                                  |
+| Fortalezas                       | Especialización en electricidad, asesoría legal, prevención de riesgos y red de técnicos certificados.                                         | Variedad de servicios, alta visibilidad, gran base de usuarios.                            | Rapidez de reserva por sus procesos automatizados.                                  | Facilidad para elegir trabajadores, buena reputación por las tareas simples.                     |
+| Debilidades                      | Somos nuevos en el mercado y tenemos una dependencia de proveedores certificados.                                                              | No tiene enfoque especializado, experiencia muy generalista.                                | Puede ser complicado encontrar personal especializado.                              | Algunos trabajadores no están certificados. Esto puede variar la calidad de los servicios.       |
+| Oportunidades                    | Alianzas con aseguradoras, certificaciones oficiales, posible expansión a smart energy, estos servicios están poco atendidos.                  | Ampliar a servicios técnicos más especializados.                                            | Mejorar procesos de selección de profesionales a través de una expansión hacia servicios técnicos especializados. | TaskRabbit podría asociarse con marcas de smart home (como Google Nest, Philips Hue, etc.) para ofrecer instalación y soporte técnico |
+| Amenazas                         | Falta de confianza inicial. Si no se mantiene un buen control o evaluación a los proveedores eléctricos puede afectar la experiencia del cliente. | Tiene una gran saturación del mercado y competencia entre profesionales.                    | Problemas con calidad inconsistente del servicio dado que los usuarios no eligen al profesional | Cada vez más personas contratan técnicos y ayudantes directamente por redes como Facebook Marketplace. Lo que hace más difícil estar en el mercado. |
+
+
+#### 2.1.2. Estrategias y tácticas frente a competidores
+Para lograr enfrentar a nuestros competidores como Thumbtack, Handy y TaskRabbit. Nuestro proyecto ElectroLink tendrá una serie de estrategias y tácticas sobre la calidad del servicio, confianza, y especialización en el sector de servicios electrónicos y de mantenimiento.
+1. Estrategia de diferenciación especializandonos en sistemas eléctricos
+Plataformas como Thumbtack y TaskRabbit, que abarcan una amplia gama de servicios, ElectroLink se enfocará en servicios de mantenimiento preventivo y reparación de sistemas eléctricos para hogares y empresas. Esta especialización nos permitirá destacar como una solución confiable en el mercado..
+
+
+2. Garantía de seguridad y legalidad en todos los servicios
+ElectroLink implementará un sistema de certificación en el cual los proveedores que estén en la plataforma sean realizados por profesionales certificados y con licencias. Además, se garantizará que todos los servicios cumplan con los estándares legales y normativos del sector eléctrico.
+
+
+3. Precios transparentes y competitivos
+A diferencia de Thumbtack, el cual utiliza un modelo de pago basado en leads, ElectroLink ofrecerá un modelo de precios transparente y competitivo donde los usuarios y proveedores tengan conocimiento sobre los costos. También se implementará un sistema de suscripción o tarifas planas para trabajos de mantenimiento preventivo, lo que brinda seguridad a los clientes.
+
+
+### 2.2. Entrevistas
+#### 2.2.1. Diseño de entrevistas
+#### 2.2.2. Registro de entrevistas
+#### 2.2.3. Análisis de entrevistas
+### 2.3. Needfinding
+#### 2.3.1. User Personas
+#### 2.3.2. User Task Matrix
+#### 2.3.3. User Journey Mapping
+
+**User Persona: Alejandro Lopez**
+![Empathy1](Assets/Journey-mapping-1.png)
+Alejandro vive un recorrido con muchos puntos de fricción, sobre todo relacionados con:
+
+- Promoción ineficiente.
+- Carga operativa excesiva (consultas, cotizaciones).
+- Falta de herramientas digitales.
+- Inseguridad en cumplimiento normativo.
+
+**User Persona: Eduardo Gonzales**
+![Empathy2](Assets/Journey-mapping-2.png)
+
+Eduardo sigue un recorrido rigurosamente técnico pero emocionalmente cargado, especialmente en momentos donde la decisión impacta la operación de su empresa. Sus mayores frustraciones están en:
+- Falta de claridad y confianza en los proveedores.
+- Procesos manuales y repetitivos que consumen tiempo.
+- Desconfianza e incertidumbre en cada paso previo a la contratación.
+A pesar de eso, su perfil proactivo y analítico lo convierte en un usuario ideal para una solución como ElectroLink, siempre que ésta le ofrezca:
+
+**User Persona: Olivia Perez**
+![Empathy3](Assets/Journey-mapping-3.png)
+Olivia tiene una mentalidad muy preventiva, estructurada y enfocada en la calidad. Sin embargo, la informalidad del mercado eléctrico y la falta de herramientas digitales la hacen vivir una experiencia:
+- Lenta y sobrecargada
+- Emocionalmente estresante
+- Con baja confianza en cada etapa
+A pesar de eso, está muy abierta a soluciones digitales si estas le ofrecen:
+- Proveedores verificados
+- Validaciones técnicas y de seguridad claras
+
+
+
+#### 2.3.4. Empathy Mapping
+
+
+
 ## 2.3.5. As-is Scenario Mapping
 
 **Alejandro Lopez**
@@ -459,3 +611,40 @@ Olivia es una usuaria cautelosa, exigente y preocupada por la seguridad y la cal
 
 <hr>
 
+## 2.4. Ubiquitous Language
+
+## Capítulo III: Requirements Specification
+### 3.1. To-Be Scenario Mapping
+### 3.2. User Stories
+### 3.3. Impact Mapping
+### 3.4. Product Backlog
+
+
+## Capítulo IV: Product Design
+### 4.1. Style Guidelines
+#### 4.1.1. General Style Guidelines
+#### 4.1.2. Web Style Guidelines
+### 4.2. Information Architecture
+#### 4.2.1. Organization Systems
+#### 4.2.2. Labeling Systems
+#### 4.2.3. SEO Tags and Meta Tags
+#### 4.2.4. Searching Systems
+#### 4.2.5. Navigation Systems
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
+#### 4.3.2. Landing Page Mock-up
+### 4.4. Web Applications UX/UI Design
+#### 4.4.1. Web Applications Wireframes
+#### 4.4.2. Web Applications Wireflow Diagrams
+#### 4.4.3. Web Applications Mock-ups
+#### 4.4.4. Web Applications User Flow Diagrams
+### 4.5. Web Applications Prototyping
+### 4.6. Domain-Driven Software Architecture
+#### 4.6.1. Software Architecture Context Diagrams
+#### 4.6.2. Software Architecture Container Diagrams
+#### 4.6.3. Software Architecture Components Diagrams
+### 4.7. Software Object-Oriented Design
+#### 4.7.1. Class Diagrams
+#### 4.7.2. Class Dictionary
+### 4.8. Database Design
+#### 4.8.1. Database Diagram

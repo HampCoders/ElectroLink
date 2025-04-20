@@ -632,6 +632,7 @@ El logo de ElectroLink representa la esencia de la plataforma como un puente mod
 **Variantes de Logo:**
 
 *Logo Original*
+
 <img src="https://i.imgur.com/6rBCfjh.png"/>
 
 *Logo sin Letras*

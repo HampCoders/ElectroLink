@@ -436,8 +436,9 @@ A diferencia de Thumbtack, el cual utiliza un modelo de pago basado en leads, El
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
+**Alejandro Lopez**
 <img src="https://i.imgur.com/vINhynV.png"/>
-<img src="https://i.imgur.com/g6rrVKE.png"/>
+
 
 #### 2.3.2. User Task Matrix
 #### 2.3.3. User Journey Mapping

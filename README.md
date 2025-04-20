@@ -443,6 +443,9 @@ A diferencia de Thumbtack, el cual utiliza un modelo de pago basado en leads, El
 **Eduardo Gonzales**
 <img src="https://i.imgur.com/g6rrVKE.png"/>
 
+**Olivia Pérez**
+<img src="https://i.imgur.com/RP1M8lP.png"/>
+
 #### 2.3.2. User Task Matrix
 #### 2.3.3. User Journey Mapping
 

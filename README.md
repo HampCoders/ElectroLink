@@ -968,7 +968,7 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 
 <img src="https://i.imgur.com/rUlcOAc.png"/>
 
-[Ver diagrama en Figma]([https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0](https://www.figma.com/design/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-624&p=f&t=9AhvJafsRNaQO2cX-0))
+[Ver diagrama en Figma](https://www.figma.com/proto/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-1288&t=i41XCGeFwgsrPY2X-1)
 
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams

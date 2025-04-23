@@ -758,6 +758,25 @@ Mejora la usabilidad al alinear la estructura con el comportamiento visual del u
 |                                             | Mi Perfil                        | Edita y actualiza la información personal y profesional.                   |
 
 #### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page Title:** ElectroLink - Tu conexión segura a la electricidad
+
+**Description:** ElectroLink es una plataforma enfocada en conectar a proveedores de componentes o servicios eléctricos con clientes que necesitan asesoramiento o asistencia para realizar mantenimientos preventivos en sus hogares u oficinas.
+
+**Meta Keywords:** seguridad, ahorro eléctrico, mantenimiento, asesoramiento.
+
+**ElectroLink Meta Author:** ElectroLink
+
+**Meta Description:** facilitar la conexión entre clientes que necesitan servicios eléctricos confiables y proveedores calificados.
+
+**Title:** ElectroLink
+
+**Description:** Buscar conectar a dueños de hogares urbanos con proveedores técnicos eléctricos certificados, garantizando servicios seguros y eficientes dentro de los parámetros legales mediante una plataforma intuitiva y fácil de usar.
+
+**Meta Keywords:** seguridad, ahorro eléctrico, mantenimiento, asesoramiento.
+
+**Meta Author:** ElectroLink
+
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design

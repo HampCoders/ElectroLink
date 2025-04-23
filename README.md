@@ -433,6 +433,49 @@ A diferencia de Thumbtack, el cual utiliza un modelo de pago basado en leads, El
 ### 2.2. Entrevistas
 #### 2.2.1. Diseño de entrevistas
 #### 2.2.2. Registro de entrevistas
+### Segmento #1: Propietarios de hogares urbanos
+
+**Entrevista: Mari Vallejos**  
+- **Sexo:** Femenino  
+- **Edad:** 30  
+- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=nTeFYzyawYk)  
+- **Inicia en:** 0:06  
+- **Duración:** 6:35
+  
+<img src="https://i.imgur.com/4DuNuVf.png"/>
+
+**Resumen:**  
+Mari es ama de casa y pasa la mayor parte del tiempo en su hogar, lo que la hace responsable de todos los asuntos domésticos. Cuando surge un problema eléctrico, como un corte de luz o un enchufe dañado, experimenta ansiedad por no saber cómo resolverlo. Su reacción suele ser buscar ayuda en redes sociales, especialmente en Instagram o grupos vecinales, basándose en recomendaciones y comentarios.
+
+Le preocupa que el servicio sea de calidad, que el proveedor sea puntual, rápido y comprometido, ya que valora que el problema se resuelva de manera eficaz. Sin embargo, no realiza mantenimientos preventivos por falta de conocimiento. Aunque sabe que las normativas legales son importantes, su prioridad es que el trabajo funcione bien.
+
+Mari muestra interés en una plataforma como **ElectroLink**, siempre que incluya proveedores verificados y reseñas reales. Sugiere que la plataforma tenga filtros por experiencia, horario, costo y calificaciones para facilitar su uso.
+
+---
+
+### Segmento #2: Dueños de PYMES u oficinas
+
+**Entrevista : Piero Tenorio**  
+- **Sexo:** Masculino  
+- **Edad:** 26  
+- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=_z8UNTi_cmA)  
+- **Inicia en:** 0:01  
+- **Duración:** 9:54
+<img src="https://i.imgur.com/9iDrwLt.png"/>
+
+**Resumen:**  
+Piero es dueño de una pequeña empresa de autopartes con varias sucursales. Su negocio depende de equipos eléctricos como computadoras, escáneres, cámaras de seguridad y luces. Las fallas eléctricas, aunque poco frecuentes, afectan la productividad al interrumpir los sistemas de inventario, lo cual puede hacer que los clientes se vayan.
+
+Aunque intentó manejar el mantenimiento por sí mismo, ahora lo delega pero sin un plan definido. No realiza mantenimiento preventivo y reconoce que esto es un riesgo. También conoce casos de técnicos no confiables, por lo que valora servicios con garantía y cumplimiento normativo.
+
+Está dispuesto a usar **ElectroLink** si ofrece proveedores certificados, reseñas, calificaciones y funcionalidades como el registro de consumo eléctrico, alertas de fallas y recomendaciones de mejora.
+
+---
+
+### Segmento #3: Proveedores de componentes o servicios eléctricos certificados
+
+
+
 #### 2.2.3. Análisis de entrevistas
 ### 2.3. Needfinding
 #### 2.3.1. User Personas

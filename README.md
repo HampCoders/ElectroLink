@@ -766,6 +766,10 @@ Mejora la usabilidad al alinear la estructura con el comportamiento visual del u
 <img src="https://i.imgur.com/Y0zFN3L.png"/>
 
 ### 4.2. Information Architecture
+
+Para representar la estructura de los usuario se han realizado diagramas para la explicación de la funcionalidades de la aplicación y el recorrido del usuario en la misma.
+<img src="https://i.imgur.com/wdxy51q.png"/>
+
 #### 4.2.1. Organization Systems
 #### 4.2.2. Labeling Systems
 

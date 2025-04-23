@@ -761,7 +761,17 @@ Mejora la usabilidad al alinear la estructura con el comportamiento visual del u
 #### 4.2.4. Searching Systems
 #### 4.2.5. Navigation Systems
 ### 4.3. Landing Page UI Design
-#### 4.3.1. Landing Page Wireframe
+
+### 4.3.1. Landing Page Wireframe.
+
+<img src="https://i.imgur.com/RIIZVSE.png"/>
+
+<img src="https://i.imgur.com/IsmTEYP.png"/>
+
+<img src="https://i.imgur.com/dwrbsjw.png"/>
+
+<img src="https://i.imgur.com/MdqLiaz.png"/>
+
 #### 4.3.2. Landing Page Mock-up
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes

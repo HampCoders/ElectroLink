@@ -930,6 +930,17 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 <img src="https://i.imgur.com/i8ba802.png"/>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+
+<img src="https://i.imgur.com/0BN4OZM.png"/>
+
+<img src="https://i.imgur.com/nZSSUMC.png"/>
+
+<img src="https://i.imgur.com/XQd56bO.png"/>
+
+<img src="https://i.imgur.com/soOCrA8.png"/>
+
+[Ver diagrama en Lucidchart](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
+
 #### 4.4.3. Web Applications Mock-ups
 #### 4.4.4. Web Applications User Flow Diagrams
 ### 4.5. Web Applications Prototyping

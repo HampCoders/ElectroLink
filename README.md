@@ -958,6 +958,9 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 <img src="https://i.imgur.com/6Ah62mr.png"/>
 
 #### 4.4.4. Web Applications User Flow Diagrams
+
+<img src="https://i.imgur.com/28bjNjk.png"/>
+
 ### 4.5. Web Applications Prototyping
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams

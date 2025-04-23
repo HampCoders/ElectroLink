@@ -864,6 +864,11 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 <img src="https://i.imgur.com/MdqLiaz.png"/>
 
 #### 4.3.2. Landing Page Mock-up
+
+<img src="https://i.imgur.com/hXEACTz.png"/>
+
+<img src="https://i.imgur.com/gHvT3uz.png"/>
+
 ### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
 #### 4.4.2. Web Applications Wireflow Diagrams

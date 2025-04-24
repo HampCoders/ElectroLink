@@ -429,10 +429,84 @@ ElectroLink implementará un sistema de certificación en el cual los proveedore
 3. Precios transparentes y competitivos
 A diferencia de Thumbtack, el cual utiliza un modelo de pago basado en leads, ElectroLink ofrecerá un modelo de precios transparente y competitivo donde los usuarios y proveedores tengan conocimiento sobre los costos. También se implementará un sistema de suscripción o tarifas planas para trabajos de mantenimiento preventivo, lo que brinda seguridad a los clientes.
 
+<hr>
 
 ### 2.2. Entrevistas
+<hr>
+
+<hr>
+
 #### 2.2.1. Diseño de entrevistas
+**Segmento #1: Propietarios de hogares urbanos:**
+
+**Preguntas principales:**
+-   ¿Cómo te sientes normalmente cuando surge un problema eléctrico en tu casa, como un corte de luz o un tomacorriente que no funciona?
+-   ¿Qué haces normalmente cuando necesitas encontrar a alguien que repare o revise una instalación eléctrica en tu hogar?
+-   ¿Qué tan fácil o difícil te resulta encontrar técnicos eléctricos en quienes puedas confiar?
+-   ¿Cuando has contratado un servicio eléctrico antes, ¿qué fue lo que más te preocupó?
+-   ¿Qué cosas valoras más cuando contratas a alguien para que trabaje en tu casa (puntualidad, certificación, costo, rapidez)?
+-   ¿Con qué frecuencia tomas medidas preventivas para evitar problemas eléctricos en tu hogar?
+-   ¿Te ha pasado que una instalación mal hecha haya causado problemas luego? ¿Cómo lo resolviste?
+-   ¿Qué importancia le das a que un servicio eléctrico esté dentro de los parámetros legales o normativos?
+-   ¿Te interesaría usar una plataforma que conecte con proveedores verificados para servicios eléctricos en tu zona? ¿Por qué?
+-   ¿Qué funcionalidades crees que harían esa plataforma útil para ti en el día a día?
+
+**Preguntas complementarias:**
+-   ¿Qué sueles buscar en internet cuando tienes dudas sobre una falla eléctrica?
+-   ¿Cuánto confías en las recomendaciones de redes sociales o conocidos para encontrar técnicos?
+-   ¿En qué momentos específicos crees que te sería más útil tener acceso rápido a un proveedor certificado?
+-   ¿Te sentirías cómodo usando una plataforma para agendar mantenimientos eléctricos preventivos?
+
+**Segmento #2: Dueños de PYMES u oficinas:**
+
+**Preguntas principales:**
+-   ¿Qué tipo de instalaciones eléctricas utilizas actualmente en tu negocio u oficina?
+-   ¿Qué tan seguido te has enfrentado a fallas eléctricas en tus operaciones diarias?
+-   ¿Cómo manejas actualmente el mantenimiento eléctrico de tu empresa? ¿Lo haces tú o lo delegas?
+-   ¿Qué impacto tiene una falla eléctrica en tu productividad o en la atención al cliente?
+-   ¿Qué criterios tomas en cuenta al contratar a un proveedor eléctrico para tu negocio?
+-   ¿Has tenido malas experiencias con servicios técnicos eléctricos? ¿Qué aprendiste de esas situaciones?
+-   ¿Qué tan importante es para ti que los proveedores cumplan con normativas legales y ofrezcan garantía?
+-   ¿Te sentirías cómodo usando una plataforma que te conecte directamente con proveedores certificados?
+-   ¿Qué funcionalidades esperarías de esa plataforma para que realmente te ayude a ahorrar tiempo y dinero?
+-   ¿Crees que una herramienta así te daría una ventaja competitiva frente a otros negocios?
+
+**Preguntas complementarias:**
+-   ¿Qué sueles hacer cuando necesitas encontrar un componente eléctrico específico para tu empresa?
+-   ¿Qué herramientas digitales usas actualmente para gestionar el mantenimiento o las instalaciones eléctricas de tu negocio?
+-   ¿Dónde buscarías una solución que reduzca riesgos y mejore la eficiencia energética en tu negocio?
+-   ¿Te sentirías más confiado si pudieras ver opiniones, calificaciones y certificaciones de los proveedores antes de contratarlos?
+
+**Segmento #3: Proveedores de componentes o servicios eléctricos certificados:**
+
+**Preguntas principales:**
+-   ¿Cómo te sientes actualmente con la forma en que consigues clientes para tus servicios eléctricos?
+-   ¿Qué estrategias usas para dar a conocer tu trabajo y atraer nuevos clientes?
+-   ¿Qué dificultades enfrentas al competir con proveedores no certificados o informales?
+-   ¿Qué tan fácil es para ti comunicar la calidad y legalidad de tu trabajo a los potenciales clientes?
+-   ¿Cómo manejas la gestión de pedidos o solicitudes de trabajo actualmente?
+-   ¿Qué importancia tiene para ti pertenecer a una red de profesionales avalados o certificados?
+-   ¿Qué tanto te ayudaría una plataforma que te permita mostrar tu experiencia, certificaciones y opiniones de clientes?
+-   ¿Estarías dispuesto a pagar una suscripción mensual si eso te garantiza mayor visibilidad y más clientes? ¿Por qué?
+-   ¿Qué funcionalidades crees que te facilitarán la gestión comercial desde una app o plataforma?
+-   ¿Cómo crees que cambiaría tu negocio si pudieras digitalizar la forma en que conectas con clientes?
+
+
+**Preguntas complementarias:**
+-   ¿Dónde públicas actualmente tus servicios (Facebook, grupos, WhatsApp, boca a boca)?
+-   ¿Has probado plataformas para ofrecer tus servicios? ¿Cómo fue la experiencia?
+-   ¿Qué herramientas digitales usas (si usas alguna) para organizar tus trabajos y pedidos?
+-   ¿Qué tan dispuesto estarías a formar parte de una comunidad de proveedores certificados con estándares comunes?
+<hr>
+
+
+<hr>
+
 #### 2.2.2. Registro de entrevistas
+<hr>
+
+<hr>
+
 ### Segmento #1: Propietarios de hogares urbanos
 
 **Entrevista: Mari Vallejos**  
@@ -473,6 +547,7 @@ Está dispuesto a usar **ElectroLink** si ofrece proveedores certificados, rese�
 ---
 
 ### Segmento #3: Proveedores de componentes o servicios eléctricos certificados
+<hr>
 
 
 
@@ -751,9 +826,18 @@ Eduardo Gonzales | To-Be Scenario Mapping
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog
 
+<hr>
 
 ## Capítulo IV: Product Design
+<hr>
+
+<hr>
+
 ### 4.1. Style Guidelines
+<hr>
+
+<hr>
+
 #### 4.1.1. General Style Guidelines
 
 **Branding:**
@@ -793,7 +877,9 @@ Por otro lado, el gris cálido y el grafito profundo aportan equilibrio visual y
 | Celeste claro        | Hover, botones secundarios, íconos de ayuda       | `#B5D5F5`  |
 | Amarillo pastel      | Elementos destacados suaves, fondos de aviso      | `#FFE492`  |
 | Grafito profundo     | Texto principal, íconos oscuros                   | `#2E3A59`  |
+<hr>
 
+<hr>
 
 #### 4.1.2. Web Style Guidelines
 ## Uso del Patrón F en el Diseño Web
@@ -803,12 +889,19 @@ El objetivo del patrón F en un sitio web es reflejar la forma natural en la que
 Mejora la usabilidad al alinear la estructura con el comportamiento visual del usuario, facilitando la lectura rápida y efectiva. Se utiliza para mejorar la experiencia del usuario y destacar contenido relevante.
 
 <img src="https://i.imgur.com/Y0zFN3L.png"/>
+<hr>
+
+<hr>
 
 ### 4.2. Information Architecture
 
 La arquitectura de información que se implementará en ElectroLink está diseñada para facilitar una experiencia de navegación clara, eficiente y centrada en conectar usuarios con proveedores de servicios y componentes eléctricos. Desde el menú principal, los visitantes podrán acceder rápidamente a categorías clave como "Proveedores", "Servicios", "Asesoramiento", y "Mantenimientos preventivos", lo que les permitirá encontrar con facilidad las soluciones que se ajusten a sus necesidades técnicas o del hogar.
 La plataforma contará con un sistema de filtrado inteligente que permitirá a los usuarios buscar proveedores según ubicación, especialización (instalaciones, mantenimiento, venta de componentes), certificaciones legales y valoraciones de otros clientes. Además, ElectroLink ofrecerá un apartado de asesoría técnica, donde los usuarios podrán consultar artículos, guías rápidas y recomendaciones para la gestión segura de instalaciones eléctricas tanto en hogares como en negocios.
 Asimismo, cada proveedor tendrá un perfil verificado con información detallada sobre sus servicios, casos anteriores, contacto directo y una sección de opiniones. También se incluirá un sistema de solicitud rápida de cotización, permitiendo a los clientes establecer una comunicación ágil y efectiva. Con esta arquitectura, ElectroLink busca no solo ordenar y categorizar la información de manera accesible, sino también fomentar la confianza, la transparencia y una red de colaboración técnica eficiente, alineada con estándares de seguridad y legalidad en el rubro eléctrico.
+
+<hr>
+
+<hr>
 
 #### 4.2.1. Organization Systems
 
@@ -848,6 +941,10 @@ Para representar la estructura de los usuario se han realizado diagramas para la
 |                                             | Subscripción                     | Visualiza y gestiona el plan de suscripción y beneficios.                  |
 |                                             | Mi Perfil                        | Edita y actualiza la información personal y profesional.                   |
 
+<hr>
+
+<hr>
+
 #### 4.2.3. SEO Tags and Meta Tags
 
 **Landing Page Title:** ElectroLink - Tu conexión segura a la electricidad
@@ -867,6 +964,9 @@ Para representar la estructura de los usuario se han realizado diagramas para la
 **Meta Keywords:** seguridad, ahorro eléctrico, mantenimiento, asesoramiento.
 
 **Meta Author:** ElectroLink
+<hr>
+
+<hr>
 
 #### 4.2.4. Searching Systems
 
@@ -883,6 +983,9 @@ ElectroLink cuenta con un sistema de búsqueda avanzada que permite a los usuari
 | **Categoría de Producto Eléctrico** | Ayuda a encontrar productos específicos en el inventario (bombillas, disyuntores, medidores, enchufes, etc.).                                           |
 | **Historial de Consumo Energético** | Permite visualizar patrones de consumo eléctrico mensual o anual filtrando por fecha o dispositivos.                                                   |
 | **Planes de Suscripción**         | Filtra y compara distintos planes de suscripción según los beneficios ofrecidos (monitoreo, asesoría, prioridad en atención, etc.).                       |
+<hr>
+
+<hr>
 
 #### 4.2.5. Navigation Systems
 
@@ -890,7 +993,14 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 
 <img src="https://i.imgur.com/UnlLqHv.png"/>
 
+<hr>
+
+<hr>
+
 ### 4.3. Landing Page UI Design
+<hr>
+
+<hr>
 
 ### 4.3.1. Landing Page Wireframe.
 
@@ -901,14 +1011,22 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 <img src="https://i.imgur.com/dwrbsjw.png"/>
 
 <img src="https://i.imgur.com/MdqLiaz.png"/>
+<hr>
+<hr>
 
 #### 4.3.2. Landing Page Mock-up
 
 <img src="https://i.imgur.com/hXEACTz.png"/>
 
 <img src="https://i.imgur.com/gHvT3uz.png"/>
+<hr>
+
+<hr>
 
 ### 4.4. Web Applications UX/UI Design
+<hr>
+
+<hr>
 
 #### 4.4.1. Web Applications Wireframes
 
@@ -996,9 +1114,16 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 
 <img src="https://i.imgur.com/6Ah62mr.png"/>
 
+<hr>
+
+<hr>
+
 #### 4.4.4. Web Applications User Flow Diagrams
 
 <img src="https://i.imgur.com/28bjNjk.png"/>
+<hr>
+
+<hr>
 
 ### 4.5. Web Applications Prototyping
 
@@ -1008,6 +1133,7 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 <img src="https://i.imgur.com/rUlcOAc.png"/>
 
 [Ver diagrama en Figma](https://www.figma.com/proto/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-1288&t=i41XCGeFwgsrPY2X-1)
+<hr>
 
 ### 4.6. Domain-Driven Software Architecture
 #### 4.6.1. Software Architecture Context Diagrams

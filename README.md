@@ -564,6 +564,29 @@ A pesar de eso, está muy abierta a soluciones digitales si estas le ofrecen:
 
 #### 2.3.4. Empathy Mapping
 
+<hr>
+
+<img src="https://i.imgur.com/koIIfNX.jpeg"/>
+
+**Olivia Rodriguez**
+
+<hr>
+
+<hr>
+
+<img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
+
+**Eduardo Gonzales**
+
+<hr>
+
+<hr>
+
+<img src="https://i.imgur.com/RlO6qIK.jpeg"/>
+
+**Alejandro Lopez**
+
+<hr>
 
 
 ## 2.3.5. As-is Scenario Mapping

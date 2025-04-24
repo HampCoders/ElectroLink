@@ -708,6 +708,22 @@ Olivia es una usuaria cautelosa, exigente y preocupada por la seguridad y la cal
 
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
+Olivia Perez | To-Be Scenario Mapping
+
+<img src="https://i.imgur.com/fxj0F1w.jpeg"/>
+
+Alejandro Lopez | To-Be Scenario Mapping
+
+<img src="https://i.imgur.com/vfkqiDy.jpeg"/>
+
+Eduardo Gonzales | To-Be Scenario Mapping
+
+<img src="https://i.imgur.com/X2xKKWG.jpeg"/>
+
+<hr>
+
+<hr>
+
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
 ### 3.4. Product Backlog

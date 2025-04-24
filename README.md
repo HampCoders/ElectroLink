@@ -453,6 +453,21 @@ Mari muestra interés en una plataforma como **ElectroLink**, siempre que incluy
 
 ---
 
+**Entrevista Nª2: Eric Jusfral**
+- **Sexo:** Másculino
+- **Edad:** 21
+- **Link:** [Ver entrevista](https://youtu.be/d6RtwsTqsgQ)
+- **Inicia en:** 0:02
+- **Duración:** 6:43
+
+<img src="https://imgur.com/V74WtLU.png"/>
+
+**Resumen:**
+Eric Jusfral es un propietario de hogar urbano que experimenta frustración y preocupación cuando surge un problema eléctrico en casa, especialmente por no tener a quién acudir de forma segura y rápida. Suele buscar soluciones en internet o pedir recomendaciones, aunque desconfía de técnicos sin certificación. Ha tenido malas experiencias con instalaciones mal hechas, lo que lo hace más cuidadoso y exigente. No realiza mantenimientos preventivos con frecuencia, pero reconoce que debería hacerlo para evitar fallos futuros.
+Está interesado en usar una plataforma como ElectroLink, siempre que garantice técnicos certificados, calificaciones visibles y procesos transparentes. Le gustaría acceder fácilmente a soporte, comparar proveedores y registrar su consumo mensual para detectar excesos o posibles fallos. Para él, la seguridad, legalidad y facilidad de uso son claves al momento de contratar servicios eléctricos.
+
+
+
 ### Segmento #2: Dueños de PYMES u oficinas
 
 **Entrevista : Piero Tenorio**  

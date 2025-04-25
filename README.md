@@ -599,6 +599,66 @@ Considera muy importante pertenecer a una red de profesionales certificados, ya 
 Respecto a una posible plataforma digital, considera útil que incluya un perfil profesional con portafolio de trabajos, agendamiento de citas, gestión de pedidos, opiniones de clientes, posibilidad de cobrar por la misma app, notificaciones y búsqueda de servicios por zona. Cree que digitalizar su forma de conectar con clientes cambiaría totalmente su negocio, dándole más visibilidad, alcance y una imagen profesional.
 
 #### 2.2.3. Análisis de entrevistas
+## 2.2.3. Análisis de entrevistas
+
+### Mari Vallejos  
+**Resumen:**  
+Mari es ama de casa y pasa la mayor parte del tiempo en el hogar, por lo que le afecta directamente cualquier problema eléctrico. Siente ansiedad ante fallas eléctricas porque no tiene conocimientos técnicos y depende de redes sociales o conocidos para encontrar ayuda. No toma medidas preventivas y prioriza la rapidez, puntualidad y compromiso. Le interesa una plataforma como **ElectroLink** con filtros por experiencia, costos y disponibilidad, y valora la posibilidad de programar mantenimientos.
+
+**Insight clave:**  
+Existe una necesidad clara de confianza, rapidez y facilidad en el acceso a servicios eléctricos confiables y certificados.
+
+---
+
+### Piero Tenorio  
+**Resumen:**  
+Piero dirige una empresa con varias sucursales que dependen de sistemas eléctricos para su funcionamiento diario (computadoras, escáneres, cámaras). Aunque no enfrenta fallas frecuentes, reconoce que cuando suceden afectan directamente las ventas y la productividad. Actualmente no tiene un plan de mantenimiento preventivo estructurado. Ha tenido referencias negativas de técnicos informales y valora mucho que los servicios sean confiables, con respaldo legal y buenas calificaciones. Le interesa usar una plataforma como **ElectroLink** para encontrar proveedores certificados, gestionar consumos por sucursal y prevenir interrupciones.
+
+**Insight clave:**  
+En el entorno empresarial, la continuidad operativa depende de la estabilidad eléctrica. Existe una fuerte necesidad de monitoreo, prevención y proveedores confiables, lo que hace que una solución digital como ElectroLink sea muy atractiva.
+
+---
+### Brian Cerna 
+**Resumen:**  
+Brian es dueño de una oficina que opera con instalaciones eléctricas trifásicas debido a la alta demanda energética de sus equipos. Si bien las fallas eléctricas no son frecuentes, reconoce que tienen un gran impacto en la productividad y atención al cliente. Contrata técnicos externos, pero enfrenta demoras en la disponibilidad. Valora profundamente la certificación, el cumplimiento normativo y la capacidad de respuesta rápida de los proveedores. Ha tenido malas experiencias con técnicos informales, lo que reforzó su preferencia por profesionales calificados. Ve con buenos ojos una plataforma que permita encontrar proveedores certificados de forma rápida y filtrada, lo cual le ayudaría a reducir tiempos, mejorar el servicio y operar con mayor seguridad.
+
+**Insight clave:**  
+Los propietarios de negocios con alta demanda energética priorizan la confiabilidad y profesionalismo de los servicios eléctricos. Existe una clara necesidad de soluciones digitales que les permitan acceder ágilmente a técnicos certificados, con filtros de disponibilidad y ubicación, lo que representa una oportunidad para mejorar la continuidad operativa y la experiencia del cliente.
+
+
+---
+
+### Jorge Espinoza  
+**Resumen:**  
+El entrevistado es un técnico certificado que enfrenta dificultades para atraer clientes debido a la competencia informal y la poca valorización de la certificación por parte del público. Utiliza principalmente redes sociales y el boca a boca como estrategias de promoción, aunque reconoce la falta de una estrategia profesional. Gestiona sus pedidos de forma manual y considera importante pertenecer a una red de profesionales certificados. Está abierto a pagar una suscripción si esta le garantiza mayor visibilidad y clientes, y valora positivamente una plataforma que le permita digitalizar y profesionalizar su negocio.
+
+**Insight clave:**  
+Los técnicos certificados buscan respaldo, visibilidad y herramientas para competir en un mercado dominado por la informalidad. Valoran la pertenencia a una red profesional que destaque su legalidad y capacitación, y muestran disposición a adoptar soluciones digitales que les permitan mejorar su gestión comercial y alcanzar más clientes confiables.
+
+---
+
+## Análisis de Hallazgos
+
+<img src="https://i.imgur.com/2ZhWXIG.png"/>
+
+Los entrevistados resaltan como uno de los principales puntos de fricción la dificultad para identificar proveedores eléctricos realmente confiables. La presencia de técnicos informales sin certificaciones claras genera desconfianza. Este hallazgo valida la necesidad de que ElectroLink destaque las certificaciones legales de los proveedores como un diferenciador clave dentro de la plataforma.
+
+<img src="https://i.imgur.com/hItEKBn.png"/>
+
+La posibilidad de llevar un registro digital de los servicios eléctricos realizados (por ejemplo, mantenimientos o reparaciones) es vista como una funcionalidad útil, especialmente para usuarios que hoy lo hacen de forma manual. Esto refuerza la importancia de integrar funciones de gestión documental dentro de ElectroLink, facilitando el seguimiento y la trazabilidad de los trabajos realizados.
+
+<img src="https://i.imgur.com/M41WK4G.png"/>
+ 
+Consultas relacionadas con la recepción de recordatorios permiten identificar una oportunidad para fomentar el mantenimiento eléctrico preventivo. La mayoría de los usuarios no tiene hábitos estructurados en este aspecto. Una funcionalidad de alertas o notificaciones podría ser clave para ayudar a prevenir fallas eléctricas y extender la vida útil de las instalaciones.
+
+<img src="https://i.imgur.com/AeSaVNR.png"/>
+
+Tanto en el entorno doméstico como empresarial, los entrevistados valoran la transparencia. Acceder a opiniones reales de otros usuarios es considerado un elemento crucial para decidir a qué proveedor contratar. Por ello, se valida la necesidad de incluir una sección de **comentarios y calificaciones** dentro de la app para fomentar la confianza y facilitar la toma de decisiones.
+
+<img src="https://i.imgur.com/vX729eS.png"/>
+
+Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
+
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
 

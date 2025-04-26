@@ -928,6 +928,115 @@ Olivia es una usuaria cautelosa, exigente y preocupada por la seguridad y la cal
 
 ## 2.4. Ubiquitous Language
 
+ Glosario del Dominio del Negocio - ElectroLink
+Este glosario contiene términos clave relacionados al dominio del proyecto ElectroLink. Cada término está en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones están redactadas en español de forma clara y sin ambigüedades, para facilitar la comunicación entre todos los miembros del equipo y stakeholders.
+
+1.  Stakeholders & Roles
+- Homeowner (Propietario de vivienda)
+   Persona que reside en un hogar y busca soluciones eléctricas confiables y certificadas para prevenir o resolver fallos.
+
+
+- Business Owner (Dueño de empresa)
+   Responsable de una oficina o PYME que necesita mantener el sistema eléctrico eficiente, operativo y dentro del marco legal.
+
+
+- Service Provider (Proveedor de servicios)
+   Técnico profesional con certificación que ofrece servicios de instalación, reparación o mantenimiento eléctrico.
+
+
+- Component Supplier (Proveedor de componentes)
+   Empresa o persona encargada de la venta de dispositivos, piezas o insumos eléctricos certificados.
+
+
+- Platform Administrator (Administrador de plataforma)
+   Miembro del equipo responsable de validar, gestionar y supervisar las actividades y registros dentro de ElectroLink.
+
+
+
+2. Servicios y Mantenimiento
+- Preventive Maintenance (Mantenimiento preventivo)
+  Servicio programado que permite identificar y corregir posibles fallas eléctricas antes de que ocurran.
+
+
+- Emergency Service (Servicio de emergencia)
+   Atención inmediata para resolver fallos eléctricos inesperados que comprometen la seguridad o funcionalidad.
+
+
+- Electric Assessment (Evaluación eléctrica)
+   Diagnóstico que realiza un proveedor para determinar el estado de una instalación eléctrica.
+
+
+- Installation Service (Servicio de instalación)
+   Proceso de conexión o implementación de componentes eléctricos en viviendas o negocios, cumpliendo estándares técnicos.
+
+
+- Electrical Upgrade (Actualización eléctrica)
+   Mejora o sustitución de partes de una instalación para adaptarla a nuevas necesidades o normas de seguridad.
+
+
+3. Funcionalidades de la Plataforma
+- Service Request (Solicitud de servicio)
+   Acción del usuario para iniciar una contratación de servicios desde la plataforma.
+
+
+- Matchmaking (Emparejamiento)
+   Proceso automatizado para conectar a un usuario con el proveedor más adecuado según filtros como ubicación, calificación y disponibilidad.
+
+
+- Real-Time Tracking (Seguimiento en tiempo real)
+   Visualización del estado y avance de un servicio solicitado a través de la plataforma.
+
+
+- Verified Profile (Perfil verificado)
+   Estado de un proveedor que ha sido validado por la plataforma mediante documentación y procesos de control.
+
+
+- Rating and Review (Calificación y reseña)
+   Sistema de puntuación y comentarios que permite evaluar la experiencia del usuario con un proveedor.
+
+
+- Subscription Plan (Plan de suscripción)
+   Modalidad de pago por parte del proveedor para acceder a beneficios dentro de la plataforma (visibilidad, herramientas, clientes).
+
+
+- Booking History (Historial de contrataciones)
+   Registro de todos los servicios contratados, realizados y evaluados por un usuario o proveedor.
+
+
+4. Seguridad y Cumplimiento
+- Certified Technician (Técnico certificado)
+   Profesional acreditado por una entidad oficial para realizar trabajos eléctricos conforme a la ley.
+
+
+- Legal Compliance (Cumplimiento legal)
+   Condición de operar dentro de los estándares establecidos por entidades regulatorias del sector eléctrico.
+
+
+- Risk Prevention (Prevención de riesgos)
+   Estrategia para evitar accidentes, daños o fallos eléctricos mediante prácticas seguras y mantenimiento adecuado.
+
+
+- Safety Assurance (Garantía de seguridad)
+   Compromiso de que los servicios ofrecidos cumplen con medidas de protección para personas, instalaciones y equipos.
+
+
+5. Otros conceptos del dominio
+- Electric Incident (Incidente eléctrico)
+   Evento disruptivo como sobrecarga, cortocircuito o fallo en la instalación que requiere intervención técnica.
+
+
+- Energy Optimization (Optimización energética)
+   Prácticas que buscan mejorar el uso de energía eléctrica, reduciendo costos y desperdicios.
+
+
+- Informal Market (Mercado informal)
+   Entorno de prestación de servicios sin regulación, licencias ni garantías de seguridad.
+
+
+- Digital Presence (Presencia digital)
+   Visibilidad que tiene un proveedor dentro de la plataforma, influyendo en su reputación y oportunidades de negocio.
+
+
 ## Capítulo III: Requirements Specification
 ### 3.1. To-Be Scenario Mapping
 Olivia Perez | To-Be Scenario Mapping
@@ -949,7 +1058,51 @@ Eduardo Gonzales | To-Be Scenario Mapping
 ### 3.2. User Stories
 ### 3.3. Impact Mapping
 
-<hr>
+<img src="https://i.imgur.com/mANqhxE.jpeg"/>
+
+Este impact mapping refleja a un profesional independiente (freelancer) que enfrenta un reto muy típico en servicios profesionales:
+necesita construir una reputación sólida para atraer más clientes.
+
+**Situación profesional:**
+Alejandro probablemente está en una etapa donde ya tiene cierta experiencia o trabajos previos (porque habla de “recopilar testimonios” y “crear un portafolio”), pero aún no tiene suficiente presencia o reputación consolidada como para que los clientes lleguen solos. Está en la transición de "hacer trabajos" a "convertirse en una marca confiable".
+
+**Estrategia de crecimiento:**
+No está apostando a un solo camino, sino a dos estrategias complementarias:
+
+- Validación social: Usar testimonios, portafolios y reseñas para que los nuevos clientes confíen en él rápidamente.
+
+- Búsqueda activa: No esperar a que lleguen los clientes, sino salir a foros y plataformas donde se buscan proveedores.
+
+<img src="https://i.imgur.com/aanVKfD.jpeg"/>
+
+Este mapa de impacto refleja un escenario empresarial donde las fallas eléctricas afectan operaciones críticas.
+Se percibe un entorno donde el tiempo es dinero:
+
+Cada minuto de inactividad impacta en productividad o ventas.
+
+Eduardo (el actor) tiene responsabilidad operativa, por lo que necesita soluciones rápidas, confiables y eficientes.
+
+No están simplemente contratando cualquier servicio eléctrico, sino profesionalizando el proceso:
+
+Buscan automatizar, agilizar y minimizar riesgos.
+
+Quieren sistemas que ahorren tiempo en cotizaciones y selección de proveedores (ej: wizard, recomendaciones, filtros).
+
+Hay un énfasis en confianza y calidad del servicio, no solo en precio.
+
+
+<img src="https://i.imgur.com/1vPgwDR.jpeg"/>
+
+Este nuevo diagrama es otro Impact Mapping, pero ahora enfocado en hogares o usuarios residenciales, no empresas.
+La preocupación aquí no es el tiempo de inactividad, sino el gasto energético y económico.
+
+Problema planteado:
+
+- "Reducir el consumo energético mensual."
+
+Actor involucrado:
+
+- "Olivia Perez", probablemente una usuaria doméstica preocupada por su gasto de luz.
 
 ### 3.4. Product Backlog
 

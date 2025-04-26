@@ -1892,9 +1892,10 @@ Para la landing page, se utilizará Netlify para el despliegue de la página.
 <img  src="https://i.imgur.com/uEzhkud.png"/>
 
 
-Para nuestro proyecto se crearon **1 repositorio**, el cuál fue:
+Para nuestro proyecto se crearon **2 repositorios**, los cuáles fue:
 
-- **ElectroLink**: Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+- **ElectroLink**: Este repositorio se usa para realizar el informe del proyecto de manera continua.
+- **Landing-Page**: Este reositorio se usa para realizar el despliegue de la Landing Page.
 
 <hr>
 
@@ -1921,9 +1922,20 @@ En el caso de la landing page y su Sprint, el equipo encargado su diseño y desp
 - Continuar con la validación frecuente de los avances con usuarios reales, especialmente antes de cada iteración, para mantener la alineación entre desarrollo y necesidades reales.
 - Aprovechar las fortalezas individuales del equipo para asignar responsabilidades específicas que optimicen los tiempos de desarrollo.
 - Documentar de manera más sistemática los aprendizajes y desafíos encontrados en cada sprint, para mejorar continuamente el proceso.
-
-### Bibliografía
+<hr>
 
 <hr>
 
+### Bibliografía
+- Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A. (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales*. *Universia Business Review*, (35), 114-123. [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)
+
+- Mohammad-Al-dweeri, R. (2011). *La calidad en los servicios electrónicos como estrategia competitiva: Modelo de análisis de sus componentes y efectos sobre la satisfacción y la lealtad*. [https://libros.metabiblioteca.org/handle/001/291](https://libros.metabiblioteca.org/handle/001/291)
+  
+- Ramos, Á. F. V., & Sánchez-Franco, M. J. (2004). *La calidad de servicio electrónico: un análisis de los efectos moderadores del comportamiento de uso de la web*. *Cuadernos de Economía y Dirección de la Empresa*, (21), 121-125. [https://dialnet.unirioja.es/descarga/articulo/1143462.pdf](https://dialnet.unirioja.es/descarga/articulo/1143462.pdf)
+<hr>
+<hr>
+
 ### Anexos
+- Enlace de Landing Page : 
+[https://hampcoders.github.io/Landing-Page//](https://hampcoders.github.io/Landing-Page/)
+<hr>

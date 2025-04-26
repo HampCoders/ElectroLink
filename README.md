@@ -1756,8 +1756,29 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 <hr>
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
+En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
+Enlace de la Landing Page: https://electrolinklp.netlify.app/
 
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<img src="" />
+
+<img src="" />
+
+<img src="" />
+
+<img src="" />
+
+<img src="" />
+
+<img src="" />
+<hr>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint.
+
+<hr>
+
+<hr>
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -1791,6 +1812,14 @@ Para nuestro proyecto se crearon **2 repositorios**, los cuales son:
 - **Landing-Page**: Este repositorio se usa para codificar y desplegar la landing page del proyecto.
 
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
+A continuación, se muestran las capturas de los insights del repositorio.
+<img  src="" />
+
+En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el encargado de su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
+
+<img  src="" />
+<img  src="" />
+<img  src="" />
 
 <hr>
 

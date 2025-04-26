@@ -1396,8 +1396,20 @@ Subscription Billing Bounded Context
 | Message | \-isRead | verificación de que ha sido leído | boolean |
 | Message |  \-attachments | adjuntos del mensaje |  List\<String\> |
 <hr>
+
+<hr>
+
 ### 4.8. Database Design
+<hr>
+
+<hr>
+
 #### 4.8.1. Database Diagram
+
+<hr>
+
+<img src="https://i.imgur.com/z040ytB.png"/>
+<hr>
 
 <hr>
 

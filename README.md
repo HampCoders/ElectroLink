@@ -1830,8 +1830,8 @@ Para la landing page, se utilizará Netlify para el despliegue de la página.
 <img  src="https://i.imgur.com/7qutxbP.png"/>
 <img  src="https://i.imgur.com/JHy1GUn.png"/>
 <img  src="https://i.imgur.com/JHy1GUn.png"/>
-<img  src="https://i.imgur.com/ivg9PgP.png"/>
-<img  src="https://i.imgur.com/fomzdmK.png"/>
+<img  src="https://i.imgur.com/nEIxoGO.png"/>
+<img  src="https://i.imgur.com/uEzhkud.png"/>
 
 
 Para nuestro proyecto se crearon **1 repositorio**, el cuál fue:

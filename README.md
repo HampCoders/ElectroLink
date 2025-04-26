@@ -1563,6 +1563,35 @@ Repositorio: [Ver Repositorio](https://github.com/HampCoders/ElectroLink)
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+## Design
+
+Para realizar el diseño de los wireframes y mockups de la **Landing Page** para este Sprint, se hizo uso de la plataforma **Figma**.
+Para utilizar la plataforma:
+
+1. Se accede a través de la página oficial de Figma: [Figma Login](https://www.figma.com/login)
+    <img  src="https://i.imgur.com/GzXvBTl.png"/>
+2. Luego, se crea un **Draft** que nos servirá como base para el proyecto colaborativo.
+   <img  src="https://i.imgur.com/S0yChMr.png"/>
+---
+
+## Deployment
+
+Para la landing page, se utilizará **GitHub** y **GitHub Pages** para la creación del repositorio y el despliegue de la página.
+<img  src="https://i.imgur.com/TvjlWO3.png"/>
+<img  src="https://i.imgur.com/R6p1HPD.png"/>
+<img  src="https://i.imgur.com/VSvMntJ.png"/>
+<img  src="https://i.imgur.com/7qutxbP.png"/>
+<img  src="https://i.imgur.com/JHy1GUn.png"/>
+<img  src="https://i.imgur.com/JHy1GUn.png"/>
+<img  src="https://i.imgur.com/ivg9PgP.png"/>
+<img  src="https://i.imgur.com/fomzdmK.png"/>
+
+
+Para nuestro proyecto se crearon **2 repositorios**, los cuales son:
+
+- **README**: Este repositorio se usa para realizar el informe del proyecto de manera continua.
+- **Landing-Page**: Este repositorio se usa para codificar y desplegar la landing page del proyecto.
+
 ##### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <hr>

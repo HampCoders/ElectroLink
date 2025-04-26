@@ -1525,7 +1525,7 @@ Subscription Billing Bounded Context
 |------------|---------------------------------------------------------|-------------------------------------------------------------------|
 | GitHub     | Gestión de la documentación en función a repositorios y organizaciones | https://github.com          |
 | Markdown   | Formato base para la presentación y documentación del proyecto | https://markdown.es/                     |
-<br>
+<hr>
 
 ### 5.1.2. Source Code Management
 
@@ -1540,4 +1540,39 @@ Además, contamos con un repositorio separado que organiza nuestras tareas en ep
 Elegimos GitHub como nuestra plataforma de colaboración para facilitar el seguimiento del progreso, la gestión de cambios y la visualización de actualizaciones. Las actualizaciones al código se reflejan automáticamente en `gh-pages`, permitiendo que los interesados vean los avances en tiempo real.
 
 Repositorio: [Ver Repositorio](https://github.com/HampCoders/ElectroLink)
-<br>
+<hr>
+#### 5.1.3. Source Code Style Guide & Conventions
+
+#### 5.1.4. Software Deployment Configuration
+
+### 5.2. Landing Page, Services & Applications Implementation
+
+#### 5.2.1. Sprint 1
+
+##### 5.2.1.1. Sprint Planning 1
+
+##### 5.2.1.2. Aspect Leaders and Collaborators
+
+##### 5.2.1.3. Sprint Backlog 1
+
+##### 5.2.1.4. Development Evidence for Sprint Review
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<hr>
+
+## Conclusiones
+
+<hr>
+
+## Bibliografía
+
+<hr>
+
+## Anexos

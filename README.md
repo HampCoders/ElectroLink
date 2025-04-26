@@ -1008,13 +1008,23 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 <img src="https://i.imgur.com/rUlcOAc.png"/>
 
 [Ver diagrama en Figma](https://www.figma.com/proto/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-1288&t=i41XCGeFwgsrPY2X-1)
+<hr>
 
 ### 4.6. Domain-Driven Software Architecture
+<hr>
 #### 4.6.1. Software Architecture Context Diagrams
 #### 4.6.2. Software Architecture Container Diagrams
 #### 4.6.3. Software Architecture Components Diagrams
+<hr>
+
 ### 4.7. Software Object-Oriented Design
+<hr>
+<hr>
+
 #### 4.7.1. Class Diagrams
+
+<img src="https://i.imgur.com/U7exloi.jpeg"/>
+<hr>
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram

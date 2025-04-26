@@ -615,6 +615,25 @@ Considera muy importante pertenecer a una red de profesionales certificados, ya 
 
 Respecto a una posible plataforma digital, considera útil que incluya un perfil profesional con portafolio de trabajos, agendamiento de citas, gestión de pedidos, opiniones de clientes, posibilidad de cobrar por la misma app, notificaciones y búsqueda de servicios por zona. Cree que digitalizar su forma de conectar con clientes cambiaría totalmente su negocio, dándole más visibilidad, alcance y una imagen profesional.
 
+**Entrevista : Marcos Contreras**  
+- **Sexo:** Masculino  
+- **Edad:** 24 
+- **Link:** [Ver entrevista](https://www.youtube.com/watch?v=K8hkUh16Gew)  
+- **Inicia en:** 0:02  
+- **Duración:** 7:59
+<img src="https://i.imgur.com/85KXK9D.png"/>
+
+**Resumen:**  
+Marco Contreras es un ingeniero eléctrico egresado que se dedica a proveer componentes y servicios eléctricos para casas y oficinas. En la entrevista, Marco comenta que su actividad actual depende en gran parte del "boca a boca" y publicaciones en redes sociales como Facebook y grupos de WhatsApp, lo cual hace que la captación de clientes sea inestable. Además, enfrenta dificultades para competir contra proveedores informales que ofrecen precios más bajos sin cumplir con normas ni certificaciones.
+
+Marco utiliza tarjetas personales, un pequeño portafolio de fotos, y ocasionalmente herramientas digitales como el calendario del celular y Google Keep para organizarse. Sin embargo, reconoce la necesidad de un respaldo más formal que certifique su trabajo ante los clientes.
+
+Ve con buenos ojos la idea de una plataforma que permita mostrar su experiencia, certificaciones y opiniones de clientes, y considera que le ayudaría a diferenciarse de los informales y a acceder a trabajos más grandes. Estaría dispuesto a pagar una suscripción mensual si esta le garantizara mayor visibilidad y generación de clientes, siempre que el costo fuera razonable.
+
+Entre las funcionalidades que le interesarían en una plataforma, menciona: agendas de trabajo, cotizaciones automáticas, sistema de calificaciones, espacio para fotos de trabajos, validación de certificados, botón de contacto directo y recordatorios. Finalmente, se muestra muy dispuesto a formar parte de una comunidad de proveedores certificados para elevar los estándares del sector.
+
+
+
 #### 2.2.3. Análisis de entrevistas
 ## 2.2.3. Análisis de entrevistas
 
@@ -651,6 +670,15 @@ El entrevistado es un técnico certificado que enfrenta dificultades para atraer
 
 **Insight clave:**  
 Los técnicos certificados buscan respaldo, visibilidad y herramientas para competir en un mercado dominado por la informalidad. Valoran la pertenencia a una red profesional que destaque su legalidad y capacitación, y muestran disposición a adoptar soluciones digitales que les permitan mejorar su gestión comercial y alcanzar más clientes confiables.
+
+---
+
+### Marco Contreras  
+**Resumen:**  
+El entrevistado es un ingeniero eléctrico certificado que combina la venta de componentes con servicios eléctricos en casas y oficinas. Enfrenta dificultades para captar clientes debido a la alta competencia informal y la falta de valoración de las certificaciones por parte del público. Su captación de clientes se basa principalmente en redes sociales (Facebook y WhatsApp) y el boca a boca, sin una estrategia digital estructurada. Gestiona pedidos de forma manual usando herramientas básicas como el calendario del celular. Está interesado en formar parte de una red de profesionales certificados y en una plataforma que le permita mostrar su experiencia, certificaciones y gestionar su trabajo de manera más profesional. Está dispuesto a pagar una suscripción si ofrece resultados claros en visibilidad y generación de clientes.
+
+**Insight clave:**  
+Profesionales certificados como Marco buscan plataformas que les otorguen respaldo formal, visibilidad y herramientas de gestión eficientes para diferenciarse en un mercado saturado por la informalidad. Valoran soluciones digitales que fortalezcan su imagen profesional, mejoren su organización y les permitan crecer de manera sostenible.
 
 ---
 

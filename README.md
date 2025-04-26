@@ -1723,15 +1723,15 @@ Repositorio: [Ver Repositorio](https://github.com/HampCoders/ElectroLink)
 | **User Story** | | **Work-Item/task** | | | | | |
 | **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
 | US-41 | Visualziación de una Seccion Principal | T01 | Crear una sección Principal o Hero | Crear una sección donde se muestren un breve resumen de nuestra idea. | 0.5 | Matias Aliaga | Done |
-| US-38 | Visualización de Testimonios | T01 | Crear una sección de Testimonios | Crear una sección donde se muestren los testimonios de nuestros clientes. | 0.5 | Matias Aliaga | Done |
-| US-40 | Adaptabilidad a Diferentes Dispositivos | T01 | Desarrollar una landing page responsiva| Crear una landing page que se adapte a las pantallas de diversos dispositivos. | 0.5 | Matias Aliaga | Done |
-| US-42 | Visualización de Características y Beneficios | T01 | Crear una sección de Caracteristicas y Beneficios | Crear una sección donde se muestren las caracterisitcas y beneficios de nuestra plataforma. | 1 | Matias Aliaga | Done |
+| US-38 | Visualización de Testimonios | T01 | Crear una sección de Testimonios | Crear una sección donde se muestren los testimonios de nuestros clientes. | 0.5 | Ricardo Del Aguila | Done |
+| US-40 | Adaptabilidad a Diferentes Dispositivos | T01 | Desarrollar una landing page responsiva| Crear una landing page que se adapte a las pantallas de diversos dispositivos. | 0.5 | Ricardo Del Aguila | Done |
+| US-42 | Visualización de Características y Beneficios | T01 | Crear una sección de Caracteristicas y Beneficios | Crear una sección donde se muestren las caracterisitcas y beneficios de nuestra plataforma. | 1 | Eric Olivera | Done |
 | US-43 | Navegación sin errores | T01 | Desarrollar Pagina web | Crear una pagina web que permita a posibles usuarios navegar sin problemas de manera intuitiva | 0.5 | Matias Aliaga | Done |
-| US-44 | Navegación mediante Encabezado | T01 | Agregar Header | Crear un menu encabezado que permita navegar de manera intuitiva | 0.5 | Matias Aliaga | Done | 0.5 | Matias Aliaga | Done |
-| US-45 | Visualización del Pie de pagina | T01 | Agregar Footer | Crear un pie de pagina footer que contenga acceso directo a las diferentes secciones | 1 | Matias Aliaga | Done |
-| US-46 | Ver Información del Startup | T01 | Ver Información del Startup | Agregar una sección para ver información del equipo desarollador | 0.5 | Matias Aliaga | Done |
-| US-47| Conocer la Misión de la Startup | T01 | Agregar Mision |  Agregar una sección para conocer la mision de la start up | 1 | Matias Aliaga | Done |
-| US-48 | Conocer la Vision de la Startup | T01 | Agregar Vision | Agregar una sección para conocer la vision de la start up | 1 | Matias Aliaga | Done |
+| US-44 | Navegación mediante Encabezado | T01 | Agregar Header | Crear un menu encabezado que permita navegar de manera intuitiva | 0.5 | Matias Aliaga | Done | 0.5 | Ivo Machado | Done |
+| US-45 | Visualización del Pie de pagina | T01 | Agregar Footer | Crear un pie de pagina footer que contenga acceso directo a las diferentes secciones | 1 | Ivo Machado | Done |
+| US-46 | Ver Información del Startup | T01 | Ver Información del Startup | Agregar una sección para ver información del equipo desarollador | 0.5 | Eric Olivera | Done |
+| US-47 | Conocer la Misión de la Startup | T01 | Agregar Mision |  Agregar una sección para conocer la mision de la start up | 1 | Italo Sanchez | Done |
+| US-48 | Conocer la Vision de la Startup | T01 | Agregar Vision | Agregar una sección para conocer la vision de la start up | 1 | Italo Sanchez | Done |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page
@@ -1796,14 +1796,14 @@ Para utilizar la plataforma:
 ## Deployment
 
 Para la landing page, se utilizará **GitHub** y **GitHub Pages** para la creación del repositorio y el despliegue de la página.
-<img  src="https://i.imgur.com/TvjlWO3.png"/>
-<img  src="https://i.imgur.com/R6p1HPD.png"/>
-<img  src="https://i.imgur.com/VSvMntJ.png"/>
-<img  src="https://i.imgur.com/7qutxbP.png"/>
-<img  src="https://i.imgur.com/JHy1GUn.png"/>
-<img  src="https://i.imgur.com/JHy1GUn.png"/>
-<img  src="https://i.imgur.com/ivg9PgP.png"/>
-<img  src="https://i.imgur.com/fomzdmK.png"/>
+<img  src=""/>
+<img  src=""/>
+<img  src=""/>
+<img  src=""/>
+<img  src=""/>
+<img  src=""/>
+<img  src=""/>
+<img  src=""/>
 
 
 Para nuestro proyecto se crearon **2 repositorios**, los cuales son:

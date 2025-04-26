@@ -1787,17 +1787,17 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 Enlace de la Landing Page: https://electrolinklp.netlify.app/
 
-<img src="" />
+<img src="https://imgur.com/49OkXbc.png" />
 
-<img src="" />
+<img src="https://imgur.com/BFhI8Dc.png" />
 
-<img src="" />
+<img src="https://imgur.com/rJPW3H5.png" />
 
-<img src="" />
+<img src="https://imgur.com/zbMWRS0.png" />
 
-<img src="" />
+<img src="https://imgur.com/GVOlVpZ.png" />
 
-<img src="" />
+<img src="https://imgur.com/c5HCnn9.png" />
 <hr>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
@@ -1808,9 +1808,9 @@ Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer
 
 <hr>
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-- Design
+## Design
 
 Para realizar el diseño de los wireframes y mockups de la **Landing Page** para este Sprint, se hizo uso de la plataforma **Figma**.
 Para utilizar la plataforma:
@@ -1821,33 +1821,32 @@ Para utilizar la plataforma:
    <img  src="https://i.imgur.com/S0yChMr.png"/>
 ---
 
-### Deployment
+## Deployment
 
-Para la landing page, se utilizará **GitHub** y **GitHub Pages** para la creación del repositorio y el despliegue de la página.
-<img  src=""/>
-<img  src=""/>
-<img  src=""/>
-<img  src=""/>
-<img  src=""/>
-<img  src=""/>
-<img  src=""/>
-<img  src=""/>
+Para la landing page, se utilizará Netlify para el despliegue de la página.
+<img  src="https://i.imgur.com/TvjlWO3.png"/>
+<img  src="https://i.imgur.com/R6p1HPD.png"/>
+<img  src="https://i.imgur.com/VSvMntJ.png"/>
+<img  src="https://i.imgur.com/7qutxbP.png"/>
+<img  src="https://i.imgur.com/JHy1GUn.png"/>
+<img  src="https://i.imgur.com/JHy1GUn.png"/>
+<img  src="https://i.imgur.com/ivg9PgP.png"/>
+<img  src="https://i.imgur.com/fomzdmK.png"/>
 
 
-Para nuestro proyecto se crearon **2 repositorios**, los cuales son:
+Para nuestro proyecto se crearon **1 repositorio**, el cuál fue:
 
-- **README**: Este repositorio se usa para realizar el informe del proyecto de manera continua.
-- **Landing-Page**: Este repositorio se usa para codificar y desplegar la landing page del proyecto.
+- **ElectroLink**: Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+
+<hr>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran las capturas de los insights del repositorio.
-<img  src="" />
+<img  src="https://imgur.com/SJrVfEl.png" />
 
-En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el encargado de su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
+En el caso de la landing page y su Sprint, el equipo encargado su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
 
-<img  src="" />
-<img  src="" />
-<img  src="" />
+<img  src="https://imgur.com/hioVjak.png" />
 
 <hr>
 

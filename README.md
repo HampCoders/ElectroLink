@@ -1084,6 +1084,23 @@ Eduardo Gonzales | To-Be Scenario Mapping
 <hr>
 
 ### 3.2. User Stories
+
+Epicas
+
+| ID | Título | Descripción de la Épica |
+| :---- | :---- | :---- |
+| EP-01 | Gestión de Acceso de Usuarios | Como usuario, quiero un sistema completo de acceso para registrarse, autenticarme y gestionar mistar credenciales de manera segura según su perfil específico |
+| EP-02 | Experiencia de Usuario en Procesos de Autenticación | Como usuario, quiero tener una experiencia clara y asistida durante los procesos de registro y autenticación para completarlos con éxito y sin frustraciones. |
+| EP-03 | Personalización y Seguridad de la Cuenta | Como usuario, quiero tener control sobre la seguridad y la configuración de mi cuenta para proteger mi información y adaptarla a mis necesidades específicas. |
+| EP-04 | Contratación y Seguimiento de Servicios Eléctricos | Como propietario o PYME, quiero contratar servicios paso a paso y darles seguimiento, para resolver mis problemas eléctricos de manera estructurada y segura. |
+| EP-05 | Programación y Gestión de Servicios Preventivos | Como propietario o PYME, quiero programar mantenimientos preventivos y revisar mi historial de servicios, para garantizar un sistema eléctrico seguro y funcional. |
+| EP-06 | Gestión Operativa de los Proveedores | Como proveedor, quiero administrar mi agenda, servicios y pagos, para tener control sobre mis operaciones y oportunidades de negocio. |
+| EP-07 | Funcionalidades de Confianza y Transparencia en el Ecosistema | Como usuario, quiero interactuar con un entorno confiable, transparente y claro, para sentirme seguro al contratar servicios, comparar opciones y tomar decisiones informadas. |
+
+# 
+
+<hr>
+
 ### 3.3. Impact Mapping
 
 <img src="https://i.imgur.com/mANqhxE.jpeg"/>

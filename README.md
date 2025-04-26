@@ -1225,8 +1225,16 @@ Subscription Billing Bounded Context
 
 <hr>
 
+<hr>
+
 ### 4.7. Software Object-Oriented Design
+<hr>
+<hr>
+
 #### 4.7.1. Class Diagrams
+
+<img src="https://i.imgur.com/U7exloi.jpeg"/>
+<hr>
 #### 4.7.2. Class Dictionary
 ### 4.8. Database Design
 #### 4.8.1. Database Diagram

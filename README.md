@@ -1465,5 +1465,5 @@ Además, contamos con un repositorio separado que organiza nuestras tareas en ep
 
 Elegimos GitHub como nuestra plataforma de colaboración para facilitar el seguimiento del progreso, la gestión de cambios y la visualización de actualizaciones. Las actualizaciones al código se reflejan automáticamente en `gh-pages`, permitiendo que los interesados vean los avances en tiempo real.
 
-Repositorio: []()
+Repositorio: [Ver Repositorio](https://github.com/HampCoders/ElectroLink)
 <br>

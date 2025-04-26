@@ -1698,10 +1698,10 @@ Repositorio: [Ver Repositorio](https://github.com/HampCoders/ElectroLink)
 
 #### 5.1.4. Software Deployment Configuration
 
-## 5.2. Landing Page, Services & Applications Implementation
+### 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 
-## 5.2.1.1. Sprint Planning 1
+### 5.2.1.1. Sprint Planning 1
 
 | Sprint # | Sprint 1 |
 |----------|----------|
@@ -1755,7 +1755,7 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 | US-48 | Conocer la Visión de la Startup | **Escenario:** Visualizar la visión<br>**Dado que** soy un visitante interesado en el futuro de la empresa<br>**Cuando** accedo a la sección de visión<br>**Entonces** debo ver una declaración clara y concisa de la visión a largo plazo<br>**Y** la visión debe comunicar las aspiraciones futuras de la empresa<br>**Y** debe estar cerca o relacionada visualmente con la sección de misión<br><br>**Escenario:** Entender los objetivos a largo plazo<br>**Dado que** estoy leyendo la visión de la startup<br>**Cuando** termino de leerla<br>**Entonces** debo comprender hacia dónde se dirige la empresa en el futuro<br>**Y** qué impacto busca tener en su industria o en la sociedad |
 <hr>
 
-##### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
 Enlace de la Landing Page: https://electrolinklp.netlify.app/
 
@@ -1780,9 +1780,9 @@ Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer
 
 <hr>
 
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-## Design
+- Design
 
 Para realizar el diseño de los wireframes y mockups de la **Landing Page** para este Sprint, se hizo uso de la plataforma **Figma**.
 Para utilizar la plataforma:
@@ -1793,7 +1793,7 @@ Para utilizar la plataforma:
    <img  src="https://i.imgur.com/S0yChMr.png"/>
 ---
 
-## Deployment
+### Deployment
 
 Para la landing page, se utilizará **GitHub** y **GitHub Pages** para la creación del repositorio y el despliegue de la página.
 <img  src="https://i.imgur.com/TvjlWO3.png"/>
@@ -1811,7 +1811,7 @@ Para nuestro proyecto se crearon **2 repositorios**, los cuales son:
 - **README**: Este repositorio se usa para realizar el informe del proyecto de manera continua.
 - **Landing-Page**: Este repositorio se usa para codificar y desplegar la landing page del proyecto.
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran las capturas de los insights del repositorio.
 <img  src="" />
 
@@ -1823,12 +1823,12 @@ En el caso de  la landing page y su Sprint, el miembro Ethan Aliaga, fue el enca
 
 <hr>
 
-## Conclusiones
+### Conclusiones
 
 <hr>
 
-## Bibliografía
+### Bibliografía
 
 <hr>
 
-## Anexos
+### Anexos

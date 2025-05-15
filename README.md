@@ -44,7 +44,7 @@
 
 | Versión | Fecha | Autores | Descripción  |
 | :---- | :---- | :---- | :---- |
-| TB1 | 22/04/2025 | \-Del Aguila Ayala, Ricardo Alejandro \-Machado Bracamonte Ivo Marcelo \-Sanchez Manrique Italo Ludwing \-Aliaga Aguirre Ethan Matias \-Olivera Barzola Eric Marlon    | Capítulo I: Introducción Capítulo II: Requirements Elicitation & Analysis. Capítulo III: Requirements Specification. Capítulo IV: Product Design.  Capítulo V: Product Implementation, Validation & Deployment. 5.1.	Software Configuration Management. 5.1.1.	Software Development Environment Configuration. 5.1.2.	Source Code Management. 5.1.3.	Source Code Style Guide & Conventions. 5.1.4.	Software Deployment Configuration. 5.2.	Landing Page, Services & Applications Implementation. 5.2.1.	Sprint 1 5.2.1.1.	Sprint Planning 1\. 5.2.1.2.   Aspect Leaders and Collaborators. 5.2.1.3.	Sprint Backlog 1\. 5.2.1.4.	Development Evidence for Sprint Review. 5.2.1.5.	Execution Evidence for Sprint Review. 5.2.1.6.	Services Documentation Evidence for Sprint Review. 5.2.1.7.	Software Deployment Evidence for Sprint Review. 5.2.1.8.	Team Collaboration Insights during Sprint.  |
+| 1 | 22/04/2025 | \-Del Aguila Ayala, Ricardo Alejandro \-Machado Bracamonte Ivo Marcelo \-Sanchez Manrique Italo Ludwing \-Aliaga Aguirre Ethan Matias \-Olivera Barzola Eric Marlon    | Capítulo I: Introducción Capítulo II: Requirements Elicitation & Analysis. Capítulo III: Requirements Specification. Capítulo IV: Product Design.  Capítulo V: Product Implementation, Validation & Deployment. 5.1.	Software Configuration Management. 5.1.1.	Software Development Environment Configuration. 5.1.2.	Source Code Management. 5.1.3.	Source Code Style Guide & Conventions. 5.1.4.	Software Deployment Configuration. 5.2.	Landing Page, Services & Applications Implementation. 5.2.1.	Sprint 1 5.2.1.1.	Sprint Planning 1\. 5.2.1.2.   Aspect Leaders and Collaborators. 5.2.1.3.	Sprint Backlog 1\. 5.2.1.4.	Development Evidence for Sprint Review. 5.2.1.5.	Execution Evidence for Sprint Review. 5.2.1.6.	Services Documentation Evidence for Sprint Review. 5.2.1.7.	Software Deployment Evidence for Sprint Review. 5.2.1.8.	Team Collaboration Insights during Sprint.  |
 
 # 
 
@@ -72,106 +72,86 @@
 
 ## Tabla de Contenidos
 
-<details>
-    <summary>Capítulo I: Introducción </summary>    
-        <ul>
-            <li><a href="#11-Startup-Profile">1.1. Startup Profile</a></li>
-            <li><a href="#111-Descripción-de-la-Startup">1.1.1. Descripción de la Startup</a></li>
-            <li><a href="#112-Perfiles-de-Integrantes-del-Equipo">1.1.2. Perfiles de Integrantes del Equipo</a></li>
-            <li><a href="#12-Solution-Profile">1.2. Solution Profile</a></li>
-            <li><a href="#121-Antecedentes-y-Problemática">1.2.1. Antecedentes y Problemática</a></li>
-            <li><a href="#122-Lean-UX-Process">1.2.2. Lean UX Process</a></li>
-            <li><a href="#1221-Lean-UX-Problem-Statements">1.2.2.1. Lean UX Problem Statements</a></li>
-            <li><a href="#1222-Lean-UX-Assumptions">1.2.2.2. Lean UX Assumptions</a></li>
-            <li><a href="#1223-Lean-UX-Hypothesis-Statements">1.2.2.3. Lean UX Hypothesis Statements</a></li>
-            <li><a href="#1224-Lean-UX-Canvas">1.2.2.4. Lean UX Canvas</a></li>
-            <li><a href="#13-Segmentos-Objetivos">1.3. Segmentos Objetivos</a></li>
-        </ul>    
-</details>
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de Integrantes del Equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos Objetivos](#13-segmentos-objetivos)
 
-<details>
-    <summary>Capítulo II: Requirements Elicitation & Analysis</summary>
-        <ul>
-            <li><a href="#21-competidores">2.1. Competidores</a></li>
-            <li><a href="#211-Análisis-competitivo">2.1.1. Análisis competitivo</a></li>
-            <li><a href="#212-Estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></li>
-            <li><a href="#22-Entrevistas">2.2. Entrevistas</a></li>
-            <li><a href="#221-Diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></li>
-            <li><a href="#222-Registro-de-entrevistas">2.2.2. Registro de entrevistas</a></li>
-            <li><a href="#223-Análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></li>
-            <li><a href="#23-Needfinding">2.3. Needfinding</a></li>
-            <li><a href="#231-User-Personas">2.3.1. User Personas</a></li>
-            <li><a href="#232-User-Task-Matrix">2.3.2. User Task Matrix</a></li>
-            <li><a href="#233-User-Journey-Mapping">2.3.3. User Journey Mapping</a></li>
-            <li><a href="#234-Empathy-Mapping">2.3.4. Empathy Mapping</a></li>
-            <li><a href="#235-As-is-Scenario-Mapping">2.3.5. As-is Scenario Mapping</a></li>
-            <li><a href="#24-Ubiquitous-Language">2.4. Ubiquitous Language</a></li>
-        </ul>   
-</details>
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
-<details>
-    <summary>Capítulo III: Requirements Specification </summary>
-        <ul>
-            <li><a href="#31-To-Be-Scenario-Mapping">3.1. To-Be Scenario Mapping</a></li>
-            <li><a href="#32-User-Stories">3.2. User Stories</a></li>
-            <li><a href="#33-Impact-Mapping">3.3. Impact Mapping</a></li>
-            <li><a href="#34-Product-Backlog">3.4. Product Backlog</a></li>
-        </ul>    
-</details>
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
 
-<details>
-    <summary>Capítulo IV: Product Design </summary>
-        <ul>
-            <li><a href="#41-Style-Guidelines">4.1. Style Guidelines</a></li>
-            <li><a href="#411-General-Style-Guidelines">4.1.1. General Style Guidelines</a></li>
-            <li><a href="#412-Web-Style-Guidelines">4.1.2. Web Style Guidelines</a></li>
-            <li><a href="#42-Information-Architecture">4.2. Information Architecture</a></li>
-            <li><a href="#421-Organization-Systems">4.2.1. Organization Systems</a></li>
-            <li><a href="#422-Labeling-Systems">4.2.2. Labeling Systems</a></li>
-            <li><a href="#423-SEO-Tags-and-Meta-Tags">4.2.3. SEO Tags and Meta Tags</a></li>
-            <li><a href="#424-Searching-Systems">4.2.4. Searching Systems</a></li>
-            <li><a href="#425-Navigation-Systems">4.2.5. Navigation Systems</a></li>
-            <li><a href="#43-Landing-Page-UI-Design">4.3. Landing Page UI Design</a></li>
-            <li><a href="#431-Landing-Page-Wireframe">4.3.1. Landing Page Wireframe</a></li>
-            <li><a href="#432-Landing-Page-Mock-up">4.3.2. Landing Page Mock-up</a></li>
-            <li><a href="#44-Web-Applications-UXUI-Design">4.4. Web Applications UX/UI Design</a></li>
-            <li><a href="#441-Web-Applications-Wireframes">4.4.1. Web Applications Wireframes</a></li>
-            <li><a href="#442-Web-Applications-Wireflow-Diagrams">4.4.2. Web Applications Wireflow Diagrams</a></li>
-            <li><a href="#443-Web-Applications-Mock-ups">4.4.3. Web Applications Mock-ups</a></li>
-            <li><a href="#444-Web-Applications-User-Flow-Diagrams">4.4.4. Web Applications User Flow Diagrams</a></li>
-            <li><a href="#45-Web-Applications-Prototyping">4.5. Web Applications Prototyping</a></li>
-            <li><a href="#46-Domain-Driven-Software-Architecture">4.6. Domain-Driven Software Architecture</a></li>
-            <li><a href="#461-Software-Architecture-Context-Diagrams">4.6.1. Software Architecture Context Diagrams</a></li>
-            <li><a href="#462-Software-Architecture-Container-Diagrams">4.6.2. Software Architecture Container Diagrams</a></li>
-            <li><a href="#463-Software-Architecture-Components-Diagrams">4.6.3. Software Architecture Components Diagrams</a></li>
-            <li><a href="#47-Software-Object-Oriented-Design">4.7. Software Object-Oriented Design</a></li>
-            <li><a href="#471-Class-Diagrams">4.7.1. Class Diagrams</a></li>
-            <li><a href="#472-Class-Dictionary">4.7.2. Class Dictionary</a></li>
-            <li><a href="#48-Database-Design">4.8. Database Design</a></li>
-            <li><a href="#481-Database-Diagram">4.8.1. Database Dagram</a></li>
-        </ul>    
-</details>
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  - [4.2. Information Architecture](#42-information-architecture)
+    - [4.2.1. Organization Systems](#421-organization-systems)
+    - [4.2.2. Labeling Systems](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems](#424-searching-systems)
+    - [4.2.5. Navigation Systems](#425-navigation-systems)
+  - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    - [4.6.1. Software Architecture Context Diagrams](#461-software-architecture-context-diagrams)
+    - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams](#471-class-diagrams)
+    - [4.7.2. Class Dictionary](#472-class-dictionary)
+  - [4.8. Database Design](#48-database-design)
+    - [4.8.1. Database Diagram](#481-database-diagram)
 
-<details>
-    <summary>Capítulo V: Product Implementation, Validation & Deployment </summary>
-        <ul>
-            <li><a href="#51-software-configuration-management">5.1. Software Configuration Management</a></li>
-            <li><a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></li>
-            <li><a href="#512-source-code-management">5.1.2. Source Code Management</a></li>
-            <li><a href="#513-source-code-style-guide-conventions">5.1.3. Source Code Style Guide & Conventions</a></li>
-            <li><a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a></li>
-            <li><a href="#52-landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></li>
-            <li><a href="#521-sprint-1">5.2.1. Sprint 1</a></li>
-            <li><a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a></li>
-            <li><a href="#5212-aspect-leaders-and-collaborators">5.2.1.2. Aspect Leaders and Collaborators</a></li>
-            <li><a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a></li>
-            <li><a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a></li>
-            <li><a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></li>
-            <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
-            <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
-            <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
-        </ul>        
-</details>
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 <hr>
 
@@ -547,12 +527,39 @@ De acuerdo con Easwaramoorthy y Zarinpoush (2006), las entrevistas son un métod
   
 <img src="https://i.imgur.com/4DuNuVf.png"/>
 
-**Resumen:**  
-Mari es ama de casa y pasa la mayor parte del tiempo en su hogar, lo que la hace responsable de todos los asuntos domésticos. Cuando surge un problema eléctrico, como un corte de luz o un enchufe dañado, experimenta ansiedad por no saber cómo resolverlo. Su reacción suele ser buscar ayuda en redes sociales, especialmente en Instagram o grupos vecinales, basándose en recomendaciones y comentarios.
+### Resumen de entrevista: 
 
-Le preocupa que el servicio sea de calidad, que el proveedor sea puntual, rápido y comprometido, ya que valora que el problema se resuelva de manera eficaz. Sin embargo, no realiza mantenimientos preventivos por falta de conocimiento. Aunque sabe que las normativas legales son importantes, su prioridad es que el trabajo funcione bien.
+**Datos objetivos y perfil general:**  
+Mari Vallejos es una mujer adulta que reside en una zona urbana. Su ocupación actual es ama de casa a tiempo completo, lo que implica que permanece en su hogar durante todo el día y se encarga de todas las tareas domésticas. No cuenta con formación técnica en electricidad ni experiencia previa en tareas de mantenimiento eléctrico. Se considera usuaria activa de redes sociales y herramientas tecnológicas básicas.
 
-Mari muestra interés en una plataforma como **ElectroLink**, siempre que incluya proveedores verificados y reseñas reales. Sugiere que la plataforma tenga filtros por experiencia, horario, costo y calificaciones para facilitar su uso.
+**Características subjetivas – Personalidad y comportamiento:**  
+Mari demuestra una personalidad organizada, práctica y orientada a la resolución eficiente de problemas cotidianos. Presenta una actitud de alta dependencia hacia servicios externos cuando se trata de fallas técnicas, especialmente en lo eléctrico, lo cual le genera ansiedad por desconocimiento y falta de control sobre la situación. Su nivel de confianza en servicios informales varía según la fuente de recomendación, siendo más alta cuando proviene de conocidos directos.
+
+**Relación con los problemas eléctricos:**  
+Al enfrentar fallas eléctricas como cortes de luz o tomacorrientes que no funcionan, su primera reacción es buscar ayuda externa. No intenta resolverlo por sí misma, y suele sentir frustración e incertidumbre. No realiza mantenimientos preventivos eléctricos debido a la falta de conocimientos técnicos y a la ausencia de recordatorios o planificación específica en su rutina.
+
+**Canales de búsqueda y decisión:**  
+Mari recurre principalmente a **redes sociales** (especialmente **Instagram** y **grupos comunitarios de Facebook**) para buscar recomendaciones. Evalúa a los técnicos en función de los **comentarios de otros usuarios**, aunque reconoce que no siempre son confiables. También menciona confiar más en **recomendaciones de personas cercanas** que en comentarios abiertos en redes. Valora mucho la posibilidad de segmentar los resultados por filtros confiables (calificaciones, experiencia, precio, etc.).
+
+**Dispositivos y tecnología utilizada:**  
+Utiliza **teléfono móvil** como dispositivo principal para navegar, buscar servicios y comunicarse. En algunos casos, acude a herramientas de **inteligencia artificial (como ChatGPT o asistentes virtuales)** para describir fallas antes de buscar un proveedor humano. Esto demuestra una actitud receptiva hacia nuevas tecnologías si estas le ofrecen respuestas rápidas y precisas. Su navegador habitual no fue especificado, pero se deduce que usa aplicaciones móviles más que navegación en desktop.
+
+**Criterios de elección de técnicos/proveedores:**  
+Los aspectos más valorados por Mari al momento de contratar un técnico son:  
+- **Puntualidad**  
+- **Compromiso**  
+- **Rapidez en la ejecución del trabajo**  
+- **Relación costo-beneficio del servicio**  
+
+No otorga importancia inmediata a la certificación legal del proveedor, aunque reconoce que sería deseable para mayor seguridad. Su principal preocupación es que el servicio funcione bien y que no genere problemas adicionales luego de la intervención.
+
+**Actitud frente a plataformas de intermediación:**  
+Mari expresó interés y disposición en utilizar una plataforma que conecte con proveedores verificados, destacando que esto facilitaría su búsqueda y le otorgaría mayor confianza en los servicios contratados. También manifestó que una función para **agendar mantenimientos preventivos** de forma automatizada sería muy útil, ya que permitiría integrar esos servicios dentro de su rutina y evitar olvidos. Esta funcionalidad le permitiría optimizar tiempos y reducir costos ante futuros problemas.
+
+**Influencias y preferencias tecnológicas:**  
+Mari se deja influenciar por **referencias de su comunidad digital** y de su entorno cercano. Si bien consulta redes sociales, prioriza la **recomendación directa de conocidos** que ya han probado el servicio. La confianza es un factor determinante en su decisión. Está abierta a nuevas soluciones digitales, siempre que sean simples, prácticas y confiables.
+
+
 
 ---
 
@@ -581,12 +588,35 @@ Está interesado en usar una plataforma como ElectroLink, siempre que garantice 
 - **Duración:** 9:54
 <img src="https://i.imgur.com/9iDrwLt.png"/>
 
-**Resumen:**  
-Piero es dueño de una pequeña empresa de autopartes con varias sucursales. Su negocio depende de equipos eléctricos como computadoras, escáneres, cámaras de seguridad y luces. Las fallas eléctricas, aunque poco frecuentes, afectan la productividad al interrumpir los sistemas de inventario, lo cual puede hacer que los clientes se vayan.
+### Resumen de entrevista: 
 
-Aunque intentó manejar el mantenimiento por sí mismo, ahora lo delega pero sin un plan definido. No realiza mantenimiento preventivo y reconoce que esto es un riesgo. También conoce casos de técnicos no confiables, por lo que valora servicios con garantía y cumplimiento normativo.
+**Perfil general y características subjetivas:**  
+Piero es un empresario dedicado a la venta de autopartes, con múltiples sucursales en el distrito de Independencia. Se mostró seguro, práctico y directo durante la entrevista. Tiene una personalidad resolutiva y orientada a la eficiencia operativa de su negocio. Aunque inicialmente realizaba algunas tareas técnicas él mismo, ha aprendido a delegar conforme ha crecido su empresa. Muestra un alto grado de apertura hacia soluciones tecnológicas si estas le aportan funcionalidad y control sobre sus procesos. Tiene conocimientos básicos sobre mantenimiento eléctrico y reconoce su importancia, aunque aún no implementa un sistema formal o automatizado para ello.
 
-Está dispuesto a usar **ElectroLink** si ofrece proveedores certificados, reseñas, calificaciones y funcionalidades como el registro de consumo eléctrico, alertas de fallas y recomendaciones de mejora.
+**Respuesta emocional ante fallas eléctricas:**
+Las fallas eléctricas no son frecuentes en sus locales, pero cuando ocurren le generan frustración, ya que afectan directamente la atención al cliente, especialmente porque el sistema de inventario y los escáneres QR dependen completamente de la energía eléctrica. Percibe que estas interrupciones no solo ralentizan el trabajo, sino que pueden generar pérdida de ventas y dañar la imagen del negocio ante los clientes.
+
+**Acciones ante problemas eléctricos:**
+Suele apoyarse en su equipo para resolver incidencias menores. Cuando se trata de problemas más complejos, busca soluciones en internet, tutoriales en video e incluso ha usado herramientas de inteligencia artificial para obtener diagnósticos preliminares. En casos más serios, recurre a técnicos conocidos o recomendados, aunque no siempre verifica certificaciones formales.
+
+**Criterios de elección de un proveedor:**
+Valora la calidad del servicio, la garantía ofrecida y la formalidad del proveedor. Aunque no ha tenido malas experiencias personales, ha escuchado de casos en los que proveedores informales han generado mayores problemas. Prefiere trabajar con personas que ofrezcan respaldo técnico y legal. La confianza, reputación y cumplimiento son esenciales en su decisión.
+
+**Mantenimiento preventivo:**
+Actualmente, no cuenta con un plan preventivo estructurado. Las acciones de mantenimiento son esporádicas y se ejecutan solo cuando surge un inconveniente. Considera que sería útil contar con alertas o recordatorios periódicos sobre el estado de las instalaciones, lo que le permitiría prevenir interrupciones en la operación diaria.
+
+**Experiencias previas y resolución de problemas:**
+Ha experimentado algunas fallas menores que afectaron temporalmente el servicio, como fallos en el sistema de cámaras o escáneres. Estos problemas los ha resuelto recurriendo a soluciones momentáneas, como el trabajo manual o el uso de inventarios en papel, aunque reconoce que estas no son soluciones sostenibles.
+
+**Uso de tecnología y hábitos digitales:**
+Piero tiene un perfil digital activo. Usa navegadores web, buscadores, redes sociales y contenido en video como YouTube para resolver dudas técnicas. También ha interactuado con inteligencia artificial como herramienta de diagnóstico. Está dispuesto a incorporar tecnología en su negocio siempre que le proporcione eficiencia y facilidad de uso.
+
+**Preferencia de dispositivos y canales de interacción:**
+Utiliza principalmente computadoras en el trabajo para gestionar operaciones, pero también el teléfono móvil para búsquedas rápidas, comunicación con proveedores y consumo de contenido educativo. Le gustaría contar con una plataforma que centralice información técnica, proveedores confiables y herramientas de gestión energética.
+
+**Opinión sobre una plataforma como ElectroLink:**
+Considera valiosa una plataforma que conecte a empresas como la suya con técnicos certificados, especialmente si incluye funciones como monitoreo de consumo eléctrico, historial de mantenimientos, alertas de fallos y acceso a reseñas de proveedores. Aprecia la posibilidad de tomar decisiones informadas basadas en datos y opiniones verificadas. Aunque no ve una ventaja competitiva directa, sí reconoce que reducir el tiempo de inactividad le daría una ventaja operativa frente a negocios que se ven forzados a cerrar por problemas eléctricos.
+
 
 **Entrevista : Brian Cerna**  
 - **Sexo:** Masculino  
@@ -596,17 +626,35 @@ Está dispuesto a usar **ElectroLink** si ofrece proveedores certificados, rese�
 - **Duración:** 6:16
 <img src="https://i.imgur.com/SGDI7gr.png"/>
 
-En esta entrevista se conversó con Brian Cerna, representante del sector de dueños de pymes u oficinas, con el objetivo de conocer su experiencia y necesidades respecto a las instalaciones eléctricas en su negocio. Brian indicó que en su oficina utilizan instalaciones eléctricas trifásicas, ya que requieren soportar la carga de equipos industriales como calderas, aire acondicionado, un sistema de lavandería, además del sistema de iluminación, el cual funciona con luces LED. También cuentan con un grupo electrógeno como respaldo para asegurar el funcionamiento continuo.
+### Resumen de entrevista: 
 
-Respecto a las fallas eléctricas, señaló que no son frecuentes, pero sí preocupantes, ya que pueden afectar gravemente la operación diaria. Las más comunes incluyen cortes imprevistos, fallos en el tablero de distribución y problemas con los sistemas de climatización. En cuanto al mantenimiento eléctrico, comentó que suelen delegarlo a técnicos externos de confianza. Sin embargo, a veces enfrentan demoras o falta de disponibilidad inmediata, lo que genera complicaciones operativas.
 
-Sobre el impacto de estas fallas en la productividad, Brian fue claro al decir que puede ser muy alto, ya que una interrupción puede dejar habitaciones sin energía y afectar la atención al cliente. A la hora de contratar un proveedor eléctrico, considera esencial revisar la experiencia comprobada, las certificaciones, la capacidad de respuesta las 24 horas, el cumplimiento de normas y un historial confiable con otros clientes. Aunque también buscan precios competitivos, nunca sacrifican la calidad del servicio.
+**Perfil general y características subjetivas:**
+Brian Cerna es dueño de una pequeña empresa que opera con equipos industriales, lo que requiere una infraestructura eléctrica robusta. Se mostró profesional, preciso y consciente de los riesgos y necesidades técnicas de su negocio. Destaca por una mentalidad preventiva y orientada a soluciones eficientes, aunque reconoce dificultades en la disponibilidad de técnicos confiables.
 
-Relató una mala experiencia pasada con un técnico no certificado que ofrecía rapidez, pero cuyo trabajo resultó poco duradero. Esta situación le enseñó que es mejor invertir en profesionales calificados, incluso si son más costosos, para evitar riesgos innecesarios. También destacó que para él es fundamental que los proveedores cumplan con normativas legales y ofrezcan garantía, ya que esto no solo asegura un trabajo bien hecho, sino que también protege legalmente al negocio y cumple con estándares de seguridad ante el público.
+**Respuesta emocional ante fallas eléctricas:**
+Aunque las fallas eléctricas no son frecuentes, Brian muestra una preocupación importante frente a estos eventos, ya que afectan directamente la continuidad de su operación. Incluso la posibilidad de una falla representa un riesgo operativo que podría impactar negativamente en la experiencia del cliente.
 
-Brian expresó su interés en una plataforma que conecte directamente con proveedores certificados, ya que esto le ahorraría tiempo y facilitaría encontrar opciones confiables sin recurrir a métodos tradicionales. En cuanto a las funcionalidades deseadas en dicha plataforma, mencionó la posibilidad de filtrar por tipo de servicio, nivel de urgencia y ubicación del negocio.
+**Acciones ante problemas eléctricos:**
+Delegan el mantenimiento eléctrico a técnicos externos. Tienen un proveedor de confianza, pero enfrentan desafíos con la disponibilidad inmediata y la atención oportuna. Cuando necesitan componentes eléctricos, recurren a contactos conocidos, Google o ferreterías especializadas, lo que puede implicar una pérdida significativa de tiempo.
 
-Considera que una herramienta de este tipo podría ofrecerle una ventaja competitiva, ya que permitiría resolver problemas eléctricos con rapidez, mejorar la experiencia del cliente y reducir costos operativos. Cuando necesita encontrar componentes eléctricos específicos, suele comunicarse con proveedores conocidos, buscar en Google o WhatsApp, e incluso acudir a ferreterías especializadas, aunque este proceso suele tomar mucho tiempo.
+**Criterios de elección de un proveedor:**
+Brian prioriza experiencia comprobada, certificaciones legales, disponibilidad 24/7, cumplimiento de normativas, historial confiable y precios competitivos (sin comprometer la calidad). Valora mucho las garantías y la legalidad por los riesgos asociados a recibir público y cumplir con estándares de seguridad.
+
+**Mantenimiento preventivo:**
+Se realiza mediante técnicos externos, aunque no está completamente sistematizado. La empresa usa Excel y WhatsApp para coordinar trabajos y registrar mantenimientos, lo cual reconoce como poco eficiente.
+
+**Experiencias previas y resolución de problemas:**
+Tuvo una mala experiencia al contratar un técnico no certificado, lo que derivó en un trabajo deficiente. Aprendió a no escatimar en calidad y a elegir siempre profesionales con respaldo académico y legal, incluso si son más caros.
+
+**Uso de tecnología y hábitos digitales:**
+Utiliza herramientas básicas como Excel y WhatsApp para coordinar mantenimiento. Busca componentes y soluciones en Google y foros especializados. Está dispuesto a adoptar soluciones digitales si le permiten ahorrar tiempo y mejorar su operación.
+
+**Preferencia de dispositivos y canales de interacción:**
+Prefiere canales digitales rápidos como WhatsApp y búsquedas en línea. Está abierto a plataformas digitales si estas le permiten filtrar por tipo de servicio, urgencia y ubicación.
+
+**Opinión sobre una plataforma como ElectroLink:**
+Brian ve como una gran ventaja contar con una plataforma que conecte con proveedores certificados. Espera que incluya filtros por tipo de servicio, nivel de urgencia y localización, y que permita ver calificaciones, certificaciones y opiniones. Considera que esto aumentaría su competitividad, reduciría riesgos, mejoraría la eficiencia operativa y optimizaría la atención al cliente.
 
 ---
 
@@ -619,16 +667,60 @@ Considera que una herramienta de este tipo podría ofrecerle una ventaja competi
 - **Inicia en:** 0:01  
 - **Duración:** 4:51  
 <img src="https://i.imgur.com/htfkjZb.png"/>
-**Resumen:**  
-El entrevistado expresó que actualmente se siente frustrado con la forma en que consigue clientes para sus servicios eléctricos, ya que muchas personas no valoran su certificación y prefieren proveedores informales más económicos, lo que le quita oportunidades. Aunque algunos clientes lo contactan por recomendación, considera que atraer nuevos clientes sigue siendo un reto constante.
+**Resumen:**
 
-Para promocionar su trabajo, utiliza principalmente Facebook, WhatsApp y el boca a boca. Comparte fotos de sus trabajos y pide a sus clientes que lo recomienden, aunque reconoce que no cuenta con una estrategia profesional establecida. Una de las principales dificultades que enfrenta es competir con proveedores no certificados que ofrecen precios más bajos, lo que resulta atractivo para muchos clientes, a pesar de los riesgos y posibles fallas que eso implica. También enfrenta el problema de que los clientes, en general, no distinguen entre un profesional calificado y uno improvisado.
+El entrevistado es un técnico electricista certificado que presta servicios eléctricos principalmente a clientes particulares y, en menor medida, empresas. Muestra una actitud profesional, consciente de la importancia de su certificación y la calidad de su trabajo, aunque siente frustración por la dificultad de ser valorado en el mercado frente a competidores informales que cobran menos y no cumplen con normativas.
 
-Le resulta complicado comunicar la calidad y legalidad de su trabajo, ya que muchos clientes no solicitan ver certificados. En cuanto a la gestión de pedidos, todo lo realiza de forma manual, anotando solicitudes en una libreta o en su celular, y coordinando todo vía llamadas o WhatsApp, sin utilizar herramientas especializadas o automatizadas.
+**Características objetivas:**
+Perfil profesional: Técnico electricista certificado, con conocimiento de normativas y estándares formales en su área.
 
-Considera muy importante pertenecer a una red de profesionales certificados, ya que eso le da respaldo y lo diferencia de los informales. Estaría dispuesto a pagar una suscripción mensual si eso le garantiza mayor visibilidad y más clientes, siempre que el costo sea razonable y los resultados se vean reflejados en más trabajo.
+Medios tecnológicos actuales: Usa principalmente Facebook (incluyendo grupos de venta como Marketplace), WhatsApp y el boca a boca para promocionar y recibir solicitudes de trabajo.
 
-Respecto a una posible plataforma digital, considera útil que incluya un perfil profesional con portafolio de trabajos, agendamiento de citas, gestión de pedidos, opiniones de clientes, posibilidad de cobrar por la misma app, notificaciones y búsqueda de servicios por zona. Cree que digitalizar su forma de conectar con clientes cambiaría totalmente su negocio, dándole más visibilidad, alcance y una imagen profesional.
+Gestión de pedidos: Es completamente manual y sin automatización; utiliza notas físicas (libreta) o notas en el celular para registrar pedidos y coordinar citas.
+
+Dispositivos y canales: Usa principalmente un smartphone para comunicación (WhatsApp) y para mostrar fotos de trabajos realizados en Facebook. No utiliza aplicaciones especializadas ni software para administración.
+
+Herramientas digitales: Únicamente emplea aplicaciones básicas (notas, calendario y WhatsApp). No tiene experiencia ni uso de plataformas digitales profesionales para su actividad.
+
+Uso de navegador y tecnologías: No especificado, pero presumiblemente usa el navegador de su smartphone para Facebook y WhatsApp Web para comunicación.
+
+**Características subjetivas y actitudes:**
+Frustración: Siente que su certificación no es suficientemente valorada por los clientes promedio, quienes prefieren el bajo costo ofrecido por proveedores no certificados.
+
+Confianza en su trabajo: Está convencido del valor de la calidad y legalidad de su servicio, aunque le cuesta transmitirlo a los clientes que no están conscientes del riesgo que implican los servicios no profesionales.
+
+Apertura a nuevas soluciones: Está abierto a digitalizar la gestión comercial de su trabajo y formar parte de una comunidad de profesionales certificados.
+
+Interés en comunidad: Valora la idea de pertenecer a una red que le brinde respaldo, credibilidad y visibilidad frente a clientes potenciales.
+
+Disposición a pagar: Considera que estaría dispuesto a pagar una suscripción mensual por una plataforma que le garantice mayor visibilidad y generación de clientes, siempre y cuando el costo sea razonable y el beneficio tangible.
+
+Motivaciones: Prefiere invertir en herramientas que le permitan obtener ingresos constantes y menos dependencia del boca a boca o recomendaciones lentas.
+
+Expectativas funcionales: Desea funcionalidades que le permitan:
+
+Crear un perfil profesional con fotos y descripción de trabajos.
+
+Gestionar citas y responder solicitudes desde la misma plataforma.
+
+Recibir opiniones y valoraciones de clientes para construir reputación.
+
+Cobrar por sus servicios desde la aplicación.
+
+Recibir notificaciones sobre servicios solicitados en su área geográfica.
+
+**Influencias y hábitos digitales:**
+Usa Facebook como canal principal para promoción y contacto con clientes.
+
+Prefiere WhatsApp para la comunicación directa y rápida.
+
+No utiliza herramientas profesionales digitales, por lo que su gestión es mayormente manual.
+
+Tiene experiencia limitada con plataformas digitales para ofrecer servicios y considera complicadas o poco efectivas las que ha probado.
+
+No usa dispositivos especializados ni soluciones de automatización.
+
+  
 
 **Entrevista : Marcos Contreras**  
 - **Sexo:** Masculino  
@@ -639,13 +731,45 @@ Respecto a una posible plataforma digital, considera útil que incluya un perfil
 <img src="https://i.imgur.com/85KXK9D.png"/>
 
 **Resumen:**  
-Marco Contreras es un ingeniero eléctrico egresado que se dedica a proveer componentes y servicios eléctricos para casas y oficinas. En la entrevista, Marco comenta que su actividad actual depende en gran parte del "boca a boca" y publicaciones en redes sociales como Facebook y grupos de WhatsApp, lo cual hace que la captación de clientes sea inestable. Además, enfrenta dificultades para competir contra proveedores informales que ofrecen precios más bajos sin cumplir con normas ni certificaciones.
 
-Marco utiliza tarjetas personales, un pequeño portafolio de fotos, y ocasionalmente herramientas digitales como el calendario del celular y Google Keep para organizarse. Sin embargo, reconoce la necesidad de un respaldo más formal que certifique su trabajo ante los clientes.
+Marco Contreras es un ingeniero eléctrico egresado que combina la venta de componentes eléctricos con la prestación de servicios eléctricos a hogares y oficinas. Se muestra como una persona apasionada por su profesión, con un enfoque en la calidad, certificación y profesionalismo, aunque enfrenta dificultades relacionadas con la competencia informal y la inestabilidad en la demanda de sus servicios.
 
-Ve con buenos ojos la idea de una plataforma que permita mostrar su experiencia, certificaciones y opiniones de clientes, y considera que le ayudaría a diferenciarse de los informales y a acceder a trabajos más grandes. Estaría dispuesto a pagar una suscripción mensual si esta le garantizara mayor visibilidad y generación de clientes, siempre que el costo fuera razonable.
+**Características objetivas:**
+Perfil profesional: Ingeniero eléctrico egresado, con conocimiento técnico y certificaciones formales en el área.
 
-Entre las funcionalidades que le interesarían en una plataforma, menciona: agendas de trabajo, cotizaciones automáticas, sistema de calificaciones, espacio para fotos de trabajos, validación de certificados, botón de contacto directo y recordatorios. Finalmente, se muestra muy dispuesto a formar parte de una comunidad de proveedores certificados para elevar los estándares del sector.
+Ámbito de trabajo: Venta de componentes eléctricos y servicios eléctricos para clientes residenciales y de oficina.
+
+Canales de promoción y comunicación: Utiliza principalmente Facebook y grupos de WhatsApp para promocionar sus servicios y recibir pedidos. Además, emplea el boca a boca y entrega tarjetas personales.
+
+Herramientas digitales: Usa el calendario del celular y aplicaciones como Google Keep o notas de WhatsApp para organizar su trabajo y pedidos. No utiliza software especializado ni plataformas profesionales para la gestión integral de su actividad.
+
+Dispositivos: Trabaja principalmente desde un smartphone para comunicación y gestión básica.
+
+Gestión de clientes: Es manual, con poca automatización, dependiente de recomendaciones y publicaciones en redes sociales.
+
+**Características subjetivas y actitudes:**
+Percepción de la competencia: Siente que la competencia informal le afecta significativamente, especialmente porque los clientes priorizan precio sobre seguridad y certificación.
+
+Frustración y retos: Manifiesta frustración por la dificultad para competir con proveedores informales y por la baja valoración de sus certificaciones y calidad.
+
+Interés en la profesionalización: Manifiesta un fuerte interés en pertenecer a una red de profesionales certificados para obtener respaldo, confianza y acceso a trabajos más grandes o institucionales.
+
+Disposición al pago: Está dispuesto a pagar una suscripción mensual razonable para una plataforma que le proporcione visibilidad, generación de clientes y mejor organización.
+
+Expectativas sobre funcionalidades: Valora funcionalidades como agenda de trabajo, cotizaciones automáticas, sistema de calificaciones, espacio para subir fotos de trabajos realizados, validación de certificados, contacto directo con clientes y recordatorios.
+
+Visión de crecimiento: Cree que digitalizar la conexión con clientes le permitiría crecer más rápido, profesionalizar su imagen y contratar ayudantes con mayor frecuencia.
+
+Apertura a comunidad: Está totalmente dispuesto a formar parte de una comunidad de proveedores certificados con estándares comunes para fortalecer el sector y elevar la calidad del servicio.
+
+**Influencias y hábitos digitales:**
+Utiliza Facebook y grupos de WhatsApp como principales canales para la promoción y comunicación con clientes.
+
+La experiencia con estas plataformas es limitada y poco efectiva para la generación constante de solicitudes.
+
+Prefiere herramientas simples y accesibles, sin usar software especializado.
+
+Utiliza dispositivos móviles (smartphone) para la mayoría de sus actividades relacionadas con el negocio.
 
 
 

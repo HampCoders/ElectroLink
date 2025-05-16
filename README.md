@@ -54,7 +54,7 @@
 
 ## Project Report Collaboration Insights  
 
-El informe del proyecto se ha gestionado de forma colaborativa mediante el siguiente repositorio en la organización de GitHub del equipo:  [Repositorio](https://github.com/HampCoders/Electrolonk-FE)  
+El informe del proyecto se ha gestionado de forma colaborativa mediante el siguiente repositorio en la organización de GitHub del equipo:  [Repositorio](https://github.com/HampCoders)  
 
 A continuación, se presentan las capturas de GitHub correspondientes a la colaboración activa del equipo en la elaboración del informe:
 
@@ -2251,8 +2251,8 @@ Para la landing page, se utilizará Netlify para el despliegue de la página.
 
 Para nuestro proyecto se crearon **2 repositorios**, los cuáles fue:
 
-- **ElectroLink**: Este repositorio se usa para realizar el informe del proyecto de manera continua.
-- **Landing-Page**: Este reositorio se usa para realizar el despliegue de la Landing Page.
+- **ElectroLink**: Este repositorio se usa para realizar el informe del proyecto de manera continua. [Repositorio](https://github.com/HampCoders)
+- **Landing-Page**: Este reositorio se usa para realizar el despliegue de la Landing Page. [Repositorio](https://github.com/HampCoders/Electrolonk-FE)
 
 <hr>
 
@@ -2322,36 +2322,36 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | US31          | Crear Registro de Consumo Eléctrico | T31-2         | Implementar validaciones | Implementar validaciones de campos del formulario (valores numéricos, fechas, etc.) | 1 | Matias Aliaga | done |
 | US31          | Crear Registro de Consumo Eléctrico | T31-3             | Crear endpoint backend | Crear endpoint en backend para almacenar nuevos registros | 1.5 |  Matias Aliaga  | done |
 | US31          | Crear Registro de Consumo Eléctrico | T31-5             | Implementar confirmación | Implementar mensaje de confirmación tras registro exitoso | 0.5 | Matias Aliaga  | done |
-| US32          | Editar Registro de Consumo Eléctrico | T32-1             | Diseñar interfaz de selección | Diseñar interfaz para seleccionar registros existentes | 0.5 |  Matias Aliaga  | done |
-| US32          | Editar Registro de Consumo Eléctrico | T32-2             | Implementar formulario de edición | Implementar formulario de edición con datos precargados | 1 | Matias Aliaga  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-1             | Diseñar interfaz de selección | Diseñar interfaz para seleccionar registros existentes | 0.5 | Ricardo Del Aguila  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-2             | Implementar formulario de edición | Implementar formulario de edición con datos precargados | 1 | Ricardo Del Aguila  | done |
 | US32          | Editar Registro de Consumo Eléctrico | T32-3             | Crear endpoint de actualización | Crear endpoint en backend para actualizar registros | 1 | Matias Aliaga  | done |
 | US32          | Editar Registro de Consumo Eléctrico | T32-4             | Añadir validaciones | Añadir validaciones para cambios en los datos | 0.5 | Matias Aliaga  | done |
 | US32          | Editar Registro de Consumo Eléctrico | T32-5                   | Implementar confirmación | Implementar confirmación de modificaciones | 0.5 | Matias Aliaga  | done |
 | US33          | Eliminar Registro de Consumo Eléctrico | T33-1                 | Diseñar interfaz de selección | Diseñar interfaz para visualizar y seleccionar registros a eliminar | 0.5 | Matias Aliaga  | done |
 | US33          | Eliminar Registro de Consumo Eléctrico | T33-2                 | Implementar diálogo de confirmación | Implementar diálogo de confirmación antes de eliminar | 0.5 | Matias Aliaga  | done |
 | US33          | Eliminar Registro de Consumo Eléctrico | T33-3                 | Crear endpoint de eliminación | Crear endpoint en backend para eliminación de registros | 1 | | done |
-| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0371               | Desarrollo del formulario de búsqueda         | Implementación de campos para ingresar ubicación y tipo de servicio         | 1                   | Italo        | done   |
-| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0372               | Lógica de filtrado por parámetros             | Programación de lógica para mostrar resultados según filtros definidos      | 1                   | Italo        | done   |
-| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0373               | Estructura de vista de resultados             | Creación de componente visual para mostrar lista de técnicos                | 0.5                 | Italo        | done   |
-| US38          | Búsqueda Geolocalizada                   | TS0381               | Captura de ubicación a partir de IP pública   | Consumo de API externa para obtener datos geográficos de la IP              | 1                   | Italo        | done   |
-| US38          | Búsqueda Geolocalizada                   | TS0382               | Visualización de ubicación en mapa            | Integración del mapa con coordenadas detectadas mediante Leaflet            | 1                   | Italo        | done   |
-| US38          | Búsqueda Geolocalizada                   | TS0383               | Renderizado de datos geográficos              | Despliegue en pantalla de país, región y ciudad obtenidos desde la IP       | 0.5                 | Italo        | done   |
-| US39          | Filtrado por Disponibilidad y Calificación | TS0391               | Lógica de filtro por disponibilidad horaria   | Programación de condiciones para disponibilidad en la vista de resultados   | 0.5                 | Italo        | done   |
-| US39          | Filtrado por Disponibilidad y Calificación | TS0392               | Renderizado de calificación promedio          | Mostrar visualmente la calificación de cada técnico                         | 0.5                 | Italo        | done   |
-| US53          | Gestión de Agenda y Citas                | TS0531               | Visualización de agenda                      | Mostrar lista de tareas agendadas con detalles del cliente y servicio      | 1.5                 | Ivo          | done   |
-| US53          | Gestión de Agenda y Citas                | TS0532               | Crear tarea                                  | Formulario para agendar nueva cita con fecha, cliente y servicio           | 1.5                 | Ivo          | done   |
-| US53          | Gestión de Agenda y Citas                | TS0533               | Editar tarea                                 | Lógica y formulario para actualizar una cita existente                     | 1.5                 | Ivo          | done   |
-| US53          | Gestión de Agenda y Citas                | TS0534               | Eliminar tarea                               | Botón y lógica para eliminar cita de la agenda                             | 0.5                 | Ivo          | done   |
-| US54          | Gestión de Servicios Ofrecidos           | TS0541               | Visualización del catálogo de servicios      | Mostrar lista de servicios y componentes eléctricos asociados              | 1.5                 | Ivo          | done   |
-| US55          | Crear Servicios Ofrecidos           | TS04551               | Crear servicio                               | Formulario con inclusiones y componentes eléctricos                        | 1.5                 | Ivo          | done   |
-| US56          | Editar Servicios Ofrecidos           | TS04561               | Editar servicio                              | Actualizar servicio y sus componentes                                       | 1.5                 | Ivo          | done   |
-| US57          | Eliminar Servicios Ofrecidos           | TS0571               | Eliminar servicio                            | Lógica para borrar servicio del inventario                                 | 0.5                 | Ivo          | done   |
-| US43          | Historial de Clientes Atendidos          | TS0431               | Card de historial en dashboard               | Mostrar historial de clientes atendidos como resumen en el dashboard       | 0.5                 | Ivo          | done   |
-| US44          | Sistema de Calificación Post-Servicio    | TS0441               | Desarrollo del formulario de calificación     | Implementación de formulario para ingresar calificación y comentario        | 1.5                 | Eric        | done   |
-| US44          | Sistema de Calificación Post-Servicio    | TS0442               | Lógica de envío de calificación y reseña      | Programación de lógica para registrar y almacenar la reseña en la base de datos | 2               | Eric        | done   |
-| US44          | Sistema de Calificación Post-Servicio    | TS0443               | Asociación de reseña con usuario y servicio   | Establecer relaciones entre usuarios, servicios y sus respectivas calificaciones | 1.5             | Eric       | done   |
-| US45          | Visualización de Calificaciones y Reseñas | TS0451               | Renderizado de calificaciones y comentarios   | Mostrar lista de reseñas y calificaciones en la vista del técnico o servicio | 1.5               | Eric        | done   |
-| US45          | Visualización de Calificaciones y Reseñas | TS0452               | Cálculo de promedio de calificaciones         | Lógica para calcular y mostrar promedio de puntuación por técnico o servicio | 1.5               | Eric        | done   |
+| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0371               | Desarrollo del formulario de búsqueda         | Implementación de campos para ingresar ubicación y tipo de servicio         | 1                   | Italo Sanchez     | done   |
+| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0372               | Lógica de filtrado por parámetros             | Programación de lógica para mostrar resultados según filtros definidos      | 1                   | Italo Sanchez       | done   |
+| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0373               | Estructura de vista de resultados             | Creación de componente visual para mostrar lista de técnicos                | 0.5                 | Italo  Sanchez      | done   |
+| US38          | Búsqueda Geolocalizada                   | TS0381               | Captura de ubicación a partir de IP pública   | Consumo de API externa para obtener datos geográficos de la IP              | 1                   | Italo   Sanchez     | done   |
+| US38          | Búsqueda Geolocalizada                   | TS0382               | Visualización de ubicación en mapa            | Integración del mapa con coordenadas detectadas mediante Leaflet            | 1                   | Italo   Sanchez     | done   |
+| US38          | Búsqueda Geolocalizada                   | TS0383               | Renderizado de datos geográficos              | Despliegue en pantalla de país, región y ciudad obtenidos desde la IP       | 0.5                 | Italo   Sanchez     | done   |
+| US39          | Filtrado por Disponibilidad y Calificación | TS0391               | Lógica de filtro por disponibilidad horaria   | Programación de condiciones para disponibilidad en la vista de resultados   | 0.5                 | Italo  Sanchez      | done   |
+| US39          | Filtrado por Disponibilidad y Calificación | TS0392               | Renderizado de calificación promedio          | Mostrar visualmente la calificación de cada técnico                         | 0.5                 | Italo Sanchez       | done   |
+| US53          | Gestión de Agenda y Citas                | TS0531               | Visualización de agenda                      | Mostrar lista de tareas agendadas con detalles del cliente y servicio      | 1.5                 | Ivo Machado      | done   |
+| US53          | Gestión de Agenda y Citas                | TS0532               | Crear tarea                                  | Formulario para agendar nueva cita con fecha, cliente y servicio           | 1.5                 | Ivo Machado          | done   |
+| US53          | Gestión de Agenda y Citas                | TS0533               | Editar tarea                                 | Lógica y formulario para actualizar una cita existente                     | 1.5                 | Ivo Machado        | done   |
+| US53          | Gestión de Agenda y Citas                | TS0534               | Eliminar tarea                               | Botón y lógica para eliminar cita de la agenda                             | 0.5                 | Ivo  Machado        | done   |
+| US54          | Gestión de Servicios Ofrecidos           | TS0541               | Visualización del catálogo de servicios      | Mostrar lista de servicios y componentes eléctricos asociados              | 1.5                 | Ivo Machado         | done   |
+| US55          | Crear Servicios Ofrecidos           | TS04551               | Crear servicio                               | Formulario con inclusiones y componentes eléctricos                        | 1.5                 | Ivo Machado         | done   |
+| US56          | Editar Servicios Ofrecidos           | TS04561               | Editar servicio                              | Actualizar servicio y sus componentes                                       | 1.5                 | Ivo Machado         | done   |
+| US57          | Eliminar Servicios Ofrecidos           | TS0571               | Eliminar servicio                            | Lógica para borrar servicio del inventario                                 | 0.5                 | Ivo Machado        | done   |
+| US43          | Historial de Clientes Atendidos          | TS0431               | Card de historial en dashboard               | Mostrar historial de clientes atendidos como resumen en el dashboard       | 0.5                 | Ivo Machado         | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0441               | Desarrollo del formulario de calificación     | Implementación de formulario para ingresar calificación y comentario        | 1.5                 | Eric Olivera       | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0442               | Lógica de envío de calificación y reseña      | Programación de lógica para registrar y almacenar la reseña en la base de datos | 2               | Eric Olivera       | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0443               | Asociación de reseña con usuario y servicio   | Establecer relaciones entre usuarios, servicios y sus respectivas calificaciones | 1.5             | Eric  Olivera     | done   |
+| US45          | Visualización de Calificaciones y Reseñas | TS0451               | Renderizado de calificaciones y comentarios   | Mostrar lista de reseñas y calificaciones en la vista del técnico o servicio | 1.5               | Eric  Olivera      | done   |
+| US45          | Visualización de Calificaciones y Reseñas | TS0452               | Cálculo de promedio de calificaciones         | Lógica para calcular y mostrar promedio de puntuación por técnico o servicio | 1.5               | Eric  Olivera      | done   |
 
 ##### 5.2.2.4. Development Evidence for Sprint Review.
 
@@ -2374,7 +2374,15 @@ Durante este Sprint, el equipo logró implementar exitosamente las principales v
 
 El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint, 
 
+<img  src="https://i.imgur.com/iBZoUkG.png"/>
 
+<img  src="https://i.imgur.com/PkCb8cd.png"/>
+<img  src="https://i.imgur.com/MF4ndFW.png"/>
+
+<img  src="https://i.imgur.com/1PhRz7c.png"/>
+<img  src="https://i.imgur.com/Ge95J4D.png"/>
+
+<img  src="https://i.imgur.com/Y4qmy2Z.png"/>
 
 
 <img  src="https://i.postimg.cc/TwZKgCBj/92d49261-de39-4745-86c1-207df61e3600.webp"/>
@@ -2454,6 +2462,7 @@ Para ste despliegue hemos usado Beeseptor y FireBase
 
 Enlaces de las paginas desplegadas:
 
+https://electrolink-front.web.app/home
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
@@ -2464,10 +2473,7 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 
 
 
-
 <hr>
-
-
 
 
 ### Conclusiones

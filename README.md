@@ -1638,7 +1638,7 @@ En esta sección se presenta la propuesta de User Flows del sistema ElectroLink,
 <img src="https://i.imgur.com/FDCaGyc.png"/>
 <img src="https://i.imgur.com/ss6IaYV.png"/>
 
-[Ver entrevista](https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3)  
+[Ver diagrama en Lucidchart](https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3)  
 
 ### 4.5. Web Applications Prototyping
 

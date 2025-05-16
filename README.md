@@ -2078,7 +2078,7 @@ Subscription Billing Bounded Context
 
 <hr>
 
-<img src="https://i.imgur.com/z040ytB.png"/>
+<img src="https://i.imgur.com/2JqyVmj.png"/>
 <hr>
 
 <hr>
@@ -2318,18 +2318,18 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | User Story ID | User Story                              | Work-Item / Task ID | Work-Item / Task Title                       | Description                                                                 | Estimation (Hours) | Assigned To | Status |
 |---------------|------------------------------------------|----------------------|----------------------------------------------|-----------------------------------------------------------------------------|---------------------|--------------|--------|
 | US11          | Conocer más a fondo los servicios que ofrecen | T11-1         | Agregar imagenes acerca de los servicios que ofrecemos | 1 | Matias Aliaga | done |
-| US31          | Crear Registro de Consumo Eléctrico | T31-1         | Diseñar formulario de ingreso | Diseñar formulario de ingreso de nuevo registro de consumo | 1 | Matias Aliaga | done |
-| US31          | Crear Registro de Consumo Eléctrico | T31-2         | Implementar validaciones | Implementar validaciones de campos del formulario (valores numéricos, fechas, etc.) | 1 | Matias Aliaga | done |
-| US31          | Crear Registro de Consumo Eléctrico | T31-3             | Crear endpoint backend | Crear endpoint en backend para almacenar nuevos registros | 1.5 |  Matias Aliaga  | done |
-| US31          | Crear Registro de Consumo Eléctrico | T31-5             | Implementar confirmación | Implementar mensaje de confirmación tras registro exitoso | 0.5 | Matias Aliaga  | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-1         | Diseñar formulario de ingreso | Diseñar formulario de ingreso de nuevo registro de consumo | 1 | Ricardo Del Aguila | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-2         | Implementar validaciones | Implementar validaciones de campos del formulario (valores numéricos, fechas, etc.) | 1 | Ricardo Del Aguila | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-3             | Crear endpoint backend | Crear endpoint en backend para almacenar nuevos registros | 1.5 |  Ricardo Del Aguila   | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-5             | Implementar confirmación | Implementar mensaje de confirmación tras registro exitoso | 0.5 | Ricardo Del Aguila   | done |
 | US32          | Editar Registro de Consumo Eléctrico | T32-1             | Diseñar interfaz de selección | Diseñar interfaz para seleccionar registros existentes | 0.5 | Ricardo Del Aguila  | done |
 | US32          | Editar Registro de Consumo Eléctrico | T32-2             | Implementar formulario de edición | Implementar formulario de edición con datos precargados | 1 | Ricardo Del Aguila  | done |
-| US32          | Editar Registro de Consumo Eléctrico | T32-3             | Crear endpoint de actualización | Crear endpoint en backend para actualizar registros | 1 | Matias Aliaga  | done |
-| US32          | Editar Registro de Consumo Eléctrico | T32-4             | Añadir validaciones | Añadir validaciones para cambios en los datos | 0.5 | Matias Aliaga  | done |
-| US32          | Editar Registro de Consumo Eléctrico | T32-5                   | Implementar confirmación | Implementar confirmación de modificaciones | 0.5 | Matias Aliaga  | done |
-| US33          | Eliminar Registro de Consumo Eléctrico | T33-1                 | Diseñar interfaz de selección | Diseñar interfaz para visualizar y seleccionar registros a eliminar | 0.5 | Matias Aliaga  | done |
-| US33          | Eliminar Registro de Consumo Eléctrico | T33-2                 | Implementar diálogo de confirmación | Implementar diálogo de confirmación antes de eliminar | 0.5 | Matias Aliaga  | done |
-| US33          | Eliminar Registro de Consumo Eléctrico | T33-3                 | Crear endpoint de eliminación | Crear endpoint en backend para eliminación de registros | 1 | | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-3             | Crear endpoint de actualización | Crear endpoint en backend para actualizar registros | 1 | Ricardo Del Aguila  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-4             | Añadir validaciones | Añadir validaciones para cambios en los datos | 0.5 | Ricardo Del Aguila  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-5                   | Implementar confirmación | Implementar confirmación de modificaciones | 0.5 | Ricardo Del Aguila  | done |
+| US33          | Eliminar Registro de Consumo Eléctrico | T33-1                 | Diseñar interfaz de selección | Diseñar interfaz para visualizar y seleccionar registros a eliminar | 0.5 | Ricardo Del Aguila  | done |
+| US33          | Eliminar Registro de Consumo Eléctrico | T33-2                 | Implementar diálogo de confirmación | Implementar diálogo de confirmación antes de eliminar | 0.5 | Ricardo Del Aguila  | done |
+| US33          | Eliminar Registro de Consumo Eléctrico | T33-3                 | Crear endpoint de eliminación | Crear endpoint en backend para eliminación de registros | 1 |Ricardo Del Aguila | done |
 | US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0371               | Desarrollo del formulario de búsqueda         | Implementación de campos para ingresar ubicación y tipo de servicio         | 1                   | Italo Sanchez     | done   |
 | US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0372               | Lógica de filtrado por parámetros             | Programación de lógica para mostrar resultados según filtros definidos      | 1                   | Italo Sanchez       | done   |
 | US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0373               | Estructura de vista de resultados             | Creación de componente visual para mostrar lista de técnicos                | 0.5                 | Italo  Sanchez      | done   |
@@ -2342,11 +2342,11 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | US53          | Gestión de Agenda y Citas                | TS0532               | Crear tarea                                  | Formulario para agendar nueva cita con fecha, cliente y servicio           | 1.5                 | Ivo Machado          | done   |
 | US53          | Gestión de Agenda y Citas                | TS0533               | Editar tarea                                 | Lógica y formulario para actualizar una cita existente                     | 1.5                 | Ivo Machado        | done   |
 | US53          | Gestión de Agenda y Citas                | TS0534               | Eliminar tarea                               | Botón y lógica para eliminar cita de la agenda                             | 0.5                 | Ivo  Machado        | done   |
-| US54          | Gestión de Servicios Ofrecidos           | TS0541               | Visualización del catálogo de servicios      | Mostrar lista de servicios y componentes eléctricos asociados              | 1.5                 | Ivo Machado         | done   |
-| US55          | Crear Servicios Ofrecidos           | TS04551               | Crear servicio                               | Formulario con inclusiones y componentes eléctricos                        | 1.5                 | Ivo Machado         | done   |
-| US56          | Editar Servicios Ofrecidos           | TS04561               | Editar servicio                              | Actualizar servicio y sus componentes                                       | 1.5                 | Ivo Machado         | done   |
-| US57          | Eliminar Servicios Ofrecidos           | TS0571               | Eliminar servicio                            | Lógica para borrar servicio del inventario                                 | 0.5                 | Ivo Machado        | done   |
-| US43          | Historial de Clientes Atendidos          | TS0431               | Card de historial en dashboard               | Mostrar historial de clientes atendidos como resumen en el dashboard       | 0.5                 | Ivo Machado         | done   |
+| US54          | Gestión de Servicios Ofrecidos           | TS0541               | Visualización del catálogo de servicios      | Mostrar lista de servicios y componentes eléctricos asociados              | 1.5                 | Martias Aliaga        | done   |
+| US55          | Crear Servicios Ofrecidos           | TS04551               | Crear servicio                               | Formulario con inclusiones y componentes eléctricos                        | 1.5                 | Martias Aliaga          | done   |
+| US56          | Editar Servicios Ofrecidos           | TS04561               | Editar servicio                              | Actualizar servicio y sus componentes                                       | 1.5                 | Martias Aliaga          | done   |
+| US57          | Eliminar Servicios Ofrecidos           | TS0571               | Eliminar servicio                            | Lógica para borrar servicio del inventario                                 | 0.5                 | Martias Aliaga         | done   |
+| US43          | Historial de Clientes Atendidos          | TS0431               | Card de historial en dashboard               | Mostrar historial de clientes atendidos como resumen en el dashboard       | 0.5                 | Martias Aliaga          | done   |
 | US44          | Sistema de Calificación Post-Servicio    | TS0441               | Desarrollo del formulario de calificación     | Implementación de formulario para ingresar calificación y comentario        | 1.5                 | Eric Olivera       | done   |
 | US44          | Sistema de Calificación Post-Servicio    | TS0442               | Lógica de envío de calificación y reseña      | Programación de lógica para registrar y almacenar la reseña en la base de datos | 2               | Eric Olivera       | done   |
 | US44          | Sistema de Calificación Post-Servicio    | TS0443               | Asociación de reseña con usuario y servicio   | Establecer relaciones entre usuarios, servicios y sus respectivas calificaciones | 1.5             | Eric  Olivera     | done   |

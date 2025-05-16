@@ -2361,10 +2361,11 @@ Durante el Sprint se avanzó en la implementación de los siguientes productos: 
 
 | Repository                                | Branch | Commit ID | Commit Message                                 | Commit Message Body                                         | Committed on  |
 |-------------------------------------------|--------|-----------|-----------------------------------------------|-------------------------------------------------------------|---------------|
-| Open-Source-4341/ElectroLink-FE           | master | ca287e0   | Merge pull request #1 from Open-Source-4341/main | All Bounded Contexts Implemented                            | 2025-05-15    |
-| Open-Source-4341/ElectroLink-FE           | master | da23457e0 | Reestructuré el proyecto dentro de la carpeta ItaloFiles |Service Contracting Bounded Context        | 2025-05-15    |
-| Open-Source-4341/ElectroLink-FE           | master | r4a2564e0 | Agrego mi proyecto en la carpeta Ivo           | Componentes iniciales del módulo asignado                   | 2025-05-15    |
-| Open-Source-4341/ElectroLink-FE           | master | u67287gdf |Agrego mi proyecto en la carpeta de LeandroFiles | Agregar reviews del Contracting Bounded Context             | 2025-05-15   |
+| HampCoders/ElectroLink-FE                 | feature/inventory-service-component | ca287e0   | All Bounded Contexts Implemented | All Bounded Contexts Implemented     | 2025-05-15    |
+| HampCoders/ElectroLink-FE                 | feature/register-technician | da23457e0 | Technician registration component |Service Contracting Bounded Context  | 2025-05-15    |
+| HampCoders/ElectroLink-FE                 | feature/reviews | r4a2564e0 |    Review management component |  Add Bounded Context Hiring Reviews                  | 2025-05-15    |
+| HampCoders/ElectroLink-FE                 | feature/invoices | u67287gdf | Updated Invoices Management Component| Agregar reviews del Contracting Bounded Context             | 2025-05-15   |
+| HampCoders/ElectroLink-FE                 | feature/schedule-management | u67287gdf | Components service management|    All Bounded Contexts Implemented    | 2025-05-15   |
 
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review. 

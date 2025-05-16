@@ -161,10 +161,6 @@
 
 > *Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas.*
 
-## Student Outcome 5 – Trabajo en equipo
-
-> *Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas.*
-
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
 | Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas. | **Del Aguila Ayala, Ricardo Alejandro**  <br> **TB1:** Asumí el liderazgo del equipo desde la etapa inicial, organizando reuniones para definir objetivos y distribuir responsabilidades de forma clara. Generé acuerdos grupales y promoví la participación activa de todos los miembros. <br> **TP:** Coordiné la ejecución del Sprint 2, promoviendo comunicación fluida y asegurando que los objetivos técnicos y organizativos fueran cumplidos en los tiempos establecidos. | Durante el trabajo final desarrollamos una dinámica de equipo organizada, donde cada integrante asumió roles claros y colaboró de manera activa. El liderazgo se aplicó para alinear los esfuerzos y resolver bloqueos de forma oportuna. Fomentamos la inclusión de ideas diversas y la planificación constante de tareas a través de herramientas compartidas. Estas prácticas fueron fundamentales para cumplir nuestras metas grupales. |

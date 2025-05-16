@@ -45,7 +45,7 @@
 | Versión | Fecha       | Autores                                                                                                                                                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |:--------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | 22/04/2025  | - Del Aguila Ayala, Ricardo Alejandro  <br> - Machado Bracamonte, Ivo Marcelo  <br> - Sanchez Manrique, Italo Ludwing  <br> - Aliaga Aguirre, Ethan Matias  <br> -  Olivera Barzola, Eric Marlon | Capítulo I: Introducción  <br> Capítulo II: Requirements Elicitation & Analysis  <br> Capítulo III: Requirements Specification  <br> Capítulo IV: Product Design  <br> Capítulo V: Product Implementation, Validation & Deployment  <br><br> **5.1. Software Configuration Management**  <br> 5.1.1. Software Development Environment Configuration  <br> 5.1.2. Source Code Management  <br> 5.1.3. Source Code Style Guide & Conventions  <br> 5.1.4. Software Deployment Configuration  <br><br> **5.2. Landing Page, Services & Applications Implementation (Sprint 1)**  <br> 5.2.1.1. Sprint Planning 1  <br> 5.2.1.2. Aspect Leaders and Collaborators  <br> 5.2.1.3. Sprint Backlog 1  <br> 5.2.1.4. Development Evidence for Sprint Review  <br> 5.2.1.5. Execution Evidence for Sprint Review  <br> 5.2.1.6. Services Documentation Evidence for Sprint Review  <br> 5.2.1.7. Software Deployment Evidence for Sprint Review  <br> 5.2.1.8. Team Collaboration Insights during Sprint |
-| 2      | 13/05/2025  | - Del Aguila Ayala, Ricardo Alejandro  <br> - Machado Bracamonte, Ivo Marcelo  <br> - Sanchez Manrique, Italo Ludwing  <br> - Aliaga Aguirre, Ethan Matias  <br> - Contreras Lopez, Leandro Saúl | **5.2.2. Sprint 2**  <br> 5.2.2.1. Sprint Planning 2  <br> 5.2.2.2. Aspect Leaders and Collaborators  <br> 5.2.2.3. Sprint Backlog 2  <br> 5.2.2.4. Development Evidence for Sprint Review  <br> 5.2.2.5. Execution Evidence for Sprint Review  <br> 5.2.2.6. Services Documentation Evidence for Sprint Review  <br> 5.2.2.7. Software Deployment Evidence for Sprint Review  <br> 5.2.2.8. Team Collaboration Insights during Sprint  <br><br> Avance de Conclusiones, Bibliografía y Anexos |
+| 2      | 13/05/2025  | - Del Aguila Ayala, Ricardo Alejandro  <br> - Machado Bracamonte, Ivo Marcelo  <br> - Sanchez Manrique, Italo Ludwing  <br> - Aliaga Aguirre, Ethan Matias  <br> - Olivera Barzola, Eric Marlon | **5.2.2. Sprint 2**  <br> 5.2.2.1. Sprint Planning 2  <br> 5.2.2.2. Aspect Leaders and Collaborators  <br> 5.2.2.3. Sprint Backlog 2  <br> 5.2.2.4. Development Evidence for Sprint Review  <br> 5.2.2.5. Execution Evidence for Sprint Review  <br> 5.2.2.6. Services Documentation Evidence for Sprint Review  <br> 5.2.2.7. Software Deployment Evidence for Sprint Review  <br> 5.2.2.8. Team Collaboration Insights during Sprint  <br><br> Avance de Conclusiones, Bibliografía y Anexos |
 
 # 
 
@@ -54,18 +54,39 @@
 
 ## Project Report Collaboration Insights  
 
+El informe del proyecto se ha gestionado de forma colaborativa mediante el siguiente repositorio en la organización de GitHub del equipo:  [Repositorio](https://github.com/HampCoders/Electrolonk-FE)  
+
+A continuación, se presentan las capturas de GitHub correspondientes a la colaboración activa del equipo en la elaboración del informe:
+
+
 <hr>
+
+1. Commits por integrante y distribución por semana
+Se evidencia una participación activa y distribuida.
+
+Integrantes como lvonmb11, Rexest01, ItaloSanche, y MatFragg realizaron contribuciones constantes a lo largo de las semanas claves del desarrollo.
+
+Los commits muestran trabajo en paralelo y complementario.
 
 <img src="https://i.imgur.com/wWs4RX7.jpeg"/>
 <hr>
 
 <hr>
 
+2. Git Clones y Visitas
+El repositorio ha tenido 63 clones y 38 usuarios únicos que accedieron al repositorio, lo cual refleja un interés continuo en el contenido del informe.
+
+Las vistas alcanzaron 494 visualizaciones, mostrando una alta frecuencia de revisión por parte del equipo y evaluadores.
+
 <img src="https://i.imgur.com/VR2W6Ix.jpeg"/>
 <hr>
 
 <hr>
 
+3. Pull Requests y colaboración técnica
+Se han gestionado 58 pull requests activos relacionados al documento del informe, lo cual evidencia que se trabajó en ramas separadas para cada sección.
+
+No se registraron conflictos ni problemas en el control de versiones, manteniendo un flujo de trabajo limpio.
 <img src="https://i.imgur.com/tFvXuDv.jpeg"/>
 <hr>
 

@@ -2048,6 +2048,207 @@ En el caso de la landing page y su Sprint, el equipo encargado su diseño y desp
 
 <hr>
 
+##### 5.2.2. Sprint 2 
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
+##### 5.2.2.1. Sprint Planning 2.
+Durante la reunión de planificación del Sprint 2, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad del sistema y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
+
+| **Sprint #** | Sprint 2 |
+|--------------|----------|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-05-12 |
+| **Time** | 5:00 PM |
+| **Location** | Virtual - Discord |
+| **Prepared By** | Ivo Marcelo Machado Bracamonte |
+| **Attendees (to planning meeting)** | Ludwing Sanchez Manrique / Ethan Matias Aliaga Aguirre / Leandro Saúl Contreras Lopez / Ivo Marcelo Machado Bracamonte / Ricardo Del Aguila Ayala |
+| **Sprint n – 1 Review Summary** | Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido. |
+| **Sprint n – 1 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint n Goal** | Our focus is on consolidar la primera versión funcional del Front End con pantallas clave del sistema. We believe it delivers una experiencia inicial que permita validar la estructura visual y usabilidad básica de la aplicación con potenciales usuarios. This will be confirmed when se implementen al menos tres pantallas interactivas que permitan una navegación fluida y se obtenga retroalimentación positiva en pruebas de uso iniciales. |
+| **Sprint n Velocity** | 100% |
+| **Sum of Story Points** | 67 Story Points |
+
+
+
+
+##### 5.2.2.2. Aspect Leaders and Collaborators. 
+
+Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded Contexts: Authentication, Profile Management, Service Management y Service Contracting. A fin de garantizar una gestión clara y colaborativa del trabajo, se elaboró la siguiente matriz LACX. En ella se identifica quién asume el rol de líder (L) y quiénes colaboran (C) en cada uno de estos aspectos, asegurando una comunicación efectiva y responsabilidades bien definidas dentro del equipo.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Authentication** | **Profile Management** | **Service Management** | **Service Contracting** |
+|-----------------------------------------|----------------------|---------------------|-------------------------|-------------------------|--------------------------|
+| Sánchez Manrique, Ludwing               | ItaloSanche          | L                   | C                       | C                       |                          |
+| Aliaga Aguirre, Ethan Matías            | MatFragg             | C                   | L                       |                         | C                        |
+| Olivera Barzola , Eric Marlon           | EricMarlon           | C                   | C                       | L                       | C                        |
+| Machado Bracamonte, Ivo Marcelo         | ivommb11             | C                   |                         | C                       | L                        |
+| Del Aguila Ayala, Ricardo               | Rexest01             |                     | C                       | C                       | C                        |
+
+
+
+##### 5.2.2.3. Sprint Backlog 2.
+
+Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa Frontend de la aplicación, estableciendo las bases visuales y funcionales que interactúan directamente con los usuarios. Se priorizó la implementación de componentes clave asociados a cada uno de los bounded contexts asignados individualmente a los integrantes, lo cual permitió una distribución clara de responsabilidades y un avance paralelo de las funcionalidades. Cada miembro del equipo asumió el liderazgo en el desarrollo de un conjunto específico de componentes, asegurando coherencia y continuidad en cada dominio funcional.
+
+Además, como parte del compromiso con la experiencia del usuario, se implementó una nueva versión de la Landing Page, con un enfoque visual renovado. Esta incluye imágenes representativas de los servicios ofrecidos, buscando captar la atención desde el primer contacto y comunicar de manera más efectiva la propuesta de valor de la plataforma. Esta mejora visual no solo fortalece la identidad de marca, sino que también establece una conexión más directa con las necesidades de los usuarios.
+
+Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/iKXzrJ60/electrolink-aplicaciones-web)
+
+<img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
+
+### Sprint Backlog 2
+
+| User Story ID | User Story                              | Work-Item / Task ID | Work-Item / Task Title                       | Description                                                                 | Estimation (Hours) | Assigned To | Status |
+|---------------|------------------------------------------|----------------------|----------------------------------------------|-----------------------------------------------------------------------------|---------------------|--------------|--------|
+| US11          | Conocer más a fondo los servicios que ofrecen | T11-1         | Agregar imagenes acerca de los servicios que ofrecemos | 1 | Matias Aliaga | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-1         | Diseñar formulario de ingreso | Diseñar formulario de ingreso de nuevo registro de consumo | 1 | Matias Aliaga | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-2         | Implementar validaciones | Implementar validaciones de campos del formulario (valores numéricos, fechas, etc.) | 1 | Matias Aliaga | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-3             | Crear endpoint backend | Crear endpoint en backend para almacenar nuevos registros | 1.5 |  Matias Aliaga  | done |
+| US31          | Crear Registro de Consumo Eléctrico | T31-5             | Implementar confirmación | Implementar mensaje de confirmación tras registro exitoso | 0.5 | Matias Aliaga  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-1             | Diseñar interfaz de selección | Diseñar interfaz para seleccionar registros existentes | 0.5 |  Matias Aliaga  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-2             | Implementar formulario de edición | Implementar formulario de edición con datos precargados | 1 | Matias Aliaga  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-3             | Crear endpoint de actualización | Crear endpoint en backend para actualizar registros | 1 | Matias Aliaga  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-4             | Añadir validaciones | Añadir validaciones para cambios en los datos | 0.5 | Matias Aliaga  | done |
+| US32          | Editar Registro de Consumo Eléctrico | T32-5                   | Implementar confirmación | Implementar confirmación de modificaciones | 0.5 | Matias Aliaga  | done |
+| US33          | Eliminar Registro de Consumo Eléctrico | T33-1                 | Diseñar interfaz de selección | Diseñar interfaz para visualizar y seleccionar registros a eliminar | 0.5 | Matias Aliaga  | done |
+| US33          | Eliminar Registro de Consumo Eléctrico | T33-2                 | Implementar diálogo de confirmación | Implementar diálogo de confirmación antes de eliminar | 0.5 | Matias Aliaga  | done |
+| US33          | Eliminar Registro de Consumo Eléctrico | T33-3                 | Crear endpoint de eliminación | Crear endpoint en backend para eliminación de registros | 1 | | done |
+| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0371               | Desarrollo del formulario de búsqueda         | Implementación de campos para ingresar ubicación y tipo de servicio         | 1                   | Italo        | done   |
+| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0372               | Lógica de filtrado por parámetros             | Programación de lógica para mostrar resultados según filtros definidos      | 1                   | Italo        | done   |
+| US37          | Búsqueda por Ubicación y Tipo de Servicio | TS0373               | Estructura de vista de resultados             | Creación de componente visual para mostrar lista de técnicos                | 0.5                 | Italo        | done   |
+| US38          | Búsqueda Geolocalizada                   | TS0381               | Captura de ubicación a partir de IP pública   | Consumo de API externa para obtener datos geográficos de la IP              | 1                   | Italo        | done   |
+| US38          | Búsqueda Geolocalizada                   | TS0382               | Visualización de ubicación en mapa            | Integración del mapa con coordenadas detectadas mediante Leaflet            | 1                   | Italo        | done   |
+| US38          | Búsqueda Geolocalizada                   | TS0383               | Renderizado de datos geográficos              | Despliegue en pantalla de país, región y ciudad obtenidos desde la IP       | 0.5                 | Italo        | done   |
+| US39          | Filtrado por Disponibilidad y Calificación | TS0391               | Lógica de filtro por disponibilidad horaria   | Programación de condiciones para disponibilidad en la vista de resultados   | 0.5                 | Italo        | done   |
+| US39          | Filtrado por Disponibilidad y Calificación | TS0392               | Renderizado de calificación promedio          | Mostrar visualmente la calificación de cada técnico                         | 0.5                 | Italo        | done   |
+| US53          | Gestión de Agenda y Citas                | TS0531               | Visualización de agenda                      | Mostrar lista de tareas agendadas con detalles del cliente y servicio      | 1.5                 | Ivo          | done   |
+| US53          | Gestión de Agenda y Citas                | TS0532               | Crear tarea                                  | Formulario para agendar nueva cita con fecha, cliente y servicio           | 1.5                 | Ivo          | done   |
+| US53          | Gestión de Agenda y Citas                | TS0533               | Editar tarea                                 | Lógica y formulario para actualizar una cita existente                     | 1.5                 | Ivo          | done   |
+| US53          | Gestión de Agenda y Citas                | TS0534               | Eliminar tarea                               | Botón y lógica para eliminar cita de la agenda                             | 0.5                 | Ivo          | done   |
+| US54          | Gestión de Servicios Ofrecidos           | TS0541               | Visualización del catálogo de servicios      | Mostrar lista de servicios y componentes eléctricos asociados              | 1.5                 | Ivo          | done   |
+| US55          | Crear Servicios Ofrecidos           | TS04551               | Crear servicio                               | Formulario con inclusiones y componentes eléctricos                        | 1.5                 | Ivo          | done   |
+| US56          | Editar Servicios Ofrecidos           | TS04561               | Editar servicio                              | Actualizar servicio y sus componentes                                       | 1.5                 | Ivo          | done   |
+| US57          | Eliminar Servicios Ofrecidos           | TS0571               | Eliminar servicio                            | Lógica para borrar servicio del inventario                                 | 0.5                 | Ivo          | done   |
+| US43          | Historial de Clientes Atendidos          | TS0431               | Card de historial en dashboard               | Mostrar historial de clientes atendidos como resumen en el dashboard       | 0.5                 | Ivo          | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0441               | Desarrollo del formulario de calificación     | Implementación de formulario para ingresar calificación y comentario        | 1.5                 | Eric        | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0442               | Lógica de envío de calificación y reseña      | Programación de lógica para registrar y almacenar la reseña en la base de datos | 2               | Eric        | done   |
+| US44          | Sistema de Calificación Post-Servicio    | TS0443               | Asociación de reseña con usuario y servicio   | Establecer relaciones entre usuarios, servicios y sus respectivas calificaciones | 1.5             | Eric       | done   |
+| US45          | Visualización de Calificaciones y Reseñas | TS0451               | Renderizado de calificaciones y comentarios   | Mostrar lista de reseñas y calificaciones en la vista del técnico o servicio | 1.5               | Eric        | done   |
+| US45          | Visualización de Calificaciones y Reseñas | TS0452               | Cálculo de promedio de calificaciones         | Lógica para calcular y mostrar promedio de puntuación por técnico o servicio | 1.5               | Eric        | done   |
+
+##### 5.2.2.4. Development Evidence for Sprint Review.
+
+## Development Evidence for Sprint Review
+
+Durante el Sprint se avanzó en la implementación de los siguientes productos: Landing Page, Aplicaciones Web y Servicios Web. A continuación se presenta la evidencia de desarrollo mediante commits registrados en los repositorios utilizados durante este periodo. La tabla incluye el nombre del repositorio, rama de trabajo, identificador del commit, mensaje del commit, descripción detallada del cambio y la fecha en que se realizó.
+
+| Repository                                | Branch | Commit ID | Commit Message                                 | Commit Message Body                                         | Committed on  |
+|-------------------------------------------|--------|-----------|-----------------------------------------------|-------------------------------------------------------------|---------------|
+| Open-Source-4341/ElectroLink-FE           | master | ca287e0   | Merge pull request #1 from Open-Source-4341/main | All Bounded Contexts Implemented                            | 2025-05-15    |
+| Open-Source-4341/ElectroLink-FE           | master | da23457e0 | Reestructuré el proyecto dentro de la carpeta ItaloFiles |Service Contracting Bounded Context        | 2025-05-15    |
+| Open-Source-4341/ElectroLink-FE           | master | r4a2564e0 | Agrego mi proyecto en la carpeta Ivo           | Componentes iniciales del módulo asignado                   | 2025-05-15    |
+| Open-Source-4341/ElectroLink-FE           | master | u67287gdf |Agrego mi proyecto en la carpeta de LeandroFiles | Agregar reviews del Contracting Bounded Context             | 2025-05-15   |
+
+
+##### 5.2.2.5. Execution Evidence for Sprint Review. 
+
+Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación ElectroLink, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
+
+El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint, 
+
+
+
+
+<img  src="https://i.postimg.cc/TwZKgCBj/92d49261-de39-4745-86c1-207df61e3600.webp"/>
+
+
+<img  src="https://i.postimg.cc/Wzwsz8V1/Whats-App-Image-2025-05-13-at-12-25-26.jpg"/>
+
+<img  src="https://i.postimg.cc/B616S2tj/image-23.webp"/>
+
+<img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
+
+<img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores diferentes. Utilizamos swagger para la presente documentacion
+
+### Technicians Controller
+
+| Verbo HTTP | Endpoint                         | Summary                        | Request Body | Parámetros   |
+|------------|----------------------------------|--------------------------------|--------------|--------------|
+| GET        | /api/v1/technicians              | Obtener todos los técnicos     | No           | -            |
+| GET        | /api/v1/technicians/{id}         | Obtener técnico por ID         | No           | id           |
+| POST       | /api/v1/technicians              | Crear nuevo técnico            | Sí           | -            |
+| PUT        | /api/v1/technicians/{id}         | Actualizar datos de técnico    | Sí           | id           |
+| DELETE     | /api/v1/technicians/{id}         | Eliminar técnico               | No           | id           |
+
+### Clients Controller
+
+| Verbo HTTP | Endpoint                         | Summary                        | Request Body | Parámetros   |
+|------------|----------------------------------|--------------------------------|--------------|--------------|
+| GET        | /api/v1/clients                  | Obtener todos los clientes     | No           | -            |
+| GET        | /api/v1/clients/{id}             | Obtener cliente por ID         | No           | id           |
+| POST       | /api/v1/clients                  | Registrar nuevo cliente        | Sí           | -            |
+| PUT        | /api/v1/clients/{id}             | Actualizar cliente             | Sí           | id           |
+| DELETE     | /api/v1/clients/{id}             | Eliminar cliente               | No           | id           |
+
+### Services Controller
+
+| Verbo HTTP | Endpoint                         | Summary                             | Request Body | Parámetros   |
+|------------|----------------------------------|-------------------------------------|--------------|--------------|
+| GET        | /api/v1/services                 | Listar todos los servicios          | No           | -            |
+| GET        | /api/v1/services/{id}            | Obtener servicio por ID             | No           | id           |
+| POST       | /api/v1/services                 | Crear nuevo servicio                | Sí           | -            |
+| PUT        | /api/v1/services/{id}            | Actualizar datos del servicio       | Sí           | id           |
+| DELETE     | /api/v1/services/{id}            | Eliminar servicio                   | No           | id           |
+
+### Reviews Controller
+
+| Verbo HTTP | Endpoint                                 | Summary                             | Request Body | Parámetros   |
+|------------|------------------------------------------|-------------------------------------|--------------|--------------|
+| GET        | /api/v1/technicians/{id}/reviews         | Obtener reseñas del técnico         | No           | id           |
+| POST       | /api/v1/technicians/{id}/reviews         | Crear nueva reseña                  | Sí           | id           |
+| DELETE     | /api/v1/reviews/{reviewId}               | Eliminar reseña                     | No           | reviewId     |
+
+### Electrical Invoice Controller
+
+| Verbo HTTP | Endpoint                                      | Summary                                           | Request Body | Parámetros   |
+|------------|-----------------------------------------------|---------------------------------------------------|--------------|--------------|
+| GET        | /api/v1/invoice/electrical-invoice/           | Obtener últimos registros creados                 | No           | -            |
+| GET        | /api/v1/invoice/electrical-invoice/:id        | Obtener una factura por ID                        | No           | id           |
+| POST       | /api/v1/invoice/electrical-invoice/           | Crear una nueva factura eléctrica                 | Sí           | -            |
+| PUT        | /api/v1/invoice/electrical-invoice/:id        | Reemplazar completamente la factura existente     | Sí           | id           |
+| PATCH      | /api/v1/invoice/electrical-invoice/:id        | Modificar parcialmente una factura existente      | Sí           | id           |
+| DELETE     | /api/v1/invoice/electrical-invoice/:id        | Eliminar una factura por ID                       | No           | id           |
+
+
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+
+Para ste despliegue hemos usado Beeseptor y FireBase
+
+<img  src="https://i.postimg.cc/43035GwX/Captura-de-pantalla-2025-05-13-165620.png"/>
+
+<img  src="https://i.postimg.cc/T3YnwrPF/Captura-de-pantalla-2025-05-13-165849.png"/>
+
+Enlaces de las paginas desplegadas:
+
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits.
+
+
+
+
+
+<hr>
+
+
+
+
 ### Conclusiones
 
 - El equipo logró mantener una estructura de trabajo colaborativa, distribuyendo adecuadamente las responsabilidades según las fortalezas de cada integrante.

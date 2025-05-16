@@ -1632,7 +1632,13 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
-<img src="https://i.imgur.com/28bjNjk.png"/>
+En esta sección se presenta la propuesta de User Flows del sistema ElectroLink, diseñados para representar las rutas de interacción que los usuarios siguen dentro de la plataforma. Cada flujo corresponde a un User Goal específico, basado en los perfiles de User Persona definidos en el alcance del proyecto.
+
+<img src="https://i.imgur.com/fLb0bCw.png"/>
+<img src="https://i.imgur.com/FDCaGyc.png"/>
+<img src="https://i.imgur.com/ss6IaYV.png"/>
+
+[Ver diagrama en Lucidchart](https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3)  
 
 ### 4.5. Web Applications Prototyping
 

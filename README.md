@@ -2361,10 +2361,10 @@ Durante el Sprint se avanzó en la implementación de los siguientes productos: 
 
 | Repository                                | Branch | Commit ID | Commit Message                                 | Commit Message Body                                         | Committed on  |
 |-------------------------------------------|--------|-----------|-----------------------------------------------|-------------------------------------------------------------|---------------|
-| HampCoders/ElectroLink-FE                 | feature/inventory-service-component | ca287e0   | All Bounded Contexts Implemented | All Bounded Contexts Implemented     | 2025-05-15    |
-| HampCoders/ElectroLink-FE                 | feature/register-technician | da23457e0 | Technician registration component |Service Contracting Bounded Context  | 2025-05-15    |
-| HampCoders/ElectroLink-FE                 | feature/reviews | r4a2564e0 |    Review management component |  Add Bounded Context Hiring Reviews                  | 2025-05-15    |
-| HampCoders/ElectroLink-FE                 | feature/invoices | u67287gdf | Updated Invoices Management Component| Agregar reviews del Contracting Bounded Context             | 2025-05-15   |
+| HampCoders/ElectroLink-FE                 | feature/inventory-service-component | 501de14   | All Bounded Contexts Implemented | All Bounded Contexts Implemented     | 2025-05-15    |
+| HampCoders/ElectroLink-FE                 | feature/register-technician | 381b443 | Technician registration component |Service Contracting Bounded Context  | 2025-05-15    |
+| HampCoders/ElectroLink-FE                 | feature/reviews |  a56c1fa|    Review management component |  Add Bounded Context Hiring Reviews                  | 2025-05-15    |
+| HampCoders/ElectroLink-FE                 | feature/invoices | fbeaf70 | Updated Invoices Management Component| Agregar reviews del Contracting Bounded Context             | 2025-05-15   |
 | HampCoders/ElectroLink-FE                 | feature/schedule-management | u67287gdf | Components service management|    All Bounded Contexts Implemented    | 2025-05-15   |
 
 
@@ -2458,7 +2458,9 @@ Enlaces de las paginas desplegadas:
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
 En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits.
-
+<img  src="https://i.imgur.com/ondcOe6.png"/>
+<img  src="https://i.imgur.com/xOjTiZx.png"/>
+<img  src="https://i.imgur.com/Dh94IyK.png"/>
 
 
 

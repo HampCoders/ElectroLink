@@ -2493,4 +2493,5 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 ### Anexos
 - Enlace de Landing Page : 
 [https://hampcoders.github.io/Landing-Page//](https://hampcoders.github.io/Landing-Page/)
+[https://landing-page-3d9d4.web.app/]
 <hr>

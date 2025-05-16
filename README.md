@@ -2460,6 +2460,9 @@ Para ste despliegue hemos usado Beeseptor y FireBase
 
 <img  src="https://i.postimg.cc/T3YnwrPF/Captura-de-pantalla-2025-05-13-165849.png"/>
 
+<img  src="https://i.imgur.com/KL5vAiF.png"/>
+
+
 Enlaces de las paginas desplegadas:
 
 https://electrolink-front.web.app/home

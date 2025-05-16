@@ -1903,7 +1903,7 @@ Subscription Billing Bounded Context
 
 #### 4.7.1. Class Diagrams
 
-<img src="https://i.imgur.com/U7exloi.jpeg"/>
+<img src="https://i.imgur.com/rzIgdUv.png"/>
 <hr>
 
 <hr>

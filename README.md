@@ -2251,8 +2251,9 @@ En el caso de la landing page y su Sprint, el equipo encargado su diseño y desp
 
 <hr>
 
-##### 5.2.2. Sprint 2 
+#### 5.2.2. Sprint 2 
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
+
 ##### 5.2.2.1. Sprint Planning 2.
 Durante la reunión de planificación del Sprint 2, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad del sistema y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
@@ -2460,6 +2461,24 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 <img  src="https://i.imgur.com/Dh94IyK.png"/>
 
 
+#### 5.2.3. Sprint 3
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
+
+##### 5.2.3.1.Spring Planning 3.
+##### 5.2.3.2. Aspect Leaders and Collaborators.
+##### 5.2.3.3.Sprint Backlog 3.
+##### 5.2.3.4.Development Evidence for Sprint Review.
+##### 5.2.3.5.Execution Evidence for Sprint Review.
+##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+##### 5.2.3.8.Team Collaboration Insights during Sprint
+
+#### 5.3. Validation Interviews.
+##### 5.3.1. Diseño de Entrevistas.
+##### 5.3.2. Registro de Entrevistas.
+##### 5.3.3. Evaluaciones según heurísticas
+
+#### 5.4. Video About-the-Product.
 
 <hr>
 

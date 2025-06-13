@@ -2465,6 +2465,24 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
 
 ##### 5.2.3.1.Spring Planning 3.
+Durante la reunión de planificación del Sprint 3, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad de la plataforma y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **Sprint Planning Background** |  |
+| **Date** | 2025-06-05 |
+| **Time** | 4:00 PM |
+| **Location** | Virtual - Discord |
+| **Prepared By** | Ethan Matias Aliaga Aguirre |
+| **Attendees (to planning meeting)** | Ludwing Sanchez Manrique / Ethan Matias Aliaga Aguirre / Eric Olivera Barzola / Ivo Marcelo Machado Bracamonte / Ricardo Del Aguila Ayala |
+| **Sprint n – 2 Review Summary** | Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró implementar funcionadlidades la aplicación Front End. Este avance permitió establecer la base de la aplicación Front-end, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas y el despliegue del Mock-end no fueron completadas , el producto resultante fue funcional y bien recibido. |
+| **Sprint n – 2 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar el trabajo colaborativo como la separación de tareas en base a aspectos. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint n Goal** | Nuestro enfoque está en establecer el núcleo funcional completo de la plataforma eléctrica, abarcando la gestión de inventario, la contratación de servicios mediante un wizard guiado y la asignación automática de técnicos.
+Creemos que esto entrega un flujo completo y funcional desde la solicitud hasta la finalización del servicio eléctrico a propietarios de PyMEs que necesitan servicios y a técnicos que desean ofrecerlos. Esto se confirmará cuando los propietarios puedan registrar propiedades, contratar servicios mediante el wizard, recibir la asignación automática de técnicos, y estos últimos puedan gestionar su inventario, horarios, zona de cobertura y completar servicios con evaluaciones en la plataforma.|
+| **Sprint n Velocity** | 100% |
+| **Sum of Story Points** | 286 Story Points |
+
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 ##### 5.2.3.3.Sprint Backlog 3.
 ##### 5.2.3.4.Development Evidence for Sprint Review.

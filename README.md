@@ -2483,8 +2483,183 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Sum of Story Points** | 286 Story Points |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
+
+Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Services Resources Management Bounded Context** | **Services Desing and Planning Management Bounded Context** | **Service Contracting Bounded Context** | **Analytics Bounded Context** |
+|-----------------------------------------|---------------------|-------------------------------------------|---------------------------------------------------|-------------------------|--------------------------|
+| Sánchez Manrique, Ludwing               | ItaloSanche         |                                           | C                                                 |                         |                          |
+| Aliaga Aguirre, Ethan Matías            | MatFragg            | L                                         |                                                   |                         | C                        |
+| Olivera Barzola , Eric Marlon           | EricMarlon          | C                                         |                                                   |                         | L                        |
+| Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |                         |                          |
+| Del Aguila Ayala, Ricardo               | Rexest01            |                                           |                                                   | L                       | C                        |
+
 ##### 5.2.3.3.Sprint Backlog 3.
+
+Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información.
+
+Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en Trello](https://trello.com/b/pPESu5NU/sprint-backlog-3)
+
+<img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
+
+
+| Sprint # | Sprint 3 | | | | | | |
+|----------|----------|---|---|---|---|---|---|
+| **User Story** | | **Work-Item/task** | | | | | |
+| **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
+| **TS-13** | Conectar a Base de Datos | T001 | Configurar conexión PostgreSQL | Configurar pool de conexiones, variables de entorno y migración inicial | 4 | | |
+| | | T002 | Implementar modelos de datos principales | Crear entidades: User, Property, Component, Service, Technician | 6 | | |
+| | | T003 | Configurar repositorios y DAOs | Implementar patrones de acceso a datos con transacciones | 4 | | |
+| | | T004 | Setup de testing con BD | Configurar base de datos de testing y fixtures | 2 | | |
+| **US-31** | Crear Componente Eléctrico | T001 | Backend: API crear componente | Endpoint POST /components con validaciones y persistencia | 3 | | |
+| | | T002 | Frontend: Formulario componente | Componente React con validación de formularios | 4 | | |
+| | | T003 | Frontend: Integración API | Conectar formulario con endpoint, manejo de errores | 2 | | |
+| **US-32** | Editar Componente Eléctrico | T001 | Backend: API editar componente | Endpoint PUT /components/:id con validaciones | 2 | | |
+| | | T002 | Frontend: Modal de edición | Componente modal con formulario prellenado | 3 | | |
+| | | T003 | Frontend: Actualización en tiempo real | Actualizar lista tras edición exitosa | 2 | | |
+| **US-33** | Eliminar Componente Eléctrico | T001 | Backend: API eliminar componente | Endpoint DELETE /components/:id con validaciones de dependencias | 2 | | |
+| | | T002 | Frontend: Confirmación de eliminación | Modal de confirmación con advertencias | 2 | | |
+| | | T003 | Frontend: Actualización de UI | Remover elemento de lista tras eliminación | 1 | | |
+| **US-34** | Registro de Propiedad (Propietario) | T001 | Backend: API crear propiedad | Endpoint POST /properties con validación de dirección | 4 | | |
+| | | T002 | Frontend: Formulario registro propiedad | Componente con campos de dirección y validación | 5 | | |
+| | | T003 | Frontend: Integración geolocalización | Integrar Google Maps API para validar dirección | 3 | | |
+| **US-35** | Edición de Información de Propiedad | T001 | Backend: API actualizar propiedad | Endpoint PUT /properties/:id con validaciones | 3 | | |
+| | | T002 | Frontend: Formulario de edición | Componente de edición con datos prellenados | 4 | | |
+| | | T003 | Frontend: Validación de cambios | Detectar cambios y confirmar actualización | 2 | | |
+| **US-36** | Eliminación de Propiedad | T001 | Backend: API eliminar propiedad | Endpoint DELETE /properties/:id con validación de servicios activos | 3 | | |
+| | | T002 | Frontend: Confirmación múltiple | Modal con advertencias sobre servicios asociados | 3 | | |
+| | | T003 | Frontend: Actualización de estado | Actualizar dashboard tras eliminación | 1 | | |
+| **US-37** | Registro de Inventario de Componentes | T001 | Backend: API inventario técnico | Endpoint POST /technicians/:id/inventory | 3 | | |
+| | | T002 | Frontend: Gestión de inventario | Interfaz para agregar componentes al inventario | 4 | | |
+| | | T003 | Frontend: Búsqueda de componentes | Funcionalidad de búsqueda y filtrado | 3 | | |
+| **US-38** | Actualización de Stock de Componentes | T001 | Backend: API actualizar stock | Endpoint PUT /inventory/:id/stock con validaciones | 2 | | |
+| | | T002 | Frontend: Interfaz actualización stock | Componente para modificar cantidades | 3 | | |
+| | | T003 | Frontend: Notificaciones de cambio | Mostrar confirmaciones y errores | 2 | | |
+| **US-39** | Configuración de Alertas de Stock Mínimo | T001 | Backend: Sistema de alertas | Lógica para detectar stock bajo y enviar notificaciones | 3 | | |
+| | | T002 | Frontend: Configuración de umbrales | Interfaz para establecer límites mínimos | 3 | | |
+| | | T003 | Frontend: Panel de alertas | Dashboard con alertas de stock activas | 2 | | |
+| **US-40** | Contratación de Servicios Eléctricos mediante Wizard | T001 | Backend: API wizard servicio | Endpoint para manejar flujo paso a paso | 4 | | |
+| | | T002 | Frontend: Componente wizard | Wizard multi-paso con navegación | 5 | | |
+| | | T003 | Frontend: Validación por pasos | Validar datos en cada paso del wizard | 3 | | |
+| **US-41** | Selección de Propiedad | T001 | Backend: API propiedades usuario | Endpoint GET /users/:id/properties | 2 | | |
+| | | T002 | Frontend: Selector de propiedades | Componente dropdown con propiedades del usuario | 3 | | |
+| | | T003 | Frontend: Vista previa propiedad | Mostrar detalles de propiedad seleccionada | 2 | | |
+| **US-42** | Carga Manual de Datos de Recibos Eléctricos (3-6 recibos) | T001 | Backend: Recibir los recibos electricos  | Implementar la logica de negocio para recibir los recibos electriclos | 2 | | |
+| | | T002 | FrontEnd: Input Field para ingregar data de recibos electricos | Desarrollar el campo para ingresar la data de los recibos electricos | 1 | | |
+| **US-43** | Descripción Detallada del Problema | T001 | Frontend: Editor de descripción | Componente de texto enriquecido con validación | 3 | | |
+| | | T002 | Backend: Sanitizar información | Sanitizar la información que es enviada en este campo | 2 | | |
+| **US-44** | Selección de Servicio del Catálogo | T001 | Backend: API catálogo servicios | Endpoint GET /services con filtros por zona | 3 | | |
+| | | T002 | Frontend: Catálogo de servicios | Interfaz de selección con precios y descripciones | 4 | | |
+| | | T003 | Frontend: Filtros de búsqueda | Filtros por categoría, precio y disponibilidad | 3 | | |
+| **US-45** | Cancelación de Servicios Programados | T001 | Backend: API cancelar servicio | Endpoint PUT /services/:id/cancel con lógica de reembolso | 3 | | |
+| | | T002 | Frontend: Botón de cancelación | Funcionalidad de cancelación con confirmación | 2 | | |
+| **US-46** | Notificación de Asignación de Técnico | T001 | Backend: Sistema de notificaciones | Servicio para enviar notificaciones push/email | 4 | | |
+| | | T00.2 | Frontend: Panel de notificaciones | Componente para mostrar notificaciones en tiempo real | 3 | | |
+| | | T003 | Frontend: Detalles de asignación | Vista con información del técnico asignado | 2 | | |
+| **US-47** | Historial de servicios contratados | T001 | Backend: API historial servicios | Endpoint GET /users/:id/services con paginación | 2 | | |
+| | | T002 | Frontend: Lista de servicios | Componente con historial paginado y filtros | 3 | | |
+| | | T003 | Frontend: Detalles de servicio | Modal con información completa del servicio | 2 | | |
+| **US-48** | Configurar Horarios de Trabajo Semanales | T001 | Backend: API horarios técnico | Endpoint POST /technicians/:id/schedule | 3 | | |
+| | | T002 | Frontend: Calendario de configuración | Interfaz de calendario para establecer horarios | 4 | | |
+| | | T003 | Frontend: Validación de horarios | Validar solapamientos y horarios válidos | 2 | | |
+| **US-49** | Modificar Horarios de Trabajo | T001 | Backend: API actualizar horarios | Endpoint PUT /technicians/:id/schedule | 2 | | |
+| | | T002 | Frontend: Edición de horarios | Interfaz para modificar horarios existentes | 3 | | |
+| | | T003 | Frontend: Confirmación de cambios | Validar impacto en servicios programados | 2 | | |
+| **US-50** | Bloquear Fechas y Horarios | T001 | Backend: API bloquear fechas | Endpoint POST /technicians/:id/blocked-dates | 2 | | |
+| | | T002 | Frontend: Selector de fechas bloqueadas | Componente calendario para seleccionar fechas | 3 | | |
+| | | T003 | Frontend: Gestión de bloqueos | Lista de fechas bloqueadas con opción de desbloquear | 2 | | |
+| **US-51** | Visualizar Agenda Asignada | T001 | Backend: API agenda técnico | Endpoint GET /technicians/:id/agenda | 3 | | |
+| | | T002 | Frontend: Vista de calendario | Componente calendario con servicios asignados | 4 | | |
+| | | T003 | Frontend: Detalles de citas | Modal con información completa de cada servicio | 2 | | |
+| **US-52** | Configurar Tiempo de Traslado | T001 | Backend: API tiempo traslado | Endpoint PUT /technicians/:id/travel-time | 2 | | |
+| | | T002 | Frontend: Configuración traslado | Interfaz para establecer tiempos de traslado por zona | 3 | | |
+| | | T003 | Frontend: Cálculo automático | Mostrar impacto en disponibilidad de horarios | 2 | | |
+| **US-53** | Crear Servicios con Recetas | T001 | Backend: API crear servicio | Endpoint POST /services con recetas de componentes | 5 | | |
+| | | T002 | Frontend: Constructor de recetas | Interfaz para definir componentes necesarios | 5 | | |
+| | | T003 | Frontend: Calculadora de costos | Calcular precio basado en componentes y tiempo | 3 | | |
+| **US-54** | Modificar Servicios / Recetas | T001 | Backend: API actualizar servicio | Endpoint PUT /services/:id con validación de cambios | 3 | | |
+| | | T002 | Frontend: Editor de servicios | Interfaz para modificar servicios existentes | 4 | | |
+| | | T003 | Frontend: Impacto de cambios | Mostrar servicios afectados por modificaciones | 2 | | |
+| **US-55** | Eliminar Servicios del Catálogo | T001 | Backend: API eliminar servicio | Endpoint DELETE /services/:id con validaciones | 2 | | |
+| | | T002 | Frontend: Confirmación eliminación | Modal con advertencia sobre servicios activos | 2 | | |
+| **US-56** | Establecer Precios por Servicio y Zona | T001 | Backend: API precios zonales | Endpoint POST /services/:id/zone-pricing | 3 | | |
+| | | T002 | Frontend: Configurador de precios | Interfaz para establecer precios por zona | 4 | | |
+| | | T003 | Frontend: Vista previa de precios | Mostrar matriz de precios por zona | 2 | | |
+| **US-29** | Configuración de Zona de Cobertura Geográfica | T001 | Backend: API zonas de cobertura | Endpoint POST /technicians/:id/coverage-zones | 3 | | |
+| | | T002 | Frontend: Mapa de cobertura | Integración con mapas para definir zonas | 4 | | |
+| | | T003 | Frontend: Gestión de zonas | Lista y edición de zonas de cobertura | 2 | | |
+| **US-57** | Beneficio de Solicitud Prioritaria | T001 | Backend: Lógica de priorización | Sistema para priorizar solicitudes premium | 3 | | |
+| | | T002 | Frontend: Indicador de prioridad | Mostrar beneficios de solicitud prioritaria | 2 | | |
+| | | T003 | Frontend: Cola de solicitudes | Vista diferenciada para solicitudes prioritarias | 2 | | |
+| **US-58** | Notificación de Límite de Solicitudes Alcanzado | T001 | Backend: Contador de solicitudes | Lógica para rastrear límite de solicitudes mensuales | 3 | | |
+| | | T002 | Frontend: Notificación de límite | Mostrar advertencia cuando se acerque al límite | 2 | | |
+| | | T003 | Frontend: Opción de upgrade | Botón para actualizar a plan premium | 2 | | |
+| **US-59** | Seguimiento de Estados en Tiempo Real | T001 | Backend: Endpoint GET /services/{id}/status | Desarrollar un endpoint simple que devuelva el estado actual de un servicio. Será utilizado por el frontend para consultas periódicas (polling). | 4 | | |
+| | | T002 | Frontend: Componente de seguimiento | Interfaz con estados actualizados en tiempo real | 3 | | |
+| | | T003 | Frontend: Notificaciones push | Sistema de notificaciones push para cambios | 2 | | |
+| **US-60** | Registro Fotográfico Antes/Después | T001 | Backend: API subida de imágenes | Endpoint para subir y gestionar imágenes del servicio | 3 | | |
+| | | T002 | Frontend: Cámara/galería | Componente para tomar fotos o seleccionar de galería | 4 | | |
+| | | T003 | Frontend: Comparador de imágenes | Interfaz para mostrar antes/después lado a lado | 2 | | |
+| **US-61** | Generación de Reportes Técnicos | T001 | Backend: Generador de reportes | Servicio para generar reportes PDF del servicio | 4 | | |
+| | | T002 | Frontend: Formulario de reporte | Interfaz para completar información técnica | 3 | | |
+| | | T003 | Frontend: Vista previa PDF | Mostrar preview del reporte antes de enviar | 2 | | |
+| **US-62** | Actualización Automática de Inventario | T001 | Backend: Lógica de descuento automático | Sistema para descontar componentes tras servicio | 4 | | |
+| | | T002 | Frontend: Notificación de cambios | Mostrar cambios en inventario tras servicio | 2 | | |
+| | | T003 | Frontend: Log de movimientos | Historial de movimientos de inventario | 2 | | |
+| **US-64** | Sistema de Calificación Post-Servicio | T001 | Backend: API de evaluaciones | Endpoint POST /services/:id/rating | 3 | | |
+| | | T002 | Frontend: Formulario de calificación | Interfaz de rating con estrellas y comentarios | 3 | | |
+| | | T003 | Frontend: Recordatorio de evaluación | Notificación para evaluar servicio completado | 2 | | |
+| **US-65** | Visualizar Calificaciones y Reseñas | T001 | Backend: API obtener calificaciones | Endpoint GET /technicians/:id/ratings | 2 | | |
+| | | T002 | Frontend: Perfil del técnico | Mostrar promedio y reseñas en perfil | 3 | | |
+| | | T003 | Frontend: Filtros de reseñas | Filtrar reseñas por puntuación y fecha | 2 | | |
+| **US-66** | Retroalimentación directa de servicios | T001 | Backend: API de feedback | Endpoint POST /services/:id/feedback | 2 | | |
+| | | T002 | Frontend: Formulario de feedback | Interfaz para enviar comentarios adicionales | 3 | | |
+| | | T003 | Frontend: Chat de soporte | Sistema de mensajería para resolver problemas | 3 | | |
+| **US-75** | Recibir Confirmación de Suscripción | T001 | Backend: Webhook de confirmación | Procesar confirmación de pago de Stripe | 3 | | |
+| | | T002 | Frontend: Página de confirmación | Mostrar confirmación exitosa de suscripción | 2 | | |
+| | | T003 | Frontend: Email de bienvenida | Template y envío de email de confirmación | 2 | | |
+| **US-76** | Gestionar Suscripción Activa | T001 | Backend: API gestión suscripción | Endpoints para ver, pausar, reanudar suscripción | 5 | | |
+| | | T002 | Frontend: Panel de suscripción | Interfaz completa de gestión de suscripción | 4 | | |
+| | | T003 | Frontend: Historial de pagos | Lista de transacciones y facturas | 3 | | |
+| **US-77** | Suscribirse al Plan Premium de Propietario | T001 | Backend: API crear suscripción | Integración con Stripe para crear suscripción | 4 | | |
+| | | T002 | Frontend: Página de suscripción | Interfaz para seleccionar y pagar plan premium | 3 | | |
+| | | T003 | Frontend: Comparación de planes | Tabla comparativa de beneficios | 2 | | |
+| **US-78** | Suscripción Premium (Técnico) | T001 | Backend: Lógica suscripción técnico | Sistema de suscripción específico para técnicos | 5 | | |
+| | | T002 | Frontend: Dashboard premium técnico | Interfaz con beneficios premium para técnicos | 4 | | |
+| | | T003 | Frontend: Métricas avanzadas | Panel con estadísticas y analytics premium | 3 | | |
+| **US-79** | Cancelar mi suscripción | T00.1 | Backend: API cancelar suscripción | Endpoint para cancelar con Stripe | 2 | | |
+| | | T002 | Frontend: Flujo de cancelación | Proceso de cancelación con opciones de retención | 2 | | |
+| **US-80** | Manejo de Fallos en la Renovación | T001 | Backend: Lógica de reintentos | Sistema para manejar fallos de pago | 3 | | |
+| | | T002 | Frontend: Notificación de fallo | Avisar al usuario sobre problemas de pago | 2 | | |
+| | | T003 | Frontend: Actualizar método de pago | Interfaz para cambiar tarjeta de crédito | 3 | | |
+| **TS-01** | Registrar Propiedad (Endpoint) | T001 | Implementar endpoint POST /properties | Crear endpoint con validaciones de negocio | 4 | | |
+| **TS-02** | Obtener Propiedades por Propietario | T001 | Implementar endpoint GET /users/:id/properties | Endpoint con filtros y paginación | 3 | | |
+| **TS-03** | Crear Componente (Endpoint) | T001 | Implementar endpoint POST /components | Crear componente con validaciones | 4 | | |
+| | | T002 | Validaciones de negocio componentes | Validar unicidad, formato y reglas de negocio | 2 | | |
+| **TS-04** | Actualizar Stock de Componente | T001 | Implementar endpoint PUT /inventory/:id/stock | Actualizar stock con control de concurrencia | 3 | | |
+| **TS-05** | Crear Servicio de Técnico | T001 | Implementar endpoint POST /services | Crear servicio con recetas de componentes | 4 | | |
+| | | T002 | Validación de recetas | Validar componentes disponibles y precios | 2 | | |
+| **TS-06** | Obtener Servicios por Zona | T001 | Implementar endpoint GET /services | Filtrar servicios por zona geográfica | 4 | | |
+| | | T002 | Optimización de consultas geográficas | Índices y optimizaciones para búsqueda por zona | 2 | | |
+| **TS-07** | Iniciar Flujo de Solicitud | T001 | Implementar endpoint POST /service-requests | Crear solicitud con validaciones | 5 | | |
+| | | T002 | Lógica de validación de disponibilidad | Verificar disponibilidad de técnicos y componentes | 4 | | |
+| **TS-08** | Enviar Solicitud de Servicio | T001 | Implementar endpoint PUT /service-requests/:id/submit | Confirmar y enviar solicitud | 3 | | |
+| | | T002 | Integración con sistema de notificaciones | Notificar a técnicos disponibles | 3 | | |
+| **TS-09** | Asignar Técnico Automáticamente | T001 | Algoritmo de asignación automática | Lógica para asignar técnico óptimo | 6 | | |
+| | | T002 | Factores de asignación | Considerar distancia, disponibilidad, rating | 3 | | |
+| **TS-10** | Actualización Automática de Stock | T001 | Servicio de actualización automática | Descontar stock tras completar servicio | 4 | | |
+| | | T002 | Manejo de stock insuficiente | Lógica para manejar falta de componentes | 2 | | |
+| **TS-11** | Enviar Evaluación de Servicio | T001 | Implementar endpoint POST /evaluations | Guardar evaluación con validaciones | 3 | | |
+| | | T002 | Actualización de rating del técnico | Recalcular promedio de calificaciones | 3 | | |
+| **TS-12** | Obtener Evaluaciones por Técnico | T001 | Implementar endpoint GET /technicians/:id/evaluations | Obtener evaluaciones con paginación | 3 | | |
+| **TS-14** | Listener Webhook de Stripe | T001 | Implementar webhook handler | Procesar eventos de Stripe de forma segura | 5 | | |
+| | | T002 | Manejo de eventos de suscripción | Procesar creación, actualización y cancelación | 4 | | |
+| **TS-15** | Reinicio Mensual de Contador | T001 | Job de reinicio mensual | Cron job para resetear contadores de solicitudes | 3 | | |
+| **TS-16** | Sesión de Portal de Stripe | T001 | Implementar endpoint portal Stripe | Crear sesión para gestionar suscripción | 4 | | |
+| | | T002 | Configuración de portal | Configurar opciones disponibles en portal | 2 | | |
+
 ##### 5.2.3.4.Development Evidence for Sprint Review.
+
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.

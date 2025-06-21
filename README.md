@@ -2661,7 +2661,111 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 ##### 5.2.3.4.Development Evidence for Sprint Review.
 
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
+
+<hr>
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+# 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/catalog/types` | Crear tipo de componente |
+| **GET** | `/api/v1/catalog/types` | Obtener todos los tipos de componentes |
+| **GET** | `/api/v1/catalog/types/{typeId}` | Obtener tipo de componente por ID |
+| **PUT** | `/api/v1/catalog/types/{typeId}` | Actualizar tipo de componente por ID |
+| **DELETE** | `/api/v1/catalog/types/{typeId}` | Eliminar tipo de componente por ID |
+| **POST** | `/api/v1/catalog/components` | Crear componente |
+| **GET** | `/api/v1/catalog/components` | Obtener todos los componentes |
+| **PUT** | `/api/v1/catalog/components/{componentId}` | Actualizar componente por ID |
+| **DELETE** | `/api/v1/catalog/components/{componentId}` | Eliminar componente por ID |
+
+---
+
+### Technician Inventory
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/technicians/{technicianId}/inventory` | Crear inventario de técnico |
+| **GET** | `/api/v1/technicians/{technicianId}/inventory` | Obtener inventario de técnico |
+| **POST** | `/api/v1/technicians/{technicianId}/inventory/stock-items` | Agregar ítem al stock |
+| **PUT** | `/api/v1/technicians/{technicianId}/inventory/{componentId}` | Actualizar componente del inventario |
+| **DELETE** | `/api/v1/technicians/{technicianId}/inventory/{componentId}` | Eliminar componente del inventario |
+
+---
+
+### Properties
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/owners/{ownerId}/properties` | Obtener propiedades de un propietario |
+| **POST** | `/api/v1/owners/{ownerId}/properties` | Crear propiedad |
+| **GET** | `/api/v1/owners/{ownerId}/properties/{propertyId}` | Obtener propiedad por ID |
+| **PUT** | `/api/v1/owners/{ownerId}/properties/{propertyId}` | Actualizar propiedad |
+| **PUT** | `/api/v1/owners/{ownerId}/properties/{propertyId}/photo` | Actualizar foto |
+| **PUT** | `/api/v1/owners/{ownerId}/properties/{propertyId}/address` | Actualizar dirección |
+| **DELETE** | `/api/v1/owners/{ownerId}/properties/{propertyId}` | Eliminar propiedad |
+
+---
+
+### Technicians
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/technicians/{technicianId}` | Obtener técnico por ID |
+| **POST** | `/api/v1/technicians` | Crear técnico |
+| **GET** | `/api/v1/technicians` | Obtener todas las categorías |
+| **GET** | `/api/v1/technicians/{technicianId}/works` | Obtener trabajos por técnico |
+
+---
+
+### Works
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/works/{workId}` | Obtener trabajo por ID |
+| **POST** | `/api/v1/works` | Crear nuevo trabajo |
+| **GET** | `/api/v1/works` | Obtener todos los trabajos |
+| **POST** | `/api/v1/works/{workId}/image` | Agregar imagen a un trabajo |
+
+---
+
+### Ratings
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/ratings/{id}/rating` | Crear calificación |
+| **GET** | `/api/v1/ratings/{id}/rating` | Obtener calificación por ID |
+| **GET** | `/api/v1/ratings/technician/{technicianId}/ratings` | Obtener calificaciones por técnico |
+| **DELETE** | `/api/v1/ratings/{id}` | Eliminar calificación |
+| **PUT** | `/api/v1/ratings/{id}` | Actualizar calificación |
+| **GET** | `/api/v1/ratings` | Obtener todas las calificaciones |
+
+---
+
+### Reports
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/reports/{id}/report` | Crear reporte |
+| **GET** | `/api/v1/reports/{id}` | Obtener reporte por ID |
+| **DELETE** | `/api/v1/reports/{id}` | Eliminar reporte |
+| **POST** | `/api/v1/reports/{id}/photo` | Agregar foto al reporte |
+| **GET** | `/api/v1/reports` | Obtener todos los reportes |
+
+---
+
+### 🛠Service Operations
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **POST** | `/api/v1/service-operations` | Crear operación de servicio |
+| **GET** | `/api/v1/service-operations` | Obtener todas las operaciones |
+| **PUT** | `/api/v1/service-operations/{id}/status` | Actualizar estado de la operación |
+| **GET** | `/api/v1/service-operations/{id}/status` | Obtener estado de la operación |
+| **GET** | `/api/v1/service-operations/technician/{technicianId}/history` | Obtener historial del técnico |
+
+
+<hr>
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 ##### 5.2.3.8.Team Collaboration Insights during Sprint
 

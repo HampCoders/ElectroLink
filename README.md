@@ -2662,6 +2662,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 
 <hr>
+
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 # 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -2804,6 +2805,11 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
+<img  src="https://i.imgur.com/KMMWYFI.png"/>
+<img  src="https://i.imgur.com/yV2TrS9.png"/>
+<img  src="https://i.imgur.com/Rawm4sz.png"/>
+<img  src="https://i.imgur.com/p7CTMeD.png"/>
+<img  src="https://i.imgur.com/pjB7ptM.png"/>
 
 <hr>
 
@@ -2954,6 +2960,8 @@ Evaluación Heurística de ElectroLink
 <hr>
 
 #### 5.4. Video About-the-Product.
+
+[Video About The Product](https://drive.google.com/drive/folders/1Rpb7eYc3FspRk9DUtCHKrQbpHXqkhoGl?usp=sharing)
 
 <hr>
 

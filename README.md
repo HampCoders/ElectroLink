@@ -1,4 +1,4 @@
- <p align="center">
+![image](https://github.com/user-attachments/assets/cb75d241-ac4d-49a9-aca0-77b94a9de691) <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="80px" height="80px"/>
 </p>
 
@@ -2684,7 +2684,11 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 <img  src="https://i.imgur.com/pX8TsuU.png"/>
 
-<img  src="https://i.imgur.com/27MSHgu.png"/>
+#Se realizó el despliegue del BackEnd en Render
+
+<img  src="https://i.imgur.com/pVphFsz.png"/>
+
+[Despliegue en Rendert](https://electrolink-backend.onrender.com/)
 
 <hr>
 
@@ -2837,6 +2841,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <img  src="https://i.imgur.com/Rawm4sz.png"/>
 <img  src="https://i.imgur.com/p7CTMeD.png"/>
 <img  src="https://i.imgur.com/pjB7ptM.png"/>
+<img  src="https://i.imgur.com/27MSHgu.png"/>
 
 <hr>
 

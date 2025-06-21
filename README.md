@@ -2667,6 +2667,59 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 #### 5.3. Validation Interviews.
 ##### 5.3.1. Diseño de Entrevistas.
+
+<br>
+# Entrevistas por Segmento - Plataforma ElectroLink
+
+## Segmento: Clientes
+
+1. ¿Qué tan fácil te resultó registrarte y entender para qué servía ElectroLink como cliente?
+2. ¿Cómo fue tu experiencia al navegar desde el Home hasta encontrar un técnico?
+3. Al ver las cards de técnicos, ¿qué información fue clave para tomar una decisión (reseñas, distancia, disponibilidad)?
+4. ¿La sección de “Servicios activos” en el dashboard te ayudó a hacer seguimiento de lo que contrataste?
+5. ¿Pudiste identificar sin problemas en qué estado estaba tu solicitud o mantenimiento?
+6. ¿Sentiste que el diseño de la app era confiable y profesional desde el primer momento?
+7. ¿Qué tan útil te pareció el botón “Buscar técnico”? ¿Qué filtro usaste más?
+8. ¿La función de geolocalización y mapa te ayudó a elegir al mejor técnico cercano?
+9. ¿Te sentiste cómodo contratando a alguien por internet directamente desde la plataforma?
+10. ¿Te sirvió el módulo de notificaciones para saber cuándo ocurriría el mantenimiento?
+11. ¿Después de recibir el servicio, pudiste calificar al técnico fácilmente?
+12. ¿Qué cambiarías en la experiencia visual o funcional para que ElectroLink sea aún más clara o rápida de usar?
+
+---
+
+## Segmento: PYMEs
+
+1. ¿Tu empresa ya tenía una forma de gestionar proveedores eléctricos? ¿Qué cambió con ElectroLink?
+2. ¿El dashboard de “Gestión de agenda” te pareció fácil de entender para programar mantenimientos?
+3. ¿La opción de ver “Métricas y Rendimiento” fue útil para tomar decisiones de mejora?
+4. ¿Consideras valioso poder ver el “Historial de servicios” directamente en la plataforma?
+5. ¿ElectroLink te permite tener control sobre los días y horas en que recibes mantenimiento?
+6. ¿Qué tan clara te parece la visualización de técnicos preferidos? ¿Los volverías a contratar?
+7. ¿La interfaz de búsqueda por tipo de servicio eléctrico y ubicación te pareció ágil?
+8. ¿Usaste el sistema de reseñas para elegir a quién contratar? ¿Confiaste en él?
+9. ¿Crees que el diseño transmite formalidad y profesionalismo suficiente para una pyme?
+10. ¿Qué tan útil sería para ti recibir un reporte automático del mantenimiento realizado?
+11. ¿Te sirvió ver alertas de “Notificaciones” como recordatorio de mantenimientos?
+12. ¿Qué funcionalidades crees que le hacen falta a ElectroLink para facilitarte la gestión como empresa?
+
+---
+
+## Segmento: Proveedores
+
+1. ¿Fue fácil registrarte como proveedor y configurar tu perfil dentro de ElectroLink?
+2. ¿El dashboard de proveedor refleja claramente tu estado (disponible/no disponible, servicios en curso)?
+3. ¿Te sentiste representado profesionalmente con el diseño y datos de tu perfil?
+4. ¿Qué tan útil te parece tener un módulo específico para gestionar tus servicios activos?
+5. ¿La sección de “Inventario y Catálogo” fue fácil de actualizar con tus propios servicios?
+6. ¿Consideras útil tener tus “Métricas y Rendimiento” disponibles en tiempo real?
+7. ¿Las reseñas de los clientes te han servido para mejorar tu trabajo o conseguir más solicitudes?
+8. ¿Qué tan fácil fue para ti agregar un horario a la agenda y gestionar tu disponibilidad?
+9. ¿La función de ver tu perfil como los clientes lo ven te parece clara y justa?
+10. ¿Pudiste cargar bien tus certificaciones y ver cómo aparecen en la app?
+11. ¿Sentiste que la app te dio mayor visibilidad profesional que buscar clientes por tu cuenta?
+12. ¿Qué cosas le agregarías al panel de proveedor para sentirte más apoyado como técnico?
+<br>
 ##### 5.3.2. Registro de Entrevistas.
 ##### 5.3.3. Evaluaciones según heurísticas
 

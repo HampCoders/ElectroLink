@@ -2668,7 +2668,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 #### 5.3. Validation Interviews.
 ##### 5.3.1. Diseño de Entrevistas.
 
-<br>
+<hr>
 # Entrevistas por Segmento - Plataforma ElectroLink
 
 ## Segmento: Clientes
@@ -2719,14 +2719,84 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 10. ¿Pudiste cargar bien tus certificaciones y ver cómo aparecen en la app?
 11. ¿Sentiste que la app te dio mayor visibilidad profesional que buscar clientes por tu cuenta?
 12. ¿Qué cosas le agregarías al panel de proveedor para sentirte más apoyado como técnico?
-<br>
+<hr>
+
 ##### 5.3.2. Registro de Entrevistas.
 ##### 5.3.3. Evaluaciones según heurísticas
+<hr>
+# Evaluación Heurística de ElectroLink
+
+**Carrera:** Ingeniería de Software  
+**Curso:** Aplicaciones Web  
+**Auditor:** ElectroLink  
+**Plataforma evaluada:** ElectroLink – Plataforma Web  
+
+---
+
+## Tareas evaluadas
+
+- Comprender el propósito del sitio al ingresar  
+- Navegar y entender la propuesta de valor tanto para propietarios como para proveedores  
+- Visualizar e interactuar con el catálogo de servicios  
+- Acceder a testimonios, valores, misión y visión de la empresa  
+- Evaluar la visual jerárquica de acciones clave (registrarse, buscar técnicos, mostrar perfil)  
+- Interacción de proveedores con sus servicios e inventario  
+- Mostrar el trabajo realizado (visibilidad a clientes)  
+- Comparar perfiles técnicos y ver reseñas  
+- Reportar un servicio finalizado (cliente y proveedor)  
+- Evaluar accesibilidad visual e inclusividad  
+
+---
+
+## Tabla resumen de problemas detectados
+
+| #  | Problema detectado                                                                 | Severidad | Heurística/Principio violado                                       |
+|----|-------------------------------------------------------------------------------------|-----------|-------------------------------------------------------------------|
+| 1  | Falta un botón de regreso rápido al inicio en páginas extensas                     | 2         | Control del usuario                                               |
+| 2  | Íconos e imágenes no tienen descripciones accesibles (sin `alt`)                   | 3         | Inclusive Design – Experiencias comparables                      |
+| 3  | Jerarquía visual poco clara en botones de acción principal                         | 2         | Visibilidad y jerarquía visual                                    |
+| 4  | No hay diferenciación visual clara entre botones de cliente y proveedor            | 2         | Consistencia y estándares                                         |
+| 5  | No se explicita claramente el beneficio tangible de publicar un servicio           | 2         | Reconocer en lugar de recordar                                   |
+| 6  | En vistas de gestión, no se resalta lo más urgente (como “nuevas solicitudes”)     | 3         | Visibilidad del estado del sistema                               |
+| 7  | No hay retroalimentación visual luego de acciones (ej. guardar inventario)         | 3         | Visibilidad del estado del sistema                               |
+| 8  | No hay ayudas contextuales (tooltips o descripciones) en íconos de servicios       | 2         | Ayuda y documentación                                             |
+| 9  | No se destacan los beneficios diferenciales para PYMEs respecto a clientes comunes | 2         | Reconocer en lugar de recordar / Personalización del contenido    |
+| 10 | No se ofrecen opciones de configuración accesibles (contraste, tamaños)            | 3         | Diseño inclusivo                                                  |
+| 11 | La opción “Mostrar tu trabajo” no guía claramente cómo se verá al cliente          | 2         | Correspondencia entre sistema y el mundo real                     |
+| 12 | El flujo de registro y rol no se valida con confirmación clara al usuario          | 3         | Prevención de errores / Control del usuario                       |
+
+---
+
+## Descripción de problemas clave
+
+### Problema #2: Falta de etiquetas accesibles en íconos e imágenes  
+**Severidad:** 3  
+**Heurística violada:** Inclusive Design  
+**Descripción:** Los íconos que representan funcionalidades como “servicio garantizado”, “componentes”, “perfiles”, etc., no tienen `alt` ni descripciones para lectores de pantalla.  
+**Recomendación:** Añadir `alt`, `aria-label` o tooltips en cada ícono o imagen decorativa relevante.
+
+---
+
+### Problema #6: No se resalta lo más urgente para el proveedor  
+**Severidad:** 3  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Descripción:** En el panel del proveedor, las nuevas solicitudes o acciones pendientes no están resaltadas con prioridad visual.  
+**Recomendación:** Usar badges, resaltado en rojo o secciones tipo “acciones recientes”.
+
+---
+
+### Problema #7: No hay retroalimentación visual tras acciones clave  
+**Severidad:** 3  
+**Heurística violada:** Visibilidad del estado del sistema  
+**Descripción:** Al guardar componentes, aceptar solicitudes o subir fotos, el usuario no recibe un mensaje inmediato o animación de confirmación.  
+**Recomendación:** Mostrar mensajes toast, iconos animados de éxito o loaders donde aplique.
+
+---
+<hr>
 
 #### 5.4. Video About-the-Product.
 
 <hr>
-
 
 ### Conclusiones
 

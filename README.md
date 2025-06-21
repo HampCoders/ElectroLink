@@ -2723,8 +2723,9 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 ##### 5.3.2. Registro de Entrevistas.
 ##### 5.3.3. Evaluaciones según heurísticas
+
 <hr>
-# Evaluación Heurística de ElectroLink
+Evaluación Heurística de ElectroLink
 
 **Carrera:** Ingeniería de Software  
 **Curso:** Aplicaciones Web  

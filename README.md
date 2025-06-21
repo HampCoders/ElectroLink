@@ -2806,12 +2806,26 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 
 <hr>
-##### 5.2.3.8.Team Collaboration Insights during Sprint
-
-#### 5.3. Validation Interviews.
-##### 5.3.1. Diseño de Entrevistas.
 
 <hr>
+##### 5.2.3.8.Team Collaboration Insights during Sprint
+
+<img  src="https://i.imgur.com/JfJ7B61.png"/>
+
+<img  src="https://i.imgur.com/H4SLsdv.png"/>
+
+<hr>
+
+
+<hr>
+#### 5.3. Validation Interviews.
+
+<hr>
+
+<hr>
+##### 5.3.1. Diseño de Entrevistas.
+
+
 # Entrevistas por Segmento - Plataforma ElectroLink
 
 ## Segmento: Clientes
@@ -2865,6 +2879,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 
 ##### 5.3.2. Registro de Entrevistas.
+
 ##### 5.3.3. Evaluaciones según heurísticas
 
 <hr>

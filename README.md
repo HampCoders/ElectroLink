@@ -2482,7 +2482,7 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Sprint Goal & User Stories** |  |
 | **Sprint n Goal** | Nuestro enfoque está en establecer el núcleo funcional completo de la plataforma eléctrica, abarcando la gestión de inventario, la contratación de servicios mediante un wizard guiado y la asignación automática de técnicos.Creemos que esto entrega un flujo completo y funcional desde la solicitud hasta la finalización del servicio eléctrico a propietarios de PyMEs que necesitan servicios y a técnicos que desean ofrecerlos. Esto se confirmará cuando los propietarios puedan registrar propiedades, contratar servicios mediante el wizard, recibir la asignación automática de técnicos, y estos últimos puedan gestionar su inventario, horarios, zona de cobertura y completar servicios con evaluaciones en la plataforma.|
 | **Sprint n Velocity** | 100% |
-| **Sum of Story Points** | 286 Story Points |
+| **Sum of Story Points** | 233 Story Points |
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 
@@ -2616,24 +2616,6 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | | | T003 | Frontend: Filtros de reseñas | Filtrar reseñas por puntuación y fecha | 2 | Ricardo|Done|
 | **US-66** | Retroalimentación directa de servicios | T001 | Backend: API de feedback | Endpoint POST /services/:id/feedback | 2 | Ricardo| Done|
 | | | T002 | Frontend: Formulario de feedback | Interfaz para enviar comentarios adicionales | 3 | Ricardo|Done |
-| | | T003 | Frontend: Chat de soporte | Sistema de mensajería para resolver problemas | 3 |Ricardo |Done |
-| **US-75** | Recibir Confirmación de Suscripción | T001 | Backend: Webhook de confirmación | Procesar confirmación de pago de Stripe | 3 |Eric | Done|
-| | | T002 | Frontend: Página de confirmación | Mostrar confirmación exitosa de suscripción | 2 |Eric |Done |
-| | | T003 | Frontend: Email de bienvenida | Template y envío de email de confirmación | 2 | Eric|Done |
-| **US-76** | Gestionar Suscripción Activa | T001 | Backend: API gestión suscripción | Endpoints para ver, pausar, reanudar suscripción | 5 | Eric|Done |
-| | | T002 | Frontend: Panel de suscripción | Interfaz completa de gestión de suscripción | 4 |Eric |Done |
-| | | T003 | Frontend: Historial de pagos | Lista de transacciones y facturas | 3 |Eric |Done |
-| **US-77** | Suscribirse al Plan Premium de Propietario | T001 | Backend: API crear suscripción | Integración con Stripe para crear suscripción | 4 |Eric |Done |
-| | | T002 | Frontend: Página de suscripción | Interfaz para seleccionar y pagar plan premium | 3 | Eric|Done |
-| | | T003 | Frontend: Comparación de planes | Tabla comparativa de beneficios | 2 |Eric |Done |
-| **US-78** | Suscripción Premium (Técnico) | T001 | Backend: Lógica suscripción técnico | Sistema de suscripción específico para técnicos | 5 |Eric |Done |
-| | | T002 | Frontend: Dashboard premium técnico | Interfaz con beneficios premium para técnicos | 4 |Eric |Done |
-| | | T003 | Frontend: Métricas avanzadas | Panel con estadísticas y analytics premium | 3 |Eric |Done|
-| **US-79** | Cancelar mi suscripción | T00.1 | Backend: API cancelar suscripción | Endpoint para cancelar con Stripe | 2 |Eric |Done |
-| | | T002 | Frontend: Flujo de cancelación | Proceso de cancelación con opciones de retención | 2 | Eric|Done|
-| **US-80** | Manejo de Fallos en la Renovación | T001 | Backend: Lógica de reintentos | Sistema para manejar fallos de pago | 3 | Eric|Done |
-| | | T002 | Frontend: Notificación de fallo | Avisar al usuario sobre problemas de pago | 2 |Eric | Done|
-| | | T003 | Frontend: Actualizar método de pago | Interfaz para cambiar tarjeta de crédito | 3 |Eric |Done |
 | **TS-01** | Registrar Propiedad (Endpoint) | T001 | Implementar endpoint POST /properties | Crear endpoint con validaciones de negocio | 4 |Italo | Done|
 | **TS-02** | Obtener Propiedades por Propietario | T001 | Implementar endpoint GET /users/:id/properties | Endpoint con filtros y paginación | 3 |Italo | Done|
 | **TS-03** | Crear Componente (Endpoint) | T001 | Implementar endpoint POST /components | Crear componente con validaciones | 4 |Italo |Done |
@@ -2756,7 +2738,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 ---
 
-### 🛠Service Operations
+### Service Operations
 
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|

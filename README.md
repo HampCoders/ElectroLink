@@ -2644,7 +2644,22 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 ##### 5.2.3.4.Development Evidence for Sprint Review.
 
+<hr>
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
+
+<img  src="https://i.imgur.com/Xwg2jcV.png"/>
+
+<img  src="https://i.imgur.com/QA0k4b0.png"/>
+
+<img  src="https://i.imgur.com/5po1hr0.png"/>
+
+<img  src="https://i.imgur.com/R0O1iDK.png"/>
+
+<img  src="https://i.imgur.com/e4CJSPS.png"/>
+
+<img  src="https://i.imgur.com/pX8TsuU.png"/>
+
+<hr>
 
 <hr>
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
@@ -2748,9 +2763,49 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | **GET** | `/api/v1/service-operations/{id}/status` | Obtener estado de la operación |
 | **GET** | `/api/v1/service-operations/technician/{technicianId}/history` | Obtener historial del técnico |
 
+---
+
+### Requests
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/requests/{requestId}` | Obtener solicitud por ID |
+| **PUT** | `/api/v1/requests/{requestId}` | Actualizar una solicitud |
+| **DELETE** | `/api/v1/requests/{requestId}` | Eliminar una solicitud |
+| **GET** | `/api/v1/requests/client/{clientId}` | Obtener solicitudes por cliente |
+| **POST** | `/api/v1/requests` | Crear nueva solicitud |
+
+---
+
+### Schedules
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/schedules/technician/{technicianId}` | Obtener agenda por técnico |
+| **POST** | `/api/v1/schedules` | Crear nueva agenda |
+| **PUT** | `/api/v1/schedules/{scheduleId}` | Actualizar agenda |
+| **DELETE** | `/api/v1/schedules/{scheduleId}` | Eliminar agenda |
+
+---
+
+### Services
+
+| Método | Endpoint | Descripción |
+|--------|----------|-------------|
+| **GET** | `/api/v1/services/{serviceId}` | Obtener servicio por ID |
+| **PUT** | `/api/v1/services/{serviceId}` | Actualizar servicio |
+| **DELETE** | `/api/v1/services/{serviceId}` | Eliminar servicio |
+| **POST** | `/api/v1/services` | Crear nuevo servicio |
+
+---
 
 <hr>
-##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+<hr>
+##### 5.2.3.7.Software Deployment Evidence for Sprint Review
+
+
+<hr>
 ##### 5.2.3.8.Team Collaboration Insights during Sprint
 
 #### 5.3. Validation Interviews.

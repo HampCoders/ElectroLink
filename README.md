@@ -2683,6 +2683,8 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 <img  src="https://i.imgur.com/pX8TsuU.png"/>
 
+<img  src="https://i.imgur.com/27MSHgu.png"/>
+
 <hr>
 
 <hr>

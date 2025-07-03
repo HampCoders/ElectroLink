@@ -28,10 +28,10 @@
 
 | <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
 |:-------------------------------------------:|:-------------------------------------------:|
-|       Italo Ludwing Sanchez Manrique                     |    U202316967
+|       Italo Ludwing Sanchez Manrique        |              U202316967                     |
 |         Ethan Matias Aliaga Aguirre         |              U202318323                     |
 |       Eric Marlon Olivera Barzola           |              U202315032                     |
-|       Ivo Marcelo Machado Bracamonte        |              U20231C368       |              U202316967                     |
+|       Ivo Marcelo Machado Bracamonte        |              U20231C368                     |
 |       Ricardo Del Aguila Ayala              |              U202318323                     |
 
 </div>

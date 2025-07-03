@@ -3073,6 +3073,22 @@ En esta sección, se presenta el sprint backlog 4
 | | | T002 | Implementar endpoint de análisis de demanda | Crear el endpoint GET /analytics/demand-by-zone que devuelva los datos agregados. | 4 | | |
 | **TS-30** | Sistema de Recomendaciones Básico | T001 | Implementar algoritmo de recomendación | Desarrollar la lógica para analizar el historial de un usuario y generar una lista de servicios recomendados. | 8 | | |
 | | | T002 | Implementar endpoint de recomendaciones | Crear el endpoint GET /users/recommendations que devuelva la lista de servicios sugeridos. | 6 | | |
+| **US-57** | Beneficio de Solicitud Prioritaria | T001 | Backend: Lógica de priorización de solicitudes | Implementar la lógica en el sistema para que las solicitudes marcadas como prioritarias (de usuarios Premium) se procesen primero. | 5 | | |
+| | | T002 | Frontend: Opción de solicitud prioritaria | Mostrar y habilitar la opción para marcar una solicitud como prioritaria en la interfaz del propietario con plan Premium. | 5 | | |
+| **US-58** | Notificación de Límite de Solicitudes Alcanzado | T001 | Backend: Lógica de conteo y límite de solicitudes | Implementar un contador mensual de solicitudes por usuario y la lógica para restringir la creación de nuevas solicitudes al alcanzar el límite del plan Básico. | 5 | | |
+| | | T002 | Frontend: Notificación y opción de mejora | Mostrar una notificación clara al usuario cuando alcance su límite de solicitudes y presentar una opción para actualizar a Premium. | 5 | | |
+| **US-75** | Recibir Confirmación de Suscripción | T001 | Backend: Integración con Webhooks de Stripe | Configurar un endpoint para recibir y procesar webhooks de Stripe para confirmaciones de pago exitosas. | 5 | | |
+| | | T002 | Frontend: Página de confirmación de suscripción | Crear una página que confirme al usuario que su suscripción se ha activado correctamente. | 5 | | |
+| **US-76** | Gestionar Suscripción Activa | T001 | Backend: Integración con el Portal de Cliente de Stripe | Crear un endpoint que genere una sesión segura para que el usuario pueda gestionar su suscripción en el portal de Stripe. | 8 | | |
+| | | T002 | Frontend: Acceso al portal de gestión | Implementar un botón o enlace en el perfil del usuario para que pueda acceder al portal de cliente y gestionar su plan. | 8 | | |
+| **US-77** | Suscribirse al Plan Premium de Propietario | T001 | Backend: API para crear suscripción de Propietario | Integrar el SDK de Stripe para crear una nueva suscripción para un propietario. | 5 | | |
+| | | T002 | Frontend: Flujo de pago para Propietario | Desarrollar la interfaz de pago para que un propietario pueda seleccionar el plan Premium e ingresar sus datos de pago. | 5 | | |
+| **US-78** | Suscribirse al Plan Premium de Técnico | T001 | Backend: API para crear suscripción de Técnico | Integrar el SDK de Stripe para crear una nueva suscripción para un técnico, con los beneficios correspondientes. | 8 | | |
+| | | T002 | Frontend: Flujo de pago para Técnico | Desarrollar la interfaz de pago para que un técnico pueda suscribirse al plan Premium. | 8 | | |
+| **US-79** | Cancelar mi suscripción | T001 | Backend: API para cancelar suscripción | Implementar un endpoint que permita cancelar una suscripción activa a través de la API de Stripe. | 3 | | |
+| | | T002 | Frontend: Interfaz de cancelación | Desarrollar la interfaz en el portal de cliente que permita al usuario cancelar su suscripción. | 3 | | |
+| **US-80** | Manejo de Fallos en la Renovación | T001 | Backend: Lógica para manejar webhooks de fallo de pago | Configurar el endpoint de webhooks para procesar eventos de fallo en la renovación de la suscripción y notificar al usuario. | 5 | | |
+| | | T002 | Frontend: Notificación de fallo de pago | Mostrar una notificación en la interfaz del usuario informándole que ha ocurrido un problema con su pago y que debe actualizarlo. | 5 | | |
 
 ## Resumen de Estimación
 **Total de horas estimadas: 346 horas**

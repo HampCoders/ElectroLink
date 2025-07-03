@@ -2390,7 +2390,7 @@ Durante el Sprint 2, se abordaron aspectos clave distribuidos en cuatro Bounded 
 
 
 
-##### 5.2.2.3. Sprint Backlog 2.
+### 5.2.2.3. Sprint Backlog 2.
 
 Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa Frontend de la aplicación, estableciendo las bases visuales y funcionales que interactúan directamente con los usuarios. Se priorizó la implementación de componentes clave asociados a cada uno de los bounded contexts asignados individualmente a los integrantes, lo cual permitió una distribución clara de responsabilidades y un avance paralelo de las funcionalidades. Cada miembro del equipo asumió el liderazgo en el desarrollo de un conjunto específico de componentes, asegurando coherencia y continuidad en cada dominio funcional.
 
@@ -2400,7 +2400,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 <img  src="https://i.postimg.cc/J0tYs39W/trytrytryr.png"/>
 
-### Sprint Backlog 2
+#### Sprint Backlog 2
 
 | User Story ID | User Story                              | Work-Item / Task ID | Work-Item / Task Title                       | Description                                                                 | Estimation (Hours) | Assigned To | Status |
 |---------------|------------------------------------------|----------------------|----------------------------------------------|-----------------------------------------------------------------------------|---------------------|--------------|--------|
@@ -2440,7 +2440,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | US45          | Visualización de Calificaciones y Reseñas | TS0451               | Renderizado de calificaciones y comentarios   | Mostrar lista de reseñas y calificaciones en la vista del técnico o servicio | 1.5               | Eric  Olivera      | done   |
 | US45          | Visualización de Calificaciones y Reseñas | TS0452               | Cálculo de promedio de calificaciones         | Lógica para calcular y mostrar promedio de puntuación por técnico o servicio | 1.5               | Eric  Olivera      | done   |
 
-##### 5.2.2.4. Development Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review.
 
 ## Development Evidence for Sprint Review
 
@@ -2455,7 +2455,7 @@ Durante el Sprint se avanzó en la implementación de los siguientes productos: 
 | HampCoders/ElectroLink-FE                 | feature/schedule-management | u67287gdf | Components service management|    All Bounded Contexts Implemented    | 2025-05-15   |
 
 
-##### 5.2.2.5. Execution Evidence for Sprint Review. 
+#### 5.2.2.5. Execution Evidence for Sprint Review. 
 
 Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación ElectroLink, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
 
@@ -2484,7 +2484,7 @@ El enfoque colaborativo permitió que cada integrante trabajara de forma autóno
 <img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
 
 
-##### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
 
 En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores diferentes. Utilizamos swagger para la presente documentacion
 
@@ -2539,7 +2539,7 @@ En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores 
 
 
 
-##### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
 Para ste despliegue hemos usado Beeseptor y FireBase
 
@@ -2562,10 +2562,10 @@ En esta sección se presenta el desarrollo colaborativo del equipo en la impleme
 <img  src="https://i.imgur.com/Dh94IyK.png"/>
 
 
-#### 5.2.3. Sprint 3
+### 5.2.3. Sprint 3
 En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
 
-##### 5.2.3.1.Spring Planning 3.
+#### 5.2.3.1.Spring Planning 3.
 Durante la reunión de planificación del Sprint 3, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad de la plataforma y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
 | **Sprint #** | Sprint 3 |
@@ -2583,7 +2583,7 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Sprint n Velocity** | 100% |
 | **Sum of Story Points** | 233 Story Points |
 
-##### 5.2.3.2. Aspect Leaders and Collaborators.
+#### 5.2.3.2. Aspect Leaders and Collaborators.
 
 Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
 
@@ -2595,7 +2595,7 @@ Durante este sprint, la asignación de responsabilidades técnicas se mantuvo po
 | Machado Bracamonte, Ivo Marcelo         | ivommb11            |                                           | L                                                 |                         |                          |
 | Del Aguila Ayala, Ricardo               | Rexest01            |                                           |                                                   | L                       | C                        |
 
-##### 5.2.3.3.Sprint Backlog 3.
+#### 5.2.3.3.Sprint Backlog 3.
 
 Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información.
 
@@ -2768,7 +2768,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 
 <hr>
-##### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
 
 <img  src="https://i.imgur.com/Xwg2jcV.png"/>
 
@@ -2792,9 +2792,9 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 <hr>
 
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
-# 5.2.3.6. Services Documentation Evidence for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|
@@ -2932,7 +2932,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 
 <hr>
-##### 5.2.3.7.Software Deployment Evidence for Sprint Review
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
 <img  src="https://i.imgur.com/KMMWYFI.png"/>
 <img  src="https://i.imgur.com/yV2TrS9.png"/>
@@ -2944,7 +2944,7 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 
 <hr>
-##### 5.2.3.8.Team Collaboration Insights during Sprint
+#### 5.2.3.8.Team Collaboration Insights during Sprint
 
 <img  src="https://i.imgur.com/JfJ7B61.png"/>
 
@@ -2952,18 +2952,47 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 <hr>
 
+<br>
+
+### 5.2.4. Sprint 4
+En esta sección , el equipo definio la planificación y presentó evidencias del desarrollo del sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+En esta sección, el equipo planificó el Sprint 4
+<br>
+
+#### 5.2.4.2. Sprint Backlog 4
+En esta sección, el equipo presenta el Sprint Backlog 4
+<br>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+En esta sección, se muestran evidencias del desarrollo del sprint 4
+
+<br>
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+En esta secciónm, el equipo presenta la evidencia sobre pruebas del sprint 4
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+En esta sección, se presenta evidencia de ejecución para el sprint 4 
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En esta sección, se presenta la evidencia de documentación de lo desarrollado en el sprint 4
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+En esta sección, el equipo presenta la evidencia sobre el despliegué tanto de la solución front-end, el back-end y la landing page de la solución.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+En esta sección, el equipo presenta evidencia de la colaboración activa en github.
 
 <hr>
-#### 5.3. Validation Interviews.
-
+### 5.3. Validation Interviews.
 <hr>
+En esta sección, el equipo presenta la entrevistas de validación
 
-<hr>
-##### 5.3.1. Diseño de Entrevistas.
-
+#### 5.3.1. Diseño de Entrevistas.
 
 # Entrevistas por Segmento - Plataforma ElectroLink
-
 ## Segmento: Clientes
 
 1. ¿Qué tan fácil te resultó registrarte y entender para qué servía ElectroLink como cliente?
@@ -2982,7 +3011,6 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 ---
 
 ## Segmento: PYMEs
-
 1. ¿Tu empresa ya tenía una forma de gestionar proveedores eléctricos? ¿Qué cambió con ElectroLink?
 2. ¿El dashboard de “Gestión de agenda” te pareció fácil de entender para programar mantenimientos?
 3. ¿La opción de ver “Métricas y Rendimiento” fue útil para tomar decisiones de mejora?
@@ -2999,7 +3027,6 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 ---
 
 ## Segmento: Proveedores
-
 1. ¿Fue fácil registrarte como proveedor y configurar tu perfil dentro de ElectroLink?
 2. ¿El dashboard de proveedor refleja claramente tu estado (disponible/no disponible, servicios en curso)?
 3. ¿Te sentiste representado profesionalmente con el diseño y datos de tu perfil?
@@ -3015,9 +3042,9 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 <hr>
 
 ##### 5.3.2. Registro de Entrevistas.
+En esta sección , se presenta el registro de las entrevistas realizadas
 
 ##### 5.3.3. Evaluaciones según heurísticas
-
 <hr>
 Evaluación Heurística de ElectroLink
 
@@ -3091,6 +3118,7 @@ Evaluación Heurística de ElectroLink
 
 #### 5.4. Video About-the-Product.
 
+En esta sección , se presenta el video about the product de la solución
 [Video About The Product](https://drive.google.com/drive/folders/1Rpb7eYc3FspRk9DUtCHKrQbpHXqkhoGl?usp=sharing)
 
 <hr>

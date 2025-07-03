@@ -3090,8 +3090,6 @@ En esta sección, se presenta el sprint backlog 4
 | **US-80** | Manejo de Fallos en la Renovación | T001 | Backend: Lógica para manejar webhooks de fallo de pago | Configurar el endpoint de webhooks para procesar eventos de fallo en la renovación de la suscripción y notificar al usuario. | 5 | | |
 | | | T002 | Frontend: Notificación de fallo de pago | Mostrar una notificación en la interfaz del usuario informándole que ha ocurrido un problema con su pago y que debe actualizarlo. | 5 | | |
 
-## Resumen de Estimación
-**Total de horas estimadas: 346 horas**
 <br>
 
 #### 5.2.4.4. Development Evidence for Sprint Review 

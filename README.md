@@ -462,26 +462,8 @@ Aspectos psicográficos:
 - Buscan soluciones tecnológicas que optimicen el uso de recursos eléctricos.
 - Tienen interés en el mantenimiento preventivo y la mejora continua de sus viviendas.
 
-**Segmento objetivo #2: Dueños PYMES u oficinas**
 
-Aspectos demográficos:
-
-- Sexo: Masculino y femenino
-- Edades: Entre 28 y 55 años
-- Nivel socioeconómico: Medio-alto
-  
-Aspectos geográficos:
-
-- Zona geográfica en la que viven: Urbana
-- Residen principalmente en: Zonas residenciales o condominios dentro de áreas urbanizadas
-  
-Aspectos psicográficos:
-
-- Buscan optimizar los costos operativos y mejorar la eficiencia de sus instalaciones.
-- Valoran soluciones tecnológicas que automaticen procesos de búsqueda y compra de componentes eléctricos para reducir y optimizar el consumo de recursos.
-- Tienen mentalidad emprendedora y están abiertos a innovaciones que les den ventaja competitiva.
-
-**Segmento objetivo #3: Proveedores de componentes o servicios eléctricos certificados**
+**Segmento objetivo #2: Proveedores de componentes o servicios eléctricos certificados**
 
 Aspectos demográficos:
 
@@ -808,7 +790,7 @@ Brian ve como una gran ventaja contar con una plataforma que conecte con proveed
 
 ---
 
-### Segmento #3: Proveedores de componentes o servicios eléctricos certificados
+### Segmento #2: Proveedores de componentes o servicios eléctricos certificados
 
 **Entrevista: Jorge Espinoza**  
 - **Sexo:** Masculino  
@@ -926,50 +908,21 @@ Utiliza dispositivos móviles (smartphone) para la mayoría de sus actividades r
 #### 2.2.3. Análisis de entrevistas
 En esta sección, el equipo realiza el analisis respectivo de las entrevistas, consolidandolo en un resumen de acuerdo a los segmentos entrevistados.
 
-### Mari Vallejos  
-**Resumen:**  
-Mari es ama de casa y pasa la mayor parte del tiempo en el hogar, por lo que le afecta directamente cualquier problema eléctrico. Siente ansiedad ante fallas eléctricas porque no tiene conocimientos técnicos y depende de redes sociales o conocidos para encontrar ayuda. No toma medidas preventivas y prioriza la rapidez, puntualidad y compromiso. Le interesa una plataforma como **ElectroLink** con filtros por experiencia, costos y disponibilidad, y valora la posibilidad de programar mantenimientos.
+### Segmento #1: Propietarios de hogares urbanos
 
-**Insight clave:**  
-Existe una necesidad clara de confianza, rapidez y facilidad en el acceso a servicios eléctricos confiables y certificados.
+Los propietarios entrevistados, como **Mari Vallejos**, expresaron una fuerte dependencia de **redes sociales** y **recomendaciones informales** para resolver problemas eléctricos. El **desconocimiento técnico genera ansiedad**, y las decisiones de contratación se basan en criterios como **puntualidad, rapidez, compromiso** y **precio razonable**. La **prevención eléctrica es poco frecuente**, debido a la falta de información o cultura preventiva. Existe una clara **disposición a usar plataformas digitales**, siempre que incluyan **reseñas verificadas, técnicos certificados** y opciones de **filtrado según sus necesidades** (experiencia, precio, horarios).
 
----
-
-### Piero Tenorio  
-**Resumen:**  
-Piero dirige una empresa con varias sucursales que dependen de sistemas eléctricos para su funcionamiento diario (computadoras, escáneres, cámaras). Aunque no enfrenta fallas frecuentes, reconoce que cuando suceden afectan directamente las ventas y la productividad. Actualmente no tiene un plan de mantenimiento preventivo estructurado. Ha tenido referencias negativas de técnicos informales y valora mucho que los servicios sean confiables, con respaldo legal y buenas calificaciones. Le interesa usar una plataforma como **ElectroLink** para encontrar proveedores certificados, gestionar consumos por sucursal y prevenir interrupciones.
-
-**Insight clave:**  
-En el entorno empresarial, la continuidad operativa depende de la estabilidad eléctrica. Existe una fuerte necesidad de monitoreo, prevención y proveedores confiables, lo que hace que una solución digital como ElectroLink sea muy atractiva.
-
----
-### Brian Cerna 
-**Resumen:**  
-Brian es dueño de una oficina que opera con instalaciones eléctricas trifásicas debido a la alta demanda energética de sus equipos. Si bien las fallas eléctricas no son frecuentes, reconoce que tienen un gran impacto en la productividad y atención al cliente. Contrata técnicos externos, pero enfrenta demoras en la disponibilidad. Valora profundamente la certificación, el cumplimiento normativo y la capacidad de respuesta rápida de los proveedores. Ha tenido malas experiencias con técnicos informales, lo que reforzó su preferencia por profesionales calificados. Ve con buenos ojos una plataforma que permita encontrar proveedores certificados de forma rápida y filtrada, lo cual le ayudaría a reducir tiempos, mejorar el servicio y operar con mayor seguridad.
-
-**Insight clave:**  
-Los propietarios de negocios con alta demanda energética priorizan la confiabilidad y profesionalismo de los servicios eléctricos. Existe una clara necesidad de soluciones digitales que les permitan acceder ágilmente a técnicos certificados, con filtros de disponibilidad y ubicación, lo que representa una oportunidad para mejorar la continuidad operativa y la experiencia del cliente.
-
+> **Insight clave:** Este grupo valora la confianza, accesibilidad y la sensación de seguridad que brinda un servicio verificado. Una plataforma como **ElectroLink** puede convertirse en su aliado principal para enfrentar problemas eléctricos con mayor tranquilidad.
 
 ---
 
-### Jorge Espinoza  
-**Resumen:**  
-El entrevistado es un técnico certificado que enfrenta dificultades para atraer clientes debido a la competencia informal y la poca valorización de la certificación por parte del público. Utiliza principalmente redes sociales y el boca a boca como estrategias de promoción, aunque reconoce la falta de una estrategia profesional. Gestiona sus pedidos de forma manual y considera importante pertenecer a una red de profesionales certificados. Está abierto a pagar una suscripción si esta le garantiza mayor visibilidad y clientes, y valora positivamente una plataforma que le permita digitalizar y profesionalizar su negocio.
 
-**Insight clave:**  
-Los técnicos certificados buscan respaldo, visibilidad y herramientas para competir en un mercado dominado por la informalidad. Valoran la pertenencia a una red profesional que destaque su legalidad y capacitación, y muestran disposición a adoptar soluciones digitales que les permitan mejorar su gestión comercial y alcanzar más clientes confiables.
+### Segmento #2: Proveedores de componentes o servicios eléctricos certificados
 
----
+Proveedores como **Juan Lucas** valoran el **reconocimiento profesional**, pero enfrentan dificultades para competir con técnicos informales. Mencionan barreras como la **falta de canales para mostrar su experiencia, reseñas o certificaciones**. También existe interés en contar con una plataforma que les **brinde visibilidad, credibilidad** y **facilite la gestión de pedidos**. Están dispuestos a **pagar una suscripción si eso les garantiza mayor alcance**, clientes recurrentes y reputación digital consolidada.
 
-### Marco Contreras  
-**Resumen:**  
-El entrevistado es un ingeniero eléctrico certificado que combina la venta de componentes con servicios eléctricos en casas y oficinas. Enfrenta dificultades para captar clientes debido a la alta competencia informal y la falta de valoración de las certificaciones por parte del público. Su captación de clientes se basa principalmente en redes sociales (Facebook y WhatsApp) y el boca a boca, sin una estrategia digital estructurada. Gestiona pedidos de forma manual usando herramientas básicas como el calendario del celular. Está interesado en formar parte de una red de profesionales certificados y en una plataforma que le permita mostrar su experiencia, certificaciones y gestionar su trabajo de manera más profesional. Está dispuesto a pagar una suscripción si ofrece resultados claros en visibilidad y generación de clientes.
+> **Insight clave:** **ElectroLink** puede convertirse en un ecosistema donde los proveedores formales fortalezcan su presencia, profesionalicen su oferta y generen relaciones duraderas con clientes que valoran la calidad y el cumplimiento normativo.
 
-**Insight clave:**  
-Profesionales certificados como Marco buscan plataformas que les otorguen respaldo formal, visibilidad y herramientas de gestión eficientes para diferenciarse en un mercado saturado por la informalidad. Valoran soluciones digitales que fortalezcan su imagen profesional, mejoren su organización y les permitan crecer de manera sostenible.
-
----
 
 ## Análisis de Hallazgos
 
@@ -999,14 +952,18 @@ En esta sección, el equipo presenta los elementos del needfinding
 #### 2.3.1. User Personas
 En esta sección, el equipo presenta los User Personas realizados
 
-**Alejandro Lopez**
-<img src="https://i.imgur.com/vINhynV.png"/>
 
-**Eduardo Gonzales**
-<img src="https://i.imgur.com/g6rrVKE.png"/>
+**Olivia Pérez :Propietarios de hogares urbanos**
 
-**Olivia Pérez**
-<img src="https://i.imgur.com/RP1M8lP.png"/>
+<hr>
+<img src="https://i.postimg.cc/bw038LGJ/Olivia-P-rez-5.png"/>
+<hr>
+
+**Alejandro Lopez :Proveedores de componentes o servicios eléctricos certificados**
+
+<hr>
+<img src="https://i.postimg.cc/bNpRgkVf/Alejandro-Lopez.png"/>
+<hr>
 
 #### 2.3.2. User Task Matrix
 

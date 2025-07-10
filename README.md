@@ -3315,20 +3315,211 @@ En esta sección, se presenta el sprint backlog 4
 En esta sección, se muestran evidencias del desarrollo del sprint 4
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
-En esta sección, se presenta evidencia de ejecución para el sprint 4 
+
+#### Imagen 1 – Swagger Ratings y Reports
+Muestra el conjunto de endpoints RESTful de los módulos Ratings y Reports, documentados automáticamente mediante Swagger. Incluye operaciones para agregar, obtener, actualizar y eliminar valoraciones o reportes, así como la posibilidad de asociar fotos a los reportes.
+
+<img  src="https://i.postimg.cc/Fzs1pw9P/image.png"/>
+
+<hr>
+
+#### Imagen 2 – Swagger Reports y ServiceOperations
+
+Continúa la documentación Swagger enfocada en Reports y ServiceOperations. En este último módulo se evidencia la creación de operaciones de servicio, la actualización de su estado y la recuperación del historial técnico por technicianId.
+
+<img  src="https://i.postimg.cc/ht7v2LBq/1212312.png"/>
+
+<hr>
+
+#### Imagen 3 – Swagger Requests, Schedules y Services
+Se observa el conjunto de endpoints para los módulos Requests, Schedules y Services, que permite manipular solicitudes de servicios, programaciones de técnicos y el catálogo de servicios registrados.
+
+<img  src="https://i.postimg.cc/QMm3mCH3/Captura-de-pantalla-2025-07-10-165355.png"/>
+
+<hr>
+
+#### Imagen 4 – Swagger Profiles, Authentication y Users
+
+Ilustra la API para la gestión de perfiles (Profiles), autenticación (Authentication) y usuarios (Users). Destaca la posibilidad de registrar perfiles sin autenticación previa y recuperar perfiles por ID, rol o correo.
+<img  src="https://i.postimg.cc/mrLxP4V6/Captura-de-pantalla-2025-07-10-165523.png"/>
+
+<hr>
+#### Imagen 5– Swagger Components y ComponentTypes
+Incluye los endpoints relacionados a los componentes técnicos (Components) y sus tipos (ComponentTypes), fundamentales para la gestión de inventarios. Permite operaciones CRUD completas sobre ambos recursos.
+
+<img  src="https://i.postimg.cc/mZvgtc9X/Captura-de-pantalla-2025-07-10-165619.png"/>
+
+<hr>
+#### Imagen 6 –  Swagger Properties, TechnicianInventories y Plan
+Finalmente, se presenta la documentación de Properties (propiedades de los clientes), TechnicianInventories (inventario técnico) y Plan (planes de suscripción), evidenciando la integración de múltiples bounded contexts del sistema.
+<img  src="https://i.postimg.cc/yNkMmj4F/Captura-de-pantalla-2025-07-10-165719.png"/>
+
+<hr>
+#### Imagen 7 – Swagger Subscriptions
+<img  src="https://i.postimg.cc/XvC2Nz6D/Captura-de-pantalla-2025-07-10-165939.png"/>
+
+--
+#### Login – Página de Inicio de Sesión  
+
+<img src="https://i.postimg.cc/zXdpCRwN/Captura-de-pantalla-2025-07-10-172639.png">
+
+Pantalla de inicio de sesión donde el usuario introduce su username y password. El diseño es centrado, con colores institucionales azul y negro, y botones accesibles en la esquina superior.
+
+<hr>
+
+#### Sign Up – Registro de Usuario
+
+<img src="https://i.postimg.cc/nr3KG6D2/Captura-de-pantalla-2025-07-10-172736.png">
+
+Formulario de registro completo que solicita nombre, correo, dirección y credenciales para crear una nueva cuenta. Se adapta para luego crear el perfil en función del rol.
+
+<hr>
+#### Dashboard del Contratista
+
+<img src="https://i.postimg.cc/DZZwbH7n/Captura-de-pantalla-2025-07-10-172951.png">
+
+Pantalla de bienvenida para contratistas. Muestra accesos directos a: creación de peticiones, registro de propiedades y gestión de recursos eléctricos.
+
+<hr>
+#### Gestión de Propiedades
+
+<img src="https://i.postimg.cc/BZP1YPGs/Captura-de-pantalla-2025-07-10-173105.png">
+
+Vista con mapa interactivo y panel lateral. Permite al usuario registrar y visualizar propiedades georreferenciadas, con detalles individuales.
+
+<hr>
+#### Inventario del Técnico
+
+<img src="https://i.postimg.cc/xTy8hKpr/Captura-de-pantalla-2025-07-10-173206.png">
+
+Módulo donde los técnicos pueden registrar, visualizar y modificar su inventario personal de componentes eléctricos. Se muestra un error controlado cuando el inventario está vacío.
+
+<hr>
+#### Gestión de Componentes
+
+<img src="https://i.postimg.cc/85QVTYsZ/Captura-de-pantalla-2025-07-10-173417.png">
+
+Interfaz para crear nuevos componentes. Se incluyen campos como nombre, descripción, tipo, y estado (activo/inactivo), y una tabla para listar los existentes.
+
+<hr>
+#### Gestión de Horarios de Servicio
+
+<img src="https://i.postimg.cc/282GmB3J/cssdcsdcsd.png">
+
+Pantalla para técnicos donde pueden registrar su disponibilidad horaria. Incluye campos de fecha, hora y validaciones por ID de técnico.
+
+<hr>
+#### Gestión de Servicios
+
+<img src="https://i.postimg.cc/qMRnsDMb/dasacsa.png">
+
+Formulario completo para crear un servicio, detallando nombre, categoría, duración, visibilidad, restricciones y asociación de componentes
+
+<hr>
+
+#### Gestión de Peticiones de Servicio
+
+<img src="https://i.postimg.cc/tRrn4dth/axaxa.png">
+
+Módulo para crear nuevas solicitudes de servicio. Permite asociar cliente, propiedad, técnico y servicio; además de registrar el consumo eléctrico, pagos, y evidencias fotográficas
+
+#### Enlace al Video de Demostración: 
+<hr>
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
-En esta sección, se presenta la evidencia de documentación de lo desarrollado en el sprint 4
+
+Detalle del POST /authentication/sign-up, con ejemplo de JSON de registro y respuesta de usuario creado.
+
+<img  src="https://i.postimg.cc/3w6ZWJ0R/280218fe-28da-435d-89fd-97c9291e768f-1.jpg"/>
+
+Detalle del POST /authentication/sign-in, mostrando el JSON de login y la respuesta con token JWT.
+
+<img  src="https://i.postimg.cc/RhmKn3SM/bc809343-f09e-4a50-bb44-82149c52651f-1.jpg"/>
+
+Detalle del POST /properties para crear una propiedad, con payload de dirección completo y respuesta 201.
+
+<img  src="https://i.postimg.cc/4x0cQ2f2/f39078a9-2159-482b-b12d-f41c80e8ae14-1.jpg"/>
+
+Detalle del POST /components, ilustrando la creación de un componente con su tipo y estado activo.
+
+<img  src="https://i.postimg.cc/SQGzvxQM/d6a73e71-b447-4a97-ab90-529e7c740af7-1.jpg"/>
+
+Detalle del POST /technician-inventories, devolviendo el inventario creado con stocks y umbrales.
+
+<img  src="https://i.postimg.cc/q7nNXkZg/5122357d-b0d4-4693-9a73-48af8880b67d.jpg"/>
+
+Detalle del POST /requests, con estructura completa de solicitud de servicio (factura, fotos, fechas).
+
+<img  src="https://i.postimg.cc/8P0c2F2j/df562760-3766-4933-966f-8805fb761cbd.jpg"/>
+
+Detalle del POST /services, mostrando la creación de un servicio con política, restricciones, etiquetas y componentes asociados.
+
+<img  src="https://i.postimg.cc/QMLtM2xD/335c4d6a-fb9a-45cd-9a47-8997896e5376.jpg"/>
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
-En esta sección, el equipo presenta la evidencia sobre el despliegué tanto de la solución front-end, el back-end y la landing page de la solución.
+
+En esta sección, explicamos el despliegue de la aplicación Front-end en firebase
+
+## Landing Page Deployment
+Ingresamos a github
+<br>
+
+<img src="https://i.ibb.co/MyMxKJrb/image.png">
+<br>
+<br>
+
+Nos dirijimos a la asección de pages en configuración
+
+<br> 
+<img src="https://i.ibb.co/gZzF579M/image.png">
+<br>
+<br>
+
+Configuramos la rama a desplegar y guardamos en save
+
+<br>
+<img src="https://i.ibb.co/pjbt4Cvw/image.png">
+<br>
+<br>
+
+Con eso ya estariá deplegados los pasos de nuestra landing page.
+
+## Front End Application Deployment
+Ingresamos al portal de Firebase
+<br>
+
+<img src="https://i.ibb.co/tPvdG42H/image.png">
+<br>
+<br>
+
+Dentro del portal, reutilizamos la aplicación front end previamente desplegada "electrolink-frontend-v2".
+<br>
+
+<img src="https://i.ibb.co/xtKnQtdr/image.png">
+<br>
+<br>
+
+Ahora, desde la consola del IDE, realizamos los siguientes comandos
+<br>
+
+<img src="https://i.ibb.co/rfNWtpcp/image.png">
+<br>
+<br>
+
+
+Tras haber compilado subido el directorio dist, desplegamos con el siguiente comando y obtendremós el enlace de la aplicación front-end
+<br>
+
+<img src="https://i.ibb.co/fdzrZCP6/image.png">
+<br>
+<br>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 En esta sección, el equipo presenta evidencia de la colaboración activa en github.
 
 <hr>
 ### 5.3. Validation Interviews.
-<hr>
 En esta sección, el equipo presenta la entrevistas de validación
 
 #### 5.3.1. Diseño de Entrevistas.
@@ -3383,10 +3574,106 @@ En esta sección, el equipo presenta la entrevistas de validación
 <hr>
 
 ##### 5.3.2. Registro de Entrevistas.
-En esta sección , se presenta el registro de las entrevistas realizadas
+
+1. Leonardo Prieto<br>
+
+   <img src="https://i.ibb.co/99cNgWzz/lol-Imgur.png" style="width:800px; height:400px;"/>
+    _Entrevista del Frontend Application a Leonardo Prieto_
+
+   Duración: 6:28 min<br>
+   Empieza: 00:00
+   
+*Resumen de la opinión del entrevistado sobre la aplicación Electrolink*
+
+1. **Comprensión general de la plataforma**:
+
+   * Leonardo comprendió rápidamente que **la aplicación conecta clientes con proveedores de servicios eléctricos**, lo cual indica que el objetivo principal está bien comunicado.
+
+2. **Experiencia de usuario (UX)**:
+
+   * Destaca que **la interfaz le transmite confianza**, lo cual es clave para cualquier plataforma online. Aunque no profundiza en detalles visuales, su respuesta sugiere que la estructura y navegación iniciales son adecuadas.
+
+3. **Información clave para el usuario**:
+
+   * Menciona que **la disponibilidad del técnico** es un factor determinante para tomar decisiones como cliente, lo que sugiere que este dato debería estar muy visible y actualizado en la interfaz.
+
+4. **Funcionalidad destacada**:
+
+   * Encuentra **muy útil la opción de búsqueda por localización**, ya que permite identificar técnicos cercanos, algo esencial en servicios presenciales.
+
+5. **Sugerencias de mejora**:
+
+   * Sugiere **implementar un sistema de chat en tiempo real** entre técnico y cliente. Esto permitiría una comunicación más fluida, resolver dudas previas al servicio y facilitar la coordinación.
+   * Propone **añadir imágenes y más información visual** para hacer el apartado visual más atractivo y mejorar el diseño en general.
+
+---
+
+**Análisis general**
+
+Leonardo refleja el perfil de un **usuario potencialmente interesado** en usar la aplicación. Su retroalimentación valida que:
+
+* El **objetivo principal se comunica con claridad**.
+* Hay un **mínimo viable funcional** con buen potencial.
+* **La confianza en la plataforma es positiva**, aunque aún hay espacio para mejorar la presentación visual.
+
+Además, sus comentarios demuestran que valora:
+
+* La **usabilidad práctica (disponibilidad, localización)**.
+* La **comunicación directa (chat)**.
+* Una **presentación atractiva (imágenes e información enriquecida)**.
+
+---
+
+2. Piero Tenorio Medina <br>
+   <img  src="https://i.ibb.co/V09GMF8T/imagen.png" style="width:800px; height:400px;"/>
+   _Entrevista del Frontend Application a Piero Tenorio_
+
+   Enlace: https://youtu.be/Epc6R8F4hjE <br>
+   Duración: 7:53 min<br>
+   Empieza: 00:00<br>
+   
+*Resumen de la opinión del entrevistado sobre la aplicación Electrolink*
+
+1. **Comprensión general de la plataforma**:
+
+   * Piero comprendió rápidamente el proposito de la aplicación, lo cual es el punto deseado..
+
+2. **Experiencia de usuario (UX)**:
+
+   * Destaca que la interfaz le transmite confianza, lo cual es clave para cualquier plataforma online. Aunque si reforzaria en lo que la organización visual de algunos elementos.
+
+3. **Información clave para el usuario**:
+
+   * Menciona que las secciones para manejar sus componentes electricos son bastante buenas pero considera mejorar la paleta de colores.
+
+4. **Funcionalidad destacada**:
+
+   * Encuentra muy útil la sección para agregar componetes a su inventario..
+
+5. **Sugerencias de mejora**:
+
+   * Sugiere mejorar la organización visual para poder evitar la fatiga al momento de buscar entre secciones.Asimismo, piensa que es muy importante utilizar mostrar la vista de componentes mediante tablas.
+
+---
+
+**Análisis general**
+
+Leonardo refleja el perfil de un **usuario potencialmente interesado** en usar la aplicación. Su retroalimentación valida que:
+
+* El **objetivo principal se comunica con claridad**.
+* Hay un **mínimo viable funcional** con buen potencial.
+* **La confianza en la plataforma es positiva**, aunque aún hay espacio para mejorar la presentación visual.
+
+Además, sus comentarios demuestran que valora:
+
+* La **usabilidad práctica (disponibilidad, localización)**.
+* La **comunicación directa (chat)**.
+* Una **presentación atractiva (imágenes e información enriquecida)**.
+
+---
 
 ##### 5.3.3. Evaluaciones según heurísticas
-<hr>
+
 Evaluación Heurística de ElectroLink
 
 **Carrera:** Ingeniería de Software  
@@ -3459,17 +3746,49 @@ Evaluación Heurística de ElectroLink
 
 #### 5.4. Video About-the-Product.
 
-En esta sección , se presenta el video about the product de la solución
-[Video About The Product](https://drive.google.com/drive/folders/1Rpb7eYc3FspRk9DUtCHKrQbpHXqkhoGl?usp=sharing)
+**Screenshot del video About the Product**
+<img src="https://i.ibb.co/j2VpW63/gfdgdfg.png"/>
+
+**Video publicado en Microsoft Stream:**  
+[Ver video del producto](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=poBWky&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Video en YouTube (incrustado en el Landing Page):**  
+[https://www.youtube.com/watch?v=vajqovVXk3o](https://www.youtube.com/watch?v=vajqovVXk3o)
+
+**Duración del video:** 2 minutos y 35 segundos
+
+---
+
+### Descripción del Video:
+
+Este video presenta una introducción al producto desarrollado por el equipo, pensado tanto para los visitantes del Landing Page como para los usuarios que interactuarán directamente con la aplicación. Se explican los fundamentos del modelo de negocio, las principales funcionalidades del sistema y cómo la solución busca facilitar procesos claves del entorno real.
+
+Además de destacar su propuesta de valor, el video comunica el enfoque centrado en el usuario aplicado durante su diseño y desarrollo, así como una breve demostración funcional.
 
 <hr>
 
 ### Conclusiones
 
-- El equipo logró mantener una estructura de trabajo colaborativa, distribuyendo adecuadamente las responsabilidades según las fortalezas de cada integrante.
-- Las metodologías aplicadas (Lean UX, entrevistas, Journey Mapping) permitieron una comprensión más profunda de los usuarios, lo que fortaleció la propuesta de valor de Electrolink.
-- Se cumplieron los objetivos del primer sprint, consolidando la base técnica del sistema, el diseño de la interfaz y el despliegue de la landing page.
-- A pesar de algunas diferencias en la carga de trabajo entre miembros, se logró avanzar en los entregables de manera efectiva y dentro de los plazos establecidos.
+Aplicación integral de Domain-Driven Design (DDD) como base estructural del sistema
+A lo largo de los cuatro sprints, implementamos con rigor el enfoque Domain-Driven Design, lo que nos permitió modelar el sistema en torno a las reglas del negocio y segmentarlo en bounded contexts claramente definidos. Esta estrategia favoreció una solución escalable, mantenible y con bajo acoplamiento, reflejada en la implementación exitosa de los módulos Profiles, IAM, Subscriptions, Monitoring y Service Design and Planning.
+
+Desarrollo completo de la solución con visión modular y centrada en el usuario
+El sistema final integra perfiles personalizables, control de acceso y autenticación, gestión de suscripciones con beneficios concretos, monitoreo de operaciones y planificación de servicios eléctricos. Cada módulo respondió directamente a una necesidad prioritaria detectada en la investigación inicial, asegurando que la solución tuviera impacto real tanto en usuarios residenciales como en proveedores eléctricos.
+
+Evolución progresiva y consistente en los 4 sprints
+A lo largo del ciclo de desarrollo, cada sprint abordó objetivos técnicos y funcionales de manera incremental: desde la validación de hipótesis con usuarios hasta el despliegue y prueba de funcionalidades clave. Esta metodología ágil nos permitió iterar rápidamente sobre feedback, ajustar componentes críticos del dominio y entregar una plataforma robusta al finalizar el proyecto.
+
+Trabajo colaborativo y madurez del equipo en entornos reales de ingeniería de software
+El equipo demostró madurez técnica y organizacional al distribuir responsabilidades de forma eficiente, resolver conflictos de integración y tomar decisiones fundamentadas en el dominio. A medida que el proyecto avanzaba, se fortaleció la sinergia entre los roles de análisis, desarrollo, diseño y pruebas, consolidando un flujo de trabajo productivo y alineado a los objetivos del cliente.
+
+Alineamiento entre descubrimiento de usuario y diseño técnico
+Las metodologías aplicadas —como entrevistas en profundidad, Lean UX, y Customer Journey Mapping— fueron claves para construir una solución centrada en el usuario. Estas herramientas no solo enriquecieron la comprensión del problema, sino que permitieron traducir insights reales en decisiones técnicas concretas a nivel de entidades, agregados, servicios y eventos de dominio.
+
+Base sólida para la evolución futura del producto en nuevos mercados
+La arquitectura actual permite escalar la plataforma a nuevas regiones y segmentos con mínima fricción técnica. Además, la implementación por contextos desacoplados favorece la incorporación futura de integraciones externas (pagos, logística, verificación digital) y mecanismos de gobernanza para comunidades de técnicos certificados.
+
+Cumplimiento de los objetivos estratégicos del proyecto
+ElectroLink finaliza su desarrollo como una solución madura que conecta de forma confiable a usuarios con técnicos certificados y proveedores de componentes, reduciendo significativamente los riesgos de informalidad e ineficiencia en el sector eléctrico. La plataforma logra resolver los principales pain points del mercado inicial, y está lista para ser validada en condiciones reales de uso con métricas claras de éxito.
 
 ### Recomendaciones
 
@@ -3479,7 +3798,6 @@ En esta sección , se presenta el video about the product de la solución
 - Documentar de manera más sistemática los aprendizajes y desafíos encontrados en cada sprint, para mejorar continuamente el proceso.
 <hr>
 
-<hr>
 
 ### Bibliografía
 - Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A. (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales*. *Universia Business Review*, (35), 114-123. [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)

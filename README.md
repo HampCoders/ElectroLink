@@ -69,6 +69,7 @@ Integrantes como lvonmb11, Rexest01, ItaloSanche, y MatFragg realizaron contribu
 
 Los commits muestran trabajo en paralelo y complementario.
 
+![TB1](Assets/TB1_insights.png)
 <img src="https://i.imgur.com/wWs4RX7.jpeg"/>
 <hr>
 

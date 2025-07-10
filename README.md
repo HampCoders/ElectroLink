@@ -1012,7 +1012,10 @@ Tanto en el entorno doméstico como empresarial, los entrevistados valoran la tr
 Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
 
 ### 2.3. Needfinding
+En esta sección, el equipo presenta los elementos del needfinding
+
 #### 2.3.1. User Personas
+En esta sección, el equipo presenta los User Personas realizados
 
 **Alejandro Lopez**
 <img src="https://i.imgur.com/vINhynV.png"/>
@@ -1050,6 +1053,7 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 
 
 #### 2.3.3. User Journey Mapping
+En esta sección , el equipo presenta los User Journey Map desarrollado
 
 **User Persona: Alejandro Lopez**
 ![Empathy1](Assets/Journey-mapping-1.png)
@@ -1082,6 +1086,7 @@ A pesar de eso, está muy abierta a soluciones digitales si estas le ofrecen:
 
 
 #### 2.3.4. Empathy Mapping
+En esta sección , el equipo presenta los mapas de empatia o Empathy Maps realizados por User Persona
 
 <hr>
 
@@ -1109,6 +1114,7 @@ A pesar de eso, está muy abierta a soluciones digitales si estas le ofrecen:
 
 
 ## 2.3.5. As-is Scenario Mapping
+En esta sección, el equipo presenta los escnerarios as is para sus respectivos users personas
 
 **Alejandro Lopez**
 
@@ -1247,30 +1253,17 @@ Olivia es una usuaria cautelosa, exigente y preocupada por la seguridad y la cal
 <hr>
 
 ## 2.4. Ubiquitous Language
+En esta sección, el equipo presenta el lenguaje Ubicuo
 
- Glosario del Dominio del Negocio - ElectroLink
+Glosario del Dominio del Negocio - ElectroLink
 Este glosario contiene términos clave relacionados al dominio del proyecto ElectroLink. Cada término está en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones están redactadas en español de forma clara y sin ambigüedades, para facilitar la comunicación entre todos los miembros del equipo y stakeholders.
 
 1.  Stakeholders & Roles
 - Homeowner (Propietario de vivienda)
    Persona que reside en un hogar y busca soluciones eléctricas confiables y certificadas para prevenir o resolver fallos.
 
-
-- Business Owner (Dueño de empresa)
-   Responsable de una oficina o PYME que necesita mantener el sistema eléctrico eficiente, operativo y dentro del marco legal.
-
-
 - Service Provider (Proveedor de servicios)
    Técnico profesional con certificación que ofrece servicios de instalación, reparación o mantenimiento eléctrico.
-
-
-- Component Supplier (Proveedor de componentes)
-   Empresa o persona encargada de la venta de dispositivos, piezas o insumos eléctricos certificados.
-
-
-- Platform Administrator (Administrador de plataforma)
-   Miembro del equipo responsable de validar, gestionar y supervisar las actividades y registros dentro de ElectroLink.
-
 
 
 2. Servicios y Mantenimiento
@@ -1298,26 +1291,14 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 - Service Request (Solicitud de servicio)
    Acción del usuario para iniciar una contratación de servicios desde la plataforma.
 
-
-- Matchmaking (Emparejamiento)
-   Proceso automatizado para conectar a un usuario con el proveedor más adecuado según filtros como ubicación, calificación y disponibilidad.
-
-
-- Real-Time Tracking (Seguimiento en tiempo real)
-   Visualización del estado y avance de un servicio solicitado a través de la plataforma.
-
-
 - Verified Profile (Perfil verificado)
    Estado de un proveedor que ha sido validado por la plataforma mediante documentación y procesos de control.
-
 
 - Rating and Review (Calificación y reseña)
    Sistema de puntuación y comentarios que permite evaluar la experiencia del usuario con un proveedor.
 
-
 - Subscription Plan (Plan de suscripción)
    Modalidad de pago por parte del proveedor para acceder a beneficios dentro de la plataforma (visibilidad, herramientas, clientes).
-
 
 - Booking History (Historial de contrataciones)
    Registro de todos los servicios contratados, realizados y evaluados por un usuario o proveedor.
@@ -1358,7 +1339,12 @@ Este glosario contiene términos clave relacionados al dominio del proyecto Elec
 
 
 ## Capítulo III: Requirements Specification
+
+En este capitulo, el equipo de Hampcoders plantea todos los artecfactos de Requisitos atraves de la Especificación 
+
 ### 3.1. To-Be Scenario Mapping
+
+En esta sección , el equipo muestra los artecfactos To--Be Scenario Maps
 Olivia Perez | To-Be Scenario Mapping
 
 <img src="https://i.imgur.com/fxj0F1w.jpeg"/>
@@ -1517,6 +1503,7 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 <hr>
 
 ### 3.3. Impact Mapping
+En este sección , el equipo presenta los mapas de impacto realizados
 
 <img src="https://i.imgur.com/mANqhxE.jpeg"/>
 
@@ -1566,7 +1553,7 @@ Actor involucrado:
 
 ### 3.4. Product Backlog
 <hr>
-
+En esta sección, el equipo de Hampcoders plantea el Product Backlog organizando tanto Historias de Usuario como Historias Tecnicas en base a su peso en Story Points
 <hr>
 
 # 
@@ -1687,7 +1674,11 @@ Actor involucrado:
 <hr>
 
 ## Capítulo IV: Product Design
+En esta capitulo, el equipo de Hampcoders presenta los artefactos de Diseño pertinentes para el diseño y prototipado de nuestros productos
+
 ### 4.1. Style Guidelines
+En esa sección el equipo pressenta la Guía de Estilos para Electorlink
+
 #### 4.1.1. General Style Guidelines
 
 **Branding:**
@@ -1730,7 +1721,9 @@ Por otro lado, el gris cálido y el grafito profundo aportan equilibrio visual y
 
 
 #### 4.1.2. Web Style Guidelines
-## Uso del Patrón F en el Diseño Web
+En esta sección, el equipo define las Directrices de estilo web
+
+#### Uso del Patrón F en el Diseño Web
 
 De manera que el contenido de nuestro sitio web se vea organizado y sea mostrado de manera adecuada, implementamos el patrón F.
 El objetivo del patrón F en un sitio web es reflejar la forma natural en la que los usuarios escanean el contenido, empezando por la parte superior izquierda y moviéndose en forma de "F" hacia abajo. Este diseño resalta la información clave en las primeras líneas y en el lateral izquierdo, donde la vista se concentra más. 
@@ -1825,27 +1818,37 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 <img src="https://i.imgur.com/UnlLqHv.png"/>
 
 ### 4.3. Landing Page UI Design
-
+En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usuario del sitio web de negocio
 ### 4.3.1. Landing Page Wireframe.
 
+**Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
+<br>
 <img src="https://i.imgur.com/RIIZVSE.png"/>
+<br>
 
-<img src="https://i.imgur.com/IsmTEYP.png"/>
-
-<img src="https://i.imgur.com/dwrbsjw.png"/>
-
+**Sección de "Testimonios" y "Por qué usar Electrolink?" **
+<br>
 <img src="https://i.imgur.com/MdqLiaz.png"/>
+<br>
+
 
 #### 4.3.2. Landing Page Mock-up
 
+**Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
+<br>
 <img src="https://i.imgur.com/hXEACTz.png"/>
+<br>
 
+**Sección de "Testimonios" y "Por qué usar Electrolink?" **
+<br>
 <img src="https://i.imgur.com/gHvT3uz.png"/>
+<br>
+
 
 ### 4.4. Web Applications UX/UI Design
+En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usuario de la aplicación Front-End
 
 #### 4.4.1. Web Applications Wireframes
-
 En esta sección se presentan los **wireframes de la aplicación web de ElectroLink**, los cuales permiten visualizar cómo será la estructura y disposición de los elementos en la interfaz. Estos bocetos funcionales aseguran una experiencia fluida, clara e inclusiva para los diferentes segmentos de usuarios, como propietarios de hogares, pequeños empresarios y proveedores técnicos, incluyendo además personas con ansiedad social, TEA, o discapacidades físicas.
 
 El propósito de los wireframes es establecer la **estructura base de la aplicación**, mostrando la organización de la información, la navegación y la ubicación de los elementos interactivos sin enfocarse aún en los aspectos visuales finales. Esta etapa es crucial para garantizar una **experiencia de usuario intuitiva y accesible desde el inicio del diseño**.
@@ -1888,55 +1891,85 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 ---
 Los wireframes son una guía esencial para la implementación efectiva de la plataforma ElectroLink, alineando las necesidades de los usuarios con un diseño funcional, ordenado y accesible para todos.
 
+Vista de Iniciar Sesion
 <img src="https://i.imgur.com/nwjF5Kr.png"/>
+<br>
 
+Vista de Crear Cuenta
 <img src="https://i.imgur.com/7GeJ7Ua.png"/>
+<br>
 
+Vista de la pagina principal
 <img src="https://i.imgur.com/C5Q56pR.png"/>
+<br>
 
+Vista de un dashboard principal para los propietarios de hogar
 <img src="https://i.imgur.com/8gOZ6GA.png"/>
+<br>
 
+Vista del dashboard principal para los Tecnicos
 <img src="https://i.imgur.com/5JAGI69.png"/>
+<br>
 
+Vista para editar perfil
 <img src="https://i.imgur.com/s4KR7ll.png"/>
+<br>
 
+Vista la sección de propiedades
 <img src="https://i.imgur.com/i8ba802.png"/>
+<br>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
+En esta sección, el equipo de Hampcoders define los wireflows diagrams para la aplicación Web
 
-<img src="https://i.imgur.com/0BN4OZM.png"/>
-
+Wireflow para el Tecnico
 <img src="https://i.imgur.com/nZSSUMC.png"/>
 
+Wireflow para el Usuario se registre dentro de la plataforma
 <img src="https://i.imgur.com/XQd56bO.png"/>
 
+Wireflow para el usuario busque tecnicos
 <img src="https://i.imgur.com/soOCrA8.png"/>
 
 [Ver diagrama en Lucidchart](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
 
 #### 4.4.3. Web Applications Mock-ups
 
+Vista de Iniciar Sesion
 <img src="https://i.imgur.com/G3TSic5.png"/>
+<br>
 
+Vista de Crear Cuenta
 <img src="https://i.imgur.com/wZoh5ZE.png"/>
+<br>
 
+Vista de la pagina principal
 <img src="https://i.imgur.com/nDd5iLM.png"/>
+<br>
 
-<img src="https://i.imgur.com/bXvd8W1.png"/>
-
-<img src="https://i.imgur.com/ZxeRM6c.png"/>
-
+Vista de un dashboard principal para visualizar el perfil de usuario
 <img src="https://i.imgur.com/peSNSOz.png"/>
+<br>
 
+Vista de un dashboard principal para gestionar propiedades
 <img src="https://i.imgur.com/6Ah62mr.png"/>
+<br>
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
 En esta sección se presenta la propuesta de User Flows del sistema ElectroLink, diseñados para representar las rutas de interacción que los usuarios siguen dentro de la plataforma. Cada flujo corresponde a un User Goal específico, basado en los perfiles de User Persona definidos en el alcance del proyecto.
 
+User Flow diagrams para el Usuario se registre dentro de la plataforma
 <img src="https://i.imgur.com/fLb0bCw.png"/>
+<br>
+
+User Flow diagrams para el Usuario acceda desde la pagina principal a la vista de Perfiles y 
 <img src="https://i.imgur.com/FDCaGyc.png"/>
+<br>
+
+User flow para que el Usuario acceda a la sección para buscar Tecnicos y registrar propiedades.
 <img src="https://i.imgur.com/ss6IaYV.png"/>
+<br>
 
 [Ver diagrama en Lucidchart](https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3)  
 

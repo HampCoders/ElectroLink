@@ -1789,28 +1789,28 @@ Los sistemas de navegación de ElectroLink han sido diseñados para guiar de for
 En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usuario del sitio web de negocio
 ### 4.3.1. Landing Page Wireframe.
 
-**Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
+### Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" 
 <hr>
 
 ![Sección1](Assets/landingpage-seccion1.png)
 
 <hr>
 
-**Sección de "Testimonios" y "Por qué usar Electrolink?" **
+### Sección de "Testimonios" y "Por qué usar Electrolink?" 
 <hr>
 
 ![Sección2](Assets/landingpage-seccion2.png)
 
 <hr>
 
-**Sección de "Sobre Nosotros" **
+### Sección de "Sobre Nosotros" 
 <hr>
 
 ![Sección3](Assets/landingpage-seccion3.png)
 
 <hr>
 
-**Sección de "Contacto" **
+### Sección de "Contacto" 
 <hr>
 
 ![Sección4](Assets/landingpage-seccion4.png)
@@ -1880,31 +1880,43 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 Los wireframes son una guía esencial para la implementación efectiva de la plataforma ElectroLink, alineando las necesidades de los usuarios con un diseño funcional, ordenado y accesible para todos.
 
 Vista de Iniciar Sesion
+<hr>
+
 ![V1](Assets/iniciarsecion.png)
 
 <hr>
 
 Vista de Crear Cuenta
+<hr>
+
 ![V2](Assets/crearcuenta.png)
 
 <hr>
 
 Vista de la pagina principal
+<hr>
+
 ![V3](Assets/paginaprincipal.png)
 
 <hr>
 
 Vista de un dashboard principal para los propietarios de hogar
+<hr>
+
 ![V4](Assets/dashboard.png)
 
 <hr>
 
 Vista del dashboard principal para los Tecnicos
+<hr>
+
 ![V5](Assets/dashboardtecnicos.png)
 
 <hr>
 
 Vista para editar perfil
+<hr>
+
 ![V6](Assets/editarperfil.png)
 
 <hr>
@@ -1972,17 +1984,21 @@ Vista de un dashboard principal para gestionar propiedades
 
 En esta sección se presenta la propuesta de User Flows del sistema ElectroLink, diseñados para representar las rutas de interacción que los usuarios siguen dentro de la plataforma. Cada flujo corresponde a un User Goal específico, basado en los perfiles de User Persona definidos en el alcance del proyecto.
 
+<hr>
+
 User Flow diagrams para el Usuario se registre dentro de la plataforma
+<img src="https://i.postimg.cc/YS8jJtVd/diagram.png"/>
 
 <hr>
 
-User Flow diagrams para el Usuario acceda desde la pagina principal a la vista de Perfiles y 
-<img src="https://i.imgur.com/FDCaGyc.png"/>
+User Flow diagrams para el Usuario acceda desde la pagina principal a la vista de Perfiles 
+
+<img src="https://i.postimg.cc/JhTZj317/diamgram2.png"/>
 
 <hr>
 
 User flow para que el Usuario acceda a la sección para buscar Tecnicos y registrar propiedades.
-<img src="https://i.imgur.com/ss6IaYV.png"/>
+<img src="https://i.postimg.cc/8PhvZg10/diagram3.png"/>
 
 <hr>
 
@@ -2024,10 +2040,9 @@ En esta imagen, el equipo presenta los diferentes Bounded Contexts que interactu
 
 #### 4.7.1. Class Diagrams
 
-<img src="https://i.imgur.com/rzIgdUv.png"/>
+<img src="https://i.postimg.cc/Nf7y18Dh/class.png"/>
 
 <hr>
-
 
 #### 4.7.2. Class Dictionary
 | Clase | Atributo | Descripción | Tipo de dato |
@@ -2188,25 +2203,18 @@ En esta imagen, el equipo presenta los diferentes Bounded Contexts que interactu
 | Message |  \-attachments | adjuntos del mensaje |  List\<String\> |
 <hr>
 
-<hr>
 
 ### 4.8. Database Design
-<hr>
-
-<hr>
 
 #### 4.8.1. Database Diagram
 
 <hr>
 
 <img src="https://i.imgur.com/2JqyVmj.png"/>
-<hr>
 
 <hr>
 
 ## 5.1. Software Configuration Management
-
-<hr>
 
 ### 5.1.1. Software Development Environment Configuration
 
@@ -2242,6 +2250,7 @@ En esta imagen, el equipo presenta los diferentes Bounded Contexts que interactu
 |------------|---------------------------------------------------------|-------------------------------------------------------------------|
 | GitHub     | Gestión de la documentación en función a repositorios y organizaciones | https://github.com          |
 | Markdown   | Formato base para la presentación y documentación del proyecto | https://markdown.es/                     |
+
 <hr>
 
 ### 5.1.2. Source Code Management
@@ -2276,7 +2285,7 @@ Repositorio: [Ver Repositorio](https://github.com/HampCoders/ElectroLink)
 | Attendees (to planning meeting) | Matias Aliaga , Ivo Machado , Leandro Conteras, Italo Sanchez, Ricardo del Aguila  |
 | Sprint n - 1 Review Summary | Este es el primer Sprint, por lo que el presente campo no aplica. |
 | Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que el presente campo no aplica. |
-| Sprint 1 Goal | Nuestra prioridad en este spring fue implementar la landing Page.Creemos que este MVP brindara la exposicipon necesaria a nuestra Idea de Negocio. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice de visitas. |
+| Sprint 1 Goal | Diseñar e implementar la Landing Page oficial de ElectroLink, incluyendo su contenido visual, propuesta de valor, y medios de contacto. El cumplimiento se validará cuando el número de visitas únicas supere las 30 visitas dentro de los primeros 7 días posteriores al despliegue. |
 | Sprint 1 Velocity | Nuestro equipo puede aceptar hasta 25 story points |
 | Sum of Story Points | La suma de Story Points atendidos es de 25 story points |
 
@@ -2300,8 +2309,10 @@ Repositorio: [Ver Repositorio](https://github.com/HampCoders/ElectroLink)
 #### 5.2.1.3. Development Evidence for Sprint Review
 En esta sección presentamos el flujo de trabajo para la creación y actuallización de la landing page
 
-| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
-| ElectroLink - Open Source - 4341 | main | 01 | Landing Page | | 22/04/2025 |
+| Repository                       | Branch | Commit ID | Commit Message | Commit Message Body | Committed on (Date) |
+|----------------------------------|--------|------------|-----------------|----------------------|----------------------|
+| ElectroLink - Open Source - 4341 | main   | 01         | Landing Page    |                      | 22/04/2025           |
+
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
@@ -2320,21 +2331,51 @@ En esta sección presentamos el flujo de trabajo para la creación y actuallizac
 <hr>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
-En esta entrega, nuestro equipo ha desplegado con éxito la landing page.
-Enlace de la Landing Page: https://electrolinklp.netlify.app/
+
+En esta entrega, nuestro equipo ha desplegado con éxito la Landing Page de ElectroLink, la cual representa nuestro MVP inicial. Esta página tiene como objetivo presentar de forma clara el valor diferencial de la plataforma, facilitando la conexión entre propietarios de hogares y técnicos eléctricos certificados. Se buscó transmitir confianza, facilidad de uso y una propuesta de valor sólida tanto para clientes como para proveedores.
+
+[https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)
+
+### Vistas Implementadas
+
+A continuación, se presentan capturas de las principales secciones desarrolladas en la landing page:
+
+### Sección Principal – Hero & CTA
 
 <img src="https://imgur.com/49OkXbc.png" />
 
+<hr>
+
+### Sección "Comu funciona"
+
 <img src="https://imgur.com/BFhI8Dc.png" />
+
+<hr>
+### Sección "Resolviendo Problemas Reales"
 
 <img src="https://imgur.com/rJPW3H5.png" />
 
+<hr>
+
+### Sección "Nuestro Equipo"
+
 <img src="https://imgur.com/zbMWRS0.png" />
+
+<hr>
+### Misión, Visión y Valores
 
 <img src="https://imgur.com/GVOlVpZ.png" />
 
-<img src="https://imgur.com/c5HCnn9.png" />
 <hr>
+
+### Testimonios de usuarios
+
+<img src="https://imgur.com/c5HCnn9.png" />
+
+<hr>
+
+Con esta entrega, hemos cumplido con el objetivo del Sprint, presentando una interfaz funcional, estética y alineada a los valores del proyecto ElectroLink.
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -2342,32 +2383,44 @@ Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer
 
 <hr>
 
-<hr>
-
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page.
 
 ## Design
 
 Para realizar el diseño de los wireframes y mockups de la **Landing Page** para este Sprint, se hizo uso de la plataforma **Figma**.
 Para utilizar la plataforma:
 
-1. Se accede a través de la página oficial de Figma: [Figma Login](https://www.figma.com/login)
-    <img  src="https://i.imgur.com/GzXvBTl.png"/>
+1. Se accede a través de la página oficial de Figma: https://www.figma.com/login
+    <img  src="https://i.postimg.cc/g2yX0rpY/65765.png"/>
 2. Luego, se crea un **Draft** que nos servirá como base para el proyecto colaborativo.
-   <img  src="https://i.imgur.com/S0yChMr.png"/>
+   <img  src="https://i.postimg.cc/dQzjk7bd/76867.png"/>
 ---
 
 ## Deployment
 
 Para la landing page, se utilizará Netlify para el despliegue de la página.
-<img  src="https://i.imgur.com/TvjlWO3.png"/>
-<img  src="https://i.imgur.com/R6p1HPD.png"/>
-<img  src="https://i.imgur.com/VSvMntJ.png"/>
-<img  src="https://i.imgur.com/7qutxbP.png"/>
-<img  src="https://i.imgur.com/JHy1GUn.png"/>
-<img  src="https://i.imgur.com/JHy1GUn.png"/>
-<img  src="https://i.imgur.com/nEIxoGO.png"/>
-<img  src="https://i.imgur.com/uEzhkud.png"/>
+<img  src="https://i.postimg.cc/W3d0tjSX/9789789.png"/>
+<img  src="https://i.postimg.cc/6qd2GQZL/567567.png"/>
+<img  src="https://i.postimg.cc/3Jtrfp30/876876.png"/>
+<img  src="https://i.postimg.cc/FRTnX9zp/87876.png"/>
+
+<img  src="https://i.postimg.cc/tg2zYBbC/5456.png"/>
+
+<img  src="https://i.postimg.cc/KvPpmr14/45345.png"/>
+
+<img  src="https://i.postimg.cc/prNkHpxD/32143.png"/>
+
+
+Tras definir el repositorio , conectamos este mismo con el servicio de netlify para realizar el despliegue.
+
+<img  src="https://i.postimg.cc/kMxvSMqp/645.png"/>
+
+<img  src="https://i.postimg.cc/YqdgNhVb/44.png"/>
+
+<img  src="https://i.postimg.cc/P5cwc0dD/111.png"/>
+
 
 
 Para nuestro proyecto se crearon **2 repositorios**, los cuáles fue:
@@ -2379,11 +2432,12 @@ Para nuestro proyecto se crearon **2 repositorios**, los cuáles fue:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 A continuación, se muestran las capturas de los insights del repositorio.
-<img  src="https://imgur.com/SJrVfEl.png" />
+
+<img  src="https://i.postimg.cc/XN5x6hjw/insight.png" />
 
 En el caso de la landing page y su Sprint, el equipo encargado su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
 
-<img  src="https://imgur.com/hioVjak.png" />
+<img  src="https://i.postimg.cc/rFLjVJs7/insght-landing.png" />
 
 <hr>
 
@@ -2404,7 +2458,7 @@ Durante la reunión de planificación del Sprint 2, el equipo identificó los ob
 | **Sprint n – 1 Review Summary** | Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido. |
 | **Sprint n – 1 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
 | **Sprint Goal & User Stories** |  |
-| **Sprint n Goal** | Our focus is on consolidar la primera versión funcional del Front End con pantallas clave del sistema. We believe it delivers una experiencia inicial que permita validar la estructura visual y usabilidad básica de la aplicación con potenciales usuarios. This will be confirmed when se implementen al menos tres pantallas interactivas que permitan una navegación fluida y se obtenga retroalimentación positiva en pruebas de uso iniciales. |
+| **Sprint n Goal** | Validar la estructura visual y la navegación básica del sistema a través de la implementación de al menos tres pantallas funcionales del Front End. Este objetivo se considerará cumplido si los usuarios pueden recorrer el flujo principal sin interrupciones y se recopila retroalimentación positiva sobre la usabilidad. |
 | **Sprint n Velocity** | 100% |
 | **Sum of Story Points** | 67 Story Points |
 
@@ -2496,27 +2550,58 @@ Durante este Sprint, el equipo logró implementar exitosamente las principales v
 
 El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint, 
 
-<img  src="https://i.imgur.com/iBZoUkG.png"/>
+Se observa la seccion donde un usario puede agregar nuevos servicios y poner reseñas segun si ya tuvo el servicio como eliminar y actualizar la reseña 
 
-<img  src="https://i.imgur.com/PkCb8cd.png"/>
-<img  src="https://i.imgur.com/MF4ndFW.png"/>
+<img  src="https://i.postimg.cc/SRLW2BR3/despliegue1.png"/>
 
-<img  src="https://i.imgur.com/1PhRz7c.png"/>
-<img  src="https://i.imgur.com/Ge95J4D.png"/>
+<hr>
 
-<img  src="https://i.imgur.com/Y4qmy2Z.png"/>
+Esta vista representa la interfaz del módulo de revisión de servicios, con despliegue de tarjetas, botones funcionales y lógica de navegación implementada.
 
+<img  src="https://i.postimg.cc/c4mRsGV8/imagen-rewied.png"/>
 
-<img  src="https://i.postimg.cc/TwZKgCBj/92d49261-de39-4745-86c1-207df61e3600.webp"/>
+<hr>
 
+Se presenta la interfaz donde los usuarios pueden registrar o visualizar la ubicación del servicio eléctrico requerido, con componentes de mapa o inputs geográficos integrados.
 
-<img  src="https://i.postimg.cc/Wzwsz8V1/Whats-App-Image-2025-05-13-at-12-25-26.jpg"/>
+<img  src="https://i.postimg.cc/rmx43B1s/iamgen3-localizacion.png"/>
 
-<img  src="https://i.postimg.cc/B616S2tj/image-23.webp"/>
+<hr>
 
-<img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
+Captura del formulario donde un proveedor eléctrico puede registrar su información, incluyendo campos validados y flujo funcional desde el frontend.
 
-<img  src="https://i.postimg.cc/5NJ0JYJt/image-24.webp"/>
+<img  src="https://i.postimg.cc/qBcnLdBZ/imagen4-regritar-tecnico.png"/>
+
+<hr>
+
+Demostración de nuevos componentes visuales y dinámicos incorporados al sistema durante este Sprint, con diseño coherente y adaptado a la lógica de negocio.
+
+<img  src="https://i.postimg.cc/mgnFDLVh/imagen5-nuevo-componente.png"/>
+
+<hr>
+
+Esta vista permite al usuario revisar los detalles de una factura asociada a un mantenimiento eléctrico, mostrando información clave como monto, servicio asociado y fecha.
+
+<img  src="https://i.postimg.cc/wM91P7x4/imagen6-detalle-invoce.png"/>
+
+<hr>
+
+Evidencia del consumo exitoso del endpoint /request-invoices, validando la funcionalidad de listado de facturas en la API.
+
+<img  src="https://i.postimg.cc/fT2V2zG5/endpoint-electrical-invoce.png"/>
+
+<hr>
+
+Visualización del endpoint correspondiente al módulo de técnicos/proveedores eléctricos. Se comprueba el despliegue de datos simulados de forma correcta.
+
+<img  src="https://i.postimg.cc/3RYrrzMd/endpoint-provider.png"/>
+
+<hr>
+
+Captura del endpoint de servicios eléctricos disponibles, mostrando respuesta esperada con campos como nombre, descripción, precio y creador del servicio.
+
+<img  src="https://i.postimg.cc/HkMTwTdr/endpoint-service.png"/>
+
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review. 
@@ -2576,25 +2661,68 @@ En el segundo sprint identificamos 20 endpoints provenientes de 5 controladores 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review. 
 
-Para ste despliegue hemos usado Beeseptor y FireBase
+### Despliegue de la Aplicación con Firebase y Beceptor
 
-<img  src="https://i.postimg.cc/43035GwX/Captura-de-pantalla-2025-05-13-165620.png"/>
+Durante el Sprint, se llevó a cabo el despliegue exitoso del frontend de la aplicación **ElectroLink** utilizando **Firebase Hosting**. Asimismo, se integró la herramienta **Beceptor** para simular endpoints de prueba y monitorear peticiones HTTP en el entorno de desarrollo, facilitando la validación del comportamiento del sistema sin necesidad de un backend completamente funcional.
 
-<img  src="https://i.postimg.cc/T3YnwrPF/Captura-de-pantalla-2025-05-13-165849.png"/>
+A continuación, se presentan las evidencias visuales del proceso:
 
-<img  src="https://i.imgur.com/KL5vAiF.png"/>
+#### 1. Configuración de Webhook con Beceptor
+<hr>
+
+<img  src="https://i.postimg.cc/XNFM1QtP/beceptor.png"/>
+
+Se muestra la consola de Beceptor donde se han configurado los endpoints para interceptar las peticiones del frontend, permitiendo pruebas controladas y revisión de payloads.
+
+<hr>
+
+#### 2. Despliegue en Firebase Hosting
+
+<hr>
+
+<img  src="https://i.postimg.cc/c4Zz9ZRK/firebase.png"/>
+
+Evidencia del despliegue de la aplicación web en Firebase, con confirmación del build exitoso y acceso en línea al entorno productivo de pruebas.
+
+<hr>
+
+#### 3. Visualización del endpoint interceptado
+
+<img  src="https://i.postimg.cc/3NhtcCvM/beceptor-ednpoint.png"/>
+
+Aquí se visualiza la respuesta capturada por Beceptor, demostrando que el sistema frontend está enviando correctamente los datos al endpoint configurado.
 
 
-Enlaces de las paginas desplegadas:
+### Enlace de la aplicación desplegada
 
-https://electrolink-front.web.app/home
+[https://electrolink-front.web.app/home](https://electrolink-front.web.app/home)
+
+Este enlace permite acceder a la versión desplegada de ElectroLink, donde se puede explorar la interfaz y la navegación funcional implementada hasta el momento.
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
 En esta sección se presenta el desarrollo colaborativo del equipo en la implementación del Sprint, mostrando analíticos de participación y commits.
-<img  src="https://i.imgur.com/ondcOe6.png"/>
-<img  src="https://i.imgur.com/xOjTiZx.png"/>
-<img  src="https://i.imgur.com/Dh94IyK.png"/>
+
+#### 1. Contribuciones por usuario y actividad semanal
+La imagen muestra que todos los integrantes del equipo realizaron al menos un commit durante el periodo del 3 al 10 de mayo de 2025. Se evidencia una distribución equitativa de aportes por parte de todos los miembros. Esto refleja un trabajo coordinado y activo durante esta semana clave de desarrollo.
+
+<img  src="https://i.postimg.cc/2SgFtFsH/insgith4.png"/>
+
+<hr>
+
+#### 2. Evolución diaria de commits
+En esta visualización se observa el ritmo de trabajo diario del equipo. El mayor pico de actividad se registró el viernes, con 3 commits, seguido de un avance inicial el jueves. Esta distribución muestra una intensificación del trabajo hacia el cierre de la semana, lo que concuerda con la cercanía a la fecha límite del Sprint.
+
+<img  src="https://i.postimg.cc/cLtfftvf/insigth2.png"/>
+
+<hr>
+
+#### 3. Pull Requests y autores involucrados
+Durante la semana del 8 al 15 de mayo de 2025, se realizaron 3 Pull Requests que fueron aceptados e integrados exitosamente. Participaron 4 autores, con un total de 13 commits. La colaboración se dio sin conflictos y se destaca el enfoque en funcionalidades como: carga de archivos, actualización de secciones de factura y el componente de registro de técnicos.
+
+<img  src="https://i.postimg.cc/448cMQtz/insight4.png"/>
+
+<hr>
 
 
 ### 5.2.3. Sprint 3
@@ -2802,20 +2930,50 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 | HampCoders/Electrolink-Backend |  | 2a7ae64 | Merge branch 'develop' |  | Thu Jun 19 13:12:44 2025 -0500 |
 <hr>
 
-<hr>
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 
-<img  src="https://i.imgur.com/Xwg2jcV.png"/>
+#### Imagen 1 – Swagger Ratings y Reports
+Muestra el conjunto de endpoints RESTful de los módulos Ratings y Reports, documentados automáticamente mediante Swagger. Incluye operaciones para agregar, obtener, actualizar y eliminar valoraciones o reportes, así como la posibilidad de asociar fotos a los reportes.
 
-<img  src="https://i.imgur.com/QA0k4b0.png"/>
+<img  src="https://i.postimg.cc/Fzs1pw9P/image.png"/>
 
-<img  src="https://i.imgur.com/5po1hr0.png"/>
+<hr>
 
-<img  src="https://i.imgur.com/R0O1iDK.png"/>
+#### Imagen 2 – Swagger Reports y ServiceOperations
 
-<img  src="https://i.imgur.com/e4CJSPS.png"/>
+Continúa la documentación Swagger enfocada en Reports y ServiceOperations. En este último módulo se evidencia la creación de operaciones de servicio, la actualización de su estado y la recuperación del historial técnico por technicianId.
 
-<img  src="https://i.imgur.com/pX8TsuU.png"/>
+<img  src="https://i.postimg.cc/ht7v2LBq/1212312.png"/>
+
+<hr>
+
+#### Imagen 3 – Swagger Requests, Schedules y Services
+Se observa el conjunto de endpoints para los módulos Requests, Schedules y Services, que permite manipular solicitudes de servicios, programaciones de técnicos y el catálogo de servicios registrados.
+
+<img  src="https://i.postimg.cc/QMm3mCH3/Captura-de-pantalla-2025-07-10-165355.png"/>
+
+<hr>
+
+#### Imagen 4 – Swagger Profiles, Authentication y Users
+
+Ilustra la API para la gestión de perfiles (Profiles), autenticación (Authentication) y usuarios (Users). Destaca la posibilidad de registrar perfiles sin autenticación previa y recuperar perfiles por ID, rol o correo.
+<img  src="https://i.postimg.cc/mrLxP4V6/Captura-de-pantalla-2025-07-10-165523.png"/>
+
+<hr>
+#### Imagen 5– Swagger Components y ComponentTypes
+Incluye los endpoints relacionados a los componentes técnicos (Components) y sus tipos (ComponentTypes), fundamentales para la gestión de inventarios. Permite operaciones CRUD completas sobre ambos recursos.
+
+<img  src="https://i.postimg.cc/mZvgtc9X/Captura-de-pantalla-2025-07-10-165619.png"/>
+
+<hr>
+#### Imagen 6 –  Swagger Properties, TechnicianInventories y Plan
+Finalmente, se presenta la documentación de Properties (propiedades de los clientes), TechnicianInventories (inventario técnico) y Plan (planes de suscripción), evidenciando la integración de múltiples bounded contexts del sistema.
+<img  src="https://i.postimg.cc/yNkMmj4F/Captura-de-pantalla-2025-07-10-165719.png"/>
+
+<hr>
+#### Imagen 7 – Swagger Subscriptions
+<img  src="https://i.postimg.cc/XvC2Nz6D/Captura-de-pantalla-2025-07-10-165939.png"/>
+
 
 #Se realizó el despliegue del BackEnd en Render
 
@@ -2978,16 +3136,42 @@ Este es nuestro link de invitación a nuestro Trello : [Ver Board del Sprint en 
 
 <hr>
 
-<hr>
 #### 5.2.3.8.Team Collaboration Insights during Sprint
 
+Durante este sprint, se observaron los siguientes indicadores clave de colaboración en el equipo, tomados desde el repositorio del proyecto:
+
+- Se visualizaron **contribuciones por semana** (commits) con un pico significativo en la semana del 20 de abril, donde se alcanzaron **45 commits**.
+- Los miembros más activos fueron:
+  - **ItaloSandhe** con 36 commits, 1,324 líneas añadidas y 377 eliminadas.
+  - **Rexset01** con 30 commits, 1,124 líneas añadidas y 200 eliminadas.
+  - **IvormIb11** con 26 commits y 485 líneas nuevas.
+- Otros contribuyentes incluyen a **MatFragg** con 11 commits y **EricMOB-afk** con 6 commits.
+- Las semanas más activas fueron el **21 de abril**, el **12 de mayo** y el **16 de junio**.
+
+Esto demuestra una colaboración distribuida en el tiempo, con concentración en tareas clave durante fases críticas del sprint.
+
+**Resumen visual de las contribuciones del equipo:**
+
 <img  src="https://i.imgur.com/JfJ7B61.png"/>
+
+---
+
+Además, en el periodo del **14 al 21 de junio de 2025** se logró:
+
+- **9 commits al branch main** y **12 commits totales** en todas las ramas.
+- Un total de **3,271 líneas añadidas** y solo **30 eliminadas**, lo cual evidencia un enfoque en nuevas funcionalidades.
+- Se cerraron **4 Pull Requests**, 1 se encuentra abierto, y no se reportaron issues abiertos o nuevos.
+
+Los Pull Requests destacados fueron:
+- `SOM Backend Implementation`
+- `Feature/Analytics bounded context`
+- `ServiceDesignAndPlanning Bounded Context`
+
+**Panel resumen del rendimiento colaborativo:**
 
 <img  src="https://i.imgur.com/H4SLsdv.png"/>
 
 <hr>
-
-<br>
 
 ### 5.2.4. Sprint 4
 En esta sección , el equipo definio la planificación y presentó evidencias del desarrollo del sprint 4

@@ -42,55 +42,112 @@
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha       | Autores                                                                                                                                                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|:--------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | 22/04/2025  | - Del Aguila Ayala, Ricardo Alejandro  <br> - Machado Bracamonte, Ivo Marcelo  <br> - Sanchez Manrique, Italo Ludwing  <br> - Aliaga Aguirre, Ethan Matias  <br> -  Olivera Barzola, Eric Marlon | Capítulo I: Introducción  <br> Capítulo II: Requirements Elicitation & Analysis  <br> Capítulo III: Requirements Specification  <br> Capítulo IV: Product Design  <br> Capítulo V: Product Implementation, Validation & Deployment  <br><br> **5.1. Software Configuration Management**  <br> 5.1.1. Software Development Environment Configuration  <br> 5.1.2. Source Code Management  <br> 5.1.3. Source Code Style Guide & Conventions  <br> 5.1.4. Software Deployment Configuration  <br><br> **5.2. Landing Page, Services & Applications Implementation (Sprint 1)**  <br> 5.2.1.1. Sprint Planning 1  <br> 5.2.1.2. Aspect Leaders and Collaborators  <br> 5.2.1.3. Sprint Backlog 1  <br> 5.2.1.4. Development Evidence for Sprint Review  <br> 5.2.1.5. Execution Evidence for Sprint Review  <br> 5.2.1.6. Services Documentation Evidence for Sprint Review  <br> 5.2.1.7. Software Deployment Evidence for Sprint Review  <br> 5.2.1.8. Team Collaboration Insights during Sprint |
-| 2      | 13/05/2025  | - Del Aguila Ayala, Ricardo Alejandro  <br> - Machado Bracamonte, Ivo Marcelo  <br> - Sanchez Manrique, Italo Ludwing  <br> - Aliaga Aguirre, Ethan Matias  <br> - Olivera Barzola, Eric Marlon | **5.2.2. Sprint 2**  <br> 5.2.2.1. Sprint Planning 2  <br> 5.2.2.2. Aspect Leaders and Collaborators  <br> 5.2.2.3. Sprint Backlog 2  <br> 5.2.2.4. Development Evidence for Sprint Review  <br> 5.2.2.5. Execution Evidence for Sprint Review  <br> 5.2.2.6. Services Documentation Evidence for Sprint Review  <br> 5.2.2.7. Software Deployment Evidence for Sprint Review  <br> 5.2.2.8. Team Collaboration Insights during Sprint  <br><br> Avance de Conclusiones, Bibliografía y Anexos |
-| 3      | 21/06/2025  | - Del Aguila Ayala, Ricardo Alejandro  <br> - Machado Bracamonte, Ivo Marcelo  <br> - Sanchez Manrique, Italo Ludwing  <br> - Aliaga Aguirre, Ethan Matias  <br> - Olivera Barzola, Eric Marlon | **5.2.3.	Sprint 3**  <br> 5.2.3.1.	Sprint Planning 3.  <br> 5.2.3.2.   Aspect Leaders and Collaborators.  <br> 5.2.3.3.	Sprint Backlog 3.  <br> 55.2.3.4.	Development Evidence for Sprint Review.  <br> 5.2.3.5.	Execution Evidence for Sprint Review.  <br> 5.2.3.6.	Services Documentation Evidence for Sprint Review.  <br> 5.2.3.7.	Software Deployment Evidence for Sprint Review.  <br> 5.2.3.8.	Team Collaboration Insights during Sprint.  <br> 5.3.	Validation Interviews. <br> 5.3.1.	Diseño de Entrevistas. <br> 5.3.2.	Registro de Entrevistas. <br> 5.3.3.	Evaluaciones según heurísticas. <br> 5.4.	Video About-the-Product.  <br> Avance de Conclusiones, Bibliografía y Anexos |
 
-# 
+# Registro de Versiones del Informe
 
+| Versión | Fecha       | Autor                                | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|:--------|:------------|:-------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 22/04/2025  | Del Aguila Ayala, Ricardo Alejandro | Redacción del Capítulo I a V. Diseño de arquitectura usando Domain-Driven Design. Implementación inicial de la landing page. Documentación técnica de componentes. Diseño de historias de usuario. Coordinación general del enfoque técnico del proyecto. |
+| TB1     | 22/04/2025  | Sanchez Manrique, Italo Ludwing     | Diseño de User Personas, flujos de usuario y prototipos web. Desarrollo de guía de estilos visuales. Apoyo en estructura narrativa del documento.                                                                                                                                                                                                                                                                                                                                               |
+| TB1     | 22/04/2025  | Machado Bracamonte, Ivo Marcelo     | Desarrollo de sistema de etiquetas, wireframes y mock-ups. Propuesta visual de la landing page. Diagramación inicial del diseño gráfico.                                                                                                                                                                                                                                                                                                                                                        |
+| TB1     | 22/04/2025  | Aliaga Aguirre, Ethan Matias        | Desarrollo técnico de la landing page. Implementación estructural orientada a objetos. Apoyo en integración inicial de componentes.                                                                                                                                                                                                                                                                                                                                                              |
+| TB1     | 22/04/2025  | Olivera Barzola, Eric Marlon        | Configuración del entorno de desarrollo. Gestión inicial del Product Backlog. Aportes en estructura general del documento y SEO.                                                                                                                                                                                                                                                                                                                                                                 |
+| TP      | 13/05/2025  | Del Aguila Ayala, Ricardo Alejandro | Coordinación general de documentación de Sprint 2. Redacción técnica clara. Alineación con criterios de calidad. Ajustes en backlog y evidencias.                                                                                                                                                                                                                                                                                                                                               |
+| TP      | 13/05/2025  | Sanchez Manrique, Italo Ludwing     | Liderazgo en implementación del módulo frontend. Documentación de endpoints y coherencia funcional.                                                                                                                                                                                                                                                                                                                                                                                             |
+| TP      | 13/05/2025  | Machado Bracamonte, Ivo Marcelo     | Implementación de vistas frontend. Preparación de evidencias visuales para el Sprint Review.                                                                                                                                                                                                                                                                                                                                                                                                    |
+| TP      | 13/05/2025  | Aliaga Aguirre, Ethan Matias        | Desarrollo técnico del bounded context asignado. Aporte en integración frontend. Evidencias de implementación.                                                                                                                                                                                                                                                                                                                                                                                 |
+| TP      | 13/05/2025  | Olivera Barzola, Eric Marlon        | Reestructuración del entorno del módulo. Organización de evidencias de validación e implementación.                                                                                                                                                                                                                                                                                                                                                                                            |
+| TB2     | 22/06/2025  | Del Aguila Ayala, Ricardo Alejandro | Revisión de consistencia entre evidencias y criterios. Redacción de parte de las conclusiones. Organización de entrevistas de validación.                                                                                                                                                                                                                                                                                                                                                       |
+| TB2     | 22/06/2025  | Sanchez Manrique, Italo Ludwing     | Apoyo en diseño del protocolo de entrevistas. Análisis de resultados. Aportes funcionales derivados de la validación.                                                                                                                                                                                                                                                                                                                                                                           |
+| TB2     | 22/06/2025  | Machado Bracamonte, Ivo Marcelo     | Coordinación de evidencias visuales. Diseño de recursos gráficos para entrevistas y presentación final.                                                                                                                                                                                                                                                                                                                                                                                        |
+| TB2     | 22/06/2025  | Aliaga Aguirre, Ethan Matias        | Revisión cruzada del código. Validación de ajustes técnicos tras entrevistas. Documentación de mejoras aplicadas.                                                                                                                                                                                                                                                                                                                                                                               |
+| TB2     | 22/06/2025  | Olivera Barzola, Eric Marlon        | Integración de evidencias de entrevistas. Evaluación heurística. Verificación de formato y entregables.                                                                                                                                                                                                                                                                                                                                                                                         |
+| TF      | 06/07/2025  | Del Aguila Ayala, Ricardo Alejandro | Coordinación del cierre del proyecto. Revisión técnica y consolidación final del informe. Validación global.                                                                                                                                                                                                                                                                                                                                                                                    |
+| TF      | 06/07/2025  | Sanchez Manrique, Italo Ludwing     | Sistematización de observaciones del usuario. Refactorización visual del frontend. Redacción de anexos.                                                                                                                                                                                                                                                                                                                                                                                         |
+| TF      | 06/07/2025  | Machado Bracamonte, Ivo Marcelo     | Reestructuración de mock-ups finales. Elaboración de recursos visuales definitivos. Ajustes finales de layout.                                                                                                                                                                                                                                                                                                                                                                                  |
+| TF      | 06/07/2025  | Aliaga Aguirre, Ethan Matias        | Estabilización del sistema. Validación cruzada de código. Pruebas técnicas finales.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| TF      | 06/07/2025  | Olivera Barzola, Eric Marlon        | Integración completa del informe. Estructura final del repositorio. Cumplimiento de formato académico.            
 
 <hr>
 
-## Project Report Collaboration Insights  
+# Project Report Collaboration Insights
 
-El informe del proyecto se ha gestionado de forma colaborativa mediante el siguiente repositorio en la organización de GitHub del equipo:  [Repositorio](https://github.com/HampCoders)  
+El informe del proyecto se ha gestionado de forma colaborativa mediante el siguiente repositorio en la organización de GitHub del equipo:
 
-A continuación, se presentan las capturas de GitHub correspondientes a la colaboración activa del equipo en la elaboración del informe:
+[Repositorio del Informe - GitHub](https://github.com/HampCoders)
 
+Este repositorio ha servido como espacio central para la redacción estructurada del informe final, el control de versiones, y la coordinación de contribuciones técnicas por parte de todos los integrantes del equipo.
 
-<hr>
+A continuación, se presentan las evidencias de colaboración durante las distintas entregas, destacando el aporte activo de todos los miembros, en coherencia con el Registro de Versiones del Informe.
 
-1. Commits por integrante y distribución por semana
-Se evidencia una participación activa y distribuida.
+---
 
-Integrantes como lvonmb11, Rexest01, ItaloSanche, y MatFragg realizaron contribuciones constantes a lo largo de las semanas claves del desarrollo.
+### TB1 – Inicio de Redacción y Estructura General del Informe
 
-Los commits muestran trabajo en paralelo y complementario.
+Durante la primera entrega se definió la estructura base del informe, incluyendo introducción, objetivos, justificación y marco metodológico. Se asignaron secciones de forma equitativa y se establecieron ramas para cada sección.
+
+- Se registraron contribuciones constantes por parte de **Rexest01**, **MatFragg**, **ItaloSanche**, **ivommb11** y **lvonmb11**.
+- La colaboración fue paralela y coordinada, sin conflictos de fusión.
+- Se gestionaron ramas específicas por integrante para mantener un flujo limpio.
+
+Captura de commits semanales por integrante:
 
 ![TB1](Assets/TB1_insights.png)
-<hr>
 
-<hr>
+---
 
-2. Git Clones y Visitas
-El repositorio ha tenido 63 clones y 38 usuarios únicos que accedieron al repositorio, lo cual refleja un interés continuo en el contenido del informe.
+### TP – Profundización Técnica y Análisis de Arquitectura
 
-Las vistas alcanzaron 494 visualizaciones, mostrando una alta frecuencia de revisión por parte del equipo y evaluadores.
+Durante la entrega de prototipo, el equipo se enfocó en documentar las decisiones arquitectónicas, la estructura de carpetas, herramientas utilizadas y descripción de cada módulo.
 
-![TB11](Assets/TB1_insights1.png)
-<hr>
+- Se evidenció un aumento en la frecuencia de commits.
+- Se añadieron nuevas secciones técnicas, validaciones y gráficos de arquitectura.
+- La colaboración se mantuvo balanceada entre frontend y backend.
 
-<hr>
 
-3. Pull Requests y colaboración técnica
-Se han gestionado 58 pull requests activos relacionados al documento del informe, lo cual evidencia que se trabajó en ramas separadas para cada sección.
+<img src="https://i.postimg.cc/7Z0mwzPK/comints-tp.png"/>
 
-No se registraron conflictos ni problemas en el control de versiones, manteniendo un flujo de trabajo limpio.
+---
 
-![TB11](Assets/TB1_Insights2.png)
-<hr>
+### TB2 – Resultados, Validación y Ajustes Técnicos
+
+En esta entrega se documentaron los resultados del testing, feedback de usuarios y se ajustaron las secciones según hallazgos técnicos.
+
+- Todos los integrantes realizaron commits de edición, gráficos e interpretación de resultados.
+- Se organizaron sesiones de revisión cruzada entre secciones.
+
+
+
+<img src="https://i.postimg.cc/4NKW2MDk/commints-del-tb2.png"/>
+
+---
+
+### TF – Integración Final y Revisión General
+
+En la última entrega se consolidó el documento completo, ajustando redacción, estilos, numeración y coherencia entre partes.
+
+- Se hicieron commits de limpieza de estilo, referencias finales y anexos.
+- Se mantuvo el control de calidad con revisiones finales grupales.
+- Se realizaron pull requests finales sin conflictos.
+
+
+<img src="https://i.postimg.cc/ydYPmrmG/commints-tf.png"/>
+
+---
+
+### GitHub Insights: Clones, vistas y pull requests
+
+- **63 clones** y **38 usuarios únicos** accedieron al repositorio.
+- Se generaron **494 visualizaciones**, indicando un interés constante por parte del equipo y revisión por docentes o asistentes.
+- Se gestionaron más de **58 pull requests**, utilizando ramas separadas por integrante.
+  
+![TB1](Assets/TB1_insights1.png)
+![TB1](Assets/TB1_Insights2.png)
+
+---
+
+**Conclusión:**  
+La gestión del informe ha sido completamente colaborativa. Cada entrega mostró participación activa y equitativa entre los miembros, manteniendo consistencia con las prácticas de control de versiones y principios de desarrollo ágil. La evidencia muestra un equipo comprometido con el trabajo grupal, técnico y estructurado.
 
 <hr>
 
@@ -183,17 +240,15 @@ No se registraron conflictos ni problemas en el control de versiones, manteniend
 
 ## Student Outcome 5 – Trabajo en equipo
 
+Cada miembro del equipo ha contribuido activamente al desarrollo de competencias relacionadas con el trabajo colaborativo en un entorno técnico, cumpliendo con los criterios del Outcome 5 de ABET – EAC. A lo largo del proyecto, se ha evidenciado la capacidad del equipo para establecer objetivos conjuntos, planificar tareas, distribuir responsabilidades y ejecutar soluciones de manera coordinada, promoviendo siempre un ambiente inclusivo y de apoyo mutuo. En el siguiente cuadro se detallan las acciones específicas de cada integrante que demuestran cómo se ha alcanzado este resultado de aprendizaje.
+
 > *Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas.*
+
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
-| Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas. | **Del Aguila Ayala, Ricardo Alejandro**  <br> **TB1:** Asumí el liderazgo del equipo desde la etapa inicial, organizando reuniones para definir objetivos y distribuir responsabilidades de forma clara. Generé acuerdos grupales y promoví la participación activa de todos los miembros. <br> **TP:** Coordiné la ejecución del Sprint 2, promoviendo comunicación fluida y asegurando que los objetivos técnicos y organizativos fueran cumplidos en los tiempos establecidos. <br> **TB2:** Me enfoqué en el módulo de *Operations and Management*, coordinando los flujos internos de gestión y asegurando que las funcionalidades fueran alineadas con los procesos clave definidos. Validé cada avance con el equipo para mantener la coherencia del sistema. | Durante el trabajo final desarrollamos una dinámica de equipo organizada, donde cada integrante asumió roles claros y colaboró de manera activa. El liderazgo se aplicó para alinear los esfuerzos y resolver bloqueos de forma oportuna. Fomentamos la inclusión de ideas diversas y la planificación constante de tareas a través de herramientas compartidas. Estas prácticas fueron fundamentales para cumplir nuestras metas grupales. |
-| Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas. | **Sánchez Manrique, Italo Ludwing** <br> **TB1:** Participé activamente en la organización del equipo durante las fases iniciales, ayudando a establecer acuerdos de trabajo colaborativo. Propuse ideas visuales y técnicas que fueron consideradas grupalmente, generando inclusión y diálogo. <br> **TP:** Apoyé en la división de tareas según fortalezas individuales. Me aseguré de que cada integrante tuviera claro su rol y aporté a que el equipo mantuviera un ritmo constante de trabajo. <br> **TB2:** Contribuí en el desarrollo del módulo de *Service Design and Planning*, centrando mis esfuerzos en definir flujos coherentes de servicio y documentar los procesos para facilitar su implementación. Trabajé junto a Ivo para validar consistencia funcional y visual. | Durante el trabajo final desarrollamos una dinámica de equipo organizada, donde cada integrante asumió roles claros y colaboró de manera activa. El liderazgo se aplicó para alinear los esfuerzos y resolver bloqueos de forma oportuna. Fomentamos la inclusión de ideas diversas y la planificación constante de tareas a través de herramientas compartidas. Estas prácticas fueron fundamentales para cumplir nuestras metas grupales. |
-| Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas. | **Machado Bracamonte, Ivo Marcelo** <br> **TB1:** Promoví un entorno colaborativo desde la etapa de diseño, facilitando el consenso en decisiones visuales y de experiencia de usuario. Propuse herramientas visuales para que todos pudieran entender y aportar. <br> **TP:** Organicé sesiones grupales para validar avances y asegurar que todas las voces fueran escuchadas. Colaboré en la definición de entregables y en la solución conjunta de obstáculos del equipo. <br> **TB2:** Lideré el desarrollo del módulo de *Service Design and Planning*, enfocándome en el diseño de la experiencia de usuario, estructura de servicios y prototipos visuales. Coordiné revisiones con el equipo para asegurar una entrega coherente y funcional. | Durante el trabajo final desarrollamos una dinámica de equipo organizada, donde cada integrante asumió roles claros y colaboró de manera activa. El liderazgo se aplicó para alinear los esfuerzos y resolver bloqueos de forma oportuna. Fomentamos la inclusión de ideas diversas y la planificación constante de tareas a través de herramientas compartidas. Estas prácticas fueron fundamentales para cumplir nuestras metas grupales. |
-| Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas. | **Aliaga Aguirre, Ethan Matías** <br> **TB1:** Fomenté la organización del equipo técnico en base a objetivos semanales. Propicié la retroalimentación continua en los avances, con respeto por las opiniones de todos. <br> **TP:** Apoyé en mantener la planificación clara y compartida, revisando que las tareas se completaran de acuerdo al cronograma, y ayudando a compañeros que lo necesitaban. <br> **TB2:** Me encargué del módulo de *Assets and Resource Management*, definiendo cómo se gestionaban los recursos del sistema. Realicé validaciones técnicas para asegurar la correcta relación entre los recursos físicos y lógicos dentro del sistema. | Durante el trabajo final desarrollamos una dinámica de equipo organizada, donde cada integrante asumió roles claros y colaboró de manera activa. El liderazgo se aplicó para alinear los esfuerzos y resolver bloqueos de forma oportuna. Fomentamos la inclusión de ideas diversas y la planificación constante de tareas a través de herramientas compartidas. Estas prácticas fueron fundamentales para cumplir nuestras metas grupales. |
-| Funciona efectivamente en un equipo que proporciona liderazgo, fomenta colaboración e inclusión, establece objetivos, planifica tareas y cumple metas. | **Olivera Barzola, Eric Marlon** <br> **TB1:** Establecí orden en el entorno de trabajo común y ayudé a definir la estructura del equipo. Participé en la definición de objetivos grupales y fomenté la organización desde el inicio. <br> **TP:** Organicé la documentación del trabajo, promoviendo que todos los miembros aportaran y compartieran sus avances. Apoyé la planificación semanal y aseguré la entrega coordinada de los módulos asignados. <br> **TB2:** Desarrollé el módulo de *Dashboard*, enfocándome en la visualización de métricas clave y reportes interactivos. Me aseguré de que la interfaz fuera clara, útil y alineada con los requerimientos definidos por los demás módulos del sistema. | Durante el trabajo final desarrollamos una dinámica de equipo organizada, donde cada integrante asumió roles claros y colaboró de manera activa. El liderazgo se aplicó para alinear los esfuerzos y resolver bloqueos de forma oportuna. Fomentamos la inclusión de ideas diversas y la planificación constante de tareas a través de herramientas compartidas. Estas prácticas fueron fundamentales para cumplir nuestras metas grupales. |
-
-
+| **Participa activamente en equipos multidisciplinarios.** | **Del Aguila Ayala, Ricardo Alejandro**<br>**TB1:** Coordiné la planificación inicial y dividí responsabilidades según habilidades técnicas del equipo.<br>**TP:** Facilitador del Sprint Planning, articulando tareas backend con UX y frontend.<br>**TB2:** Promoví reuniones de integración entre módulos.<br>**TF:** Lideré la verificación cruzada entre componentes técnicos.<br><br>**Machado Bracamonte, Ivo Marcelo**<br>**TB1:** Coordiné diseño UI con programación, colaborando con backend desde el inicio.<br>**TP:** Ajusté prototipos tras revisión con equipo técnico.<br>**TB2:** Gestioné versiones de frontend según prioridades del grupo.<br>**TF:** Validé junto al grupo la experiencia de usuario final.<br><br>**Sanchez Manrique, Italo Ludwing**<br>**TB1:** Redacté el User Persona base y propuse estructura visual funcional.<br>**TP:** Me encargué de alinear visualmente el diseño con lo programado.<br>**TB2:** Coordiné pruebas con usuarios y comuniqué resultados al equipo.<br>**TF:** Documenté entregables conjuntos en base a consensos técnicos.<br><br>**Aliaga Aguirre, Ethan Matías**<br>**TB1:** Estructuré el backend inicial y propuse guías comunes de codificación.<br>**TP:** Asistí en integración de módulos y solución de bugs en conjunto.<br>**TB2:** Coordiné sesiones técnicas para resolver dependencias.<br>**TF:** Verifiqué cumplimiento técnico grupal antes de la entrega.<br><br>**Olivera Barzola, Eric Marlon**<br>**TB1:** Apoyé la planificación inicial y propuse la estructura base para los entregables.<br>**TP:** Acompañé la coordinación entre frontend y backend.<br>**TB2:** Establecí puntos de control grupal para avances técnicos.<br>**TF:** Integré y supervisé que las funcionalidades grupales se alineen con la visión común. | **TB1:** Se construyó un equipo que desde el inicio se orientó a metas compartidas, respetando el rol y la voz de cada integrante.<br>**TP:** La integración efectiva entre módulos reflejó una sinergia real entre miembros con perfiles diversos.<br>**TB2:** Se fortaleció el sentido de equipo mediante retroalimentación activa y ajustes conjuntos sobre el producto.<br>**TF:** El trabajo en equipo culminó con una entrega cohesionada, donde cada integrante fue clave para lograr un producto completo y funcional. |
+| **Ejecuta planificación de tareas y cumplimiento de objetivos colectivos.** | **Del Aguila Ayala, Ricardo Alejandro**<br>**TB1:** Estructuré cronogramas internos de entregas.<br>**TP:** Organicé backlog técnico con entregas prioritarias.<br>**TB2:** Monitoreé tiempos y cumplimiento de metas.<br>**TF:** Consolidé reporte final agrupando resultados individuales.<br><br>**Machado Bracamonte, Ivo Marcelo**<br>**TB1:** Elaboré ruta gráfica de desarrollo.<br>**TP:** Organicé flujos visuales según prioridades del equipo.<br>**TB2:** Coordiné cambios visuales con el backend.<br>**TF:** Documenté la planificación final del flujo de navegación.<br><br>**Sanchez Manrique, Italo Ludwing**<br>**TB1:** Establecí metas visuales por iteración.<br>**TP:** Reorganicé la interfaz según feedback conjunto.<br>**TB2:** Lideré la secuenciación de entregables visuales.<br>**TF:** Verifiqué que cada entregable cumpla con los objetivos funcionales.<br><br>**Aliaga Aguirre, Ethan Matías**<br>**TB1:** Documenté tareas del backend priorizadas.<br>**TP:** Coordiné cronograma técnico con tareas del equipo.<br>**TB2:** Verifiqué dependencias funcionales entre microservicios.<br>**TF:** Validé implementación técnica conforme al backlog grupal.<br><br>**Olivera Barzola, Eric Marlon**<br>**TB1:** Propuse estructuras de planificación interna.<br>**TP:** Colaboré en la calendarización de entregas parciales.<br>**TB2:** Coordiné dependencias técnicas y verifiqué cumplimiento grupal.<br>**TF:** Documenté y supervisé los avances integrados antes del cierre. | **TB1:** La planificación estructurada permitió avanzar de manera ordenada y con objetivos claros en cada hito.<br>**TP:** Se evidenció mayor autonomía y coordinación horizontal al distribuir responsabilidades.<br>**TB2:** Se fortaleció la visión colectiva, con un enfoque en cumplir objetivos comunes por encima de logros individuales.<br>**TF:** El cumplimiento de metas grupales fue el resultado de una gestión conjunta del tiempo, recursos y prioridades. |
 
 
 
@@ -305,7 +360,6 @@ Según Pragma (2021), el proceso Lean UX es la mezcla de metodologías ágiles y
 
 <hr>
 
-<hr>
 
 #### 1.2.2.1. Lean UX Problem Statements
 **Problem Statement#1** <br>
@@ -324,7 +378,6 @@ Ante este desafío, surge la pregunta clave: ¿Cómo podemos crear un puente dig
 
 <hr>
 
-<hr> 
 
 #### 1.2.2.2. Lean UX Assumptions
 **Business Outcomes:**  
@@ -433,7 +486,6 @@ Nuestros usuarios principales son:
 
 **Sabremos que** hemos tenido éxito cuando nuevas ciudades alcancen el 60% del volumen de transacciones de la región pionera en un plazo de 6 meses, con un crecimiento orgánico del 20% mensual.
 
-<hr>
 <hr>
 
 #### 1.2.2.4. Lean UX Canvas
@@ -662,7 +714,8 @@ En esta sección, el equipo realiza el registro de las entrevistas realizadas
 - **Inicia en:** 0:06  
 - **Duración:** 6:35
   
-![Entrevista1](Assets/entrevista1_segmento1.png)
+<img src="https://i.postimg.cc/L844ttqW/segmento1.png"/>
+
 
 ### Resumen de entrevista: 
 
@@ -707,7 +760,7 @@ Mari se deja influenciar por **referencias de su comunidad digital** y de su ent
 - **Inicia en:** 0:02
 - **Duración:** 6:43
 
-<img src="https://imgur.com/V74WtLU.png"/>
+<img src="https://i.postimg.cc/jqhGzGzs/segmento1-2.png"/>
 
 **Resumen:**
 Eric Jusfral es un propietario de hogar urbano que experimenta frustración y preocupación cuando surge un problema eléctrico en casa, especialmente por no tener a quién acudir de forma segura y rápida. Suele buscar soluciones en internet o pedir recomendaciones, aunque desconfía de técnicos sin certificación. Ha tenido malas experiencias con instalaciones mal hechas, lo que lo hace más cuidadoso y exigente. No realiza mantenimientos preventivos con frecuencia, pero reconoce que debería hacerlo para evitar fallos futuros.
@@ -720,7 +773,7 @@ Está interesado en usar una plataforma como ElectroLink, siempre que garantice 
 - **Inicia en:** 0:01  
 - **Duración:** 9:54
   
-![Entrevista3](Assets/entrevista2_segmento1.png)
+<img src="https://i.postimg.cc/d3QNHV8J/segmento1-3.png"/>
 
 ### Resumen de entrevista: 
 
@@ -866,7 +919,7 @@ No usa dispositivos especializados ni soluciones de automatización.
 - **Inicia en:** 0:02  
 - **Duración:** 7:59
   
-![Entrevista6](Assets/entrevista5.png)
+<img src="https://i.postimg.cc/BbwpmcSC/segmento-2.png"/>
 
 **Resumen:**  
 
@@ -914,43 +967,97 @@ Utiliza dispositivos móviles (smartphone) para la mayoría de sus actividades r
 #### 2.2.3. Análisis de entrevistas
 En esta sección, el equipo realiza el analisis respectivo de las entrevistas, consolidandolo en un resumen de acuerdo a los segmentos entrevistados.
 
-### Segmento #1: Propietarios de hogares urbanos
+### Segmento 1: Propietarios de hogares urbanos
 
-Los propietarios entrevistados, como **Mari Vallejos**, expresaron una fuerte dependencia de **redes sociales** y **recomendaciones informales** para resolver problemas eléctricos. El **desconocimiento técnico genera ansiedad**, y las decisiones de contratación se basan en criterios como **puntualidad, rapidez, compromiso** y **precio razonable**. La **prevención eléctrica es poco frecuente**, debido a la falta de información o cultura preventiva. Existe una clara **disposición a usar plataformas digitales**, siempre que incluyan **reseñas verificadas, técnicos certificados** y opciones de **filtrado según sus necesidades** (experiencia, precio, horarios).
+**Total entrevistados:** 3  
+**Edad promedio:** 25.5 años  
+**Sexo:** 50% femenino, 50% masculino
 
-> **Insight clave:** Este grupo valora la confianza, accesibilidad y la sensación de seguridad que brinda un servicio verificado. Una plataforma como **ElectroLink** puede convertirse en su aliado principal para enfrentar problemas eléctricos con mayor tranquilidad.
+#### Características objetivas:
+- **100%** utiliza redes sociales como principal canal para buscar soluciones (Instagram, Facebook).
+- **100%** no realiza mantenimientos preventivos eléctricos de forma planificada.
+- **100%** usa el smartphone como dispositivo principal para búsquedas y contacto con proveedores.
+- **50%** utiliza herramientas como asistentes virtuales para obtener diagnósticos preliminares.
+- **100%** prioriza criterios como puntualidad, rapidez, compromiso y precio justo al contratar.
+
+#### Características subjetivas:
+- Alta dependencia emocional hacia servicios externos por falta de conocimientos técnicos.
+- Predomina la ansiedad o frustración ante fallas eléctricas.
+- Valoran mucho las recomendaciones de conocidos antes que los comentarios genéricos en línea.
+- Hay una percepción positiva hacia el uso de una plataforma si esta brinda **confianza, practicidad y visibilidad de reseñas verificadas**.
+
+> **Insight clave:** Este grupo busca seguridad, simplicidad y respaldo comunitario. ElectroLink debe ser percibida como una solución confiable, simple y centrada en la prevención.
 
 ---
 
 
-### Segmento #2: Proveedores de componentes o servicios eléctricos certificados
+### Segmento 2: Proveedores eléctricos certificados
 
-Proveedores como **Juan Lucas** valoran el **reconocimiento profesional**, pero enfrentan dificultades para competir con técnicos informales. Mencionan barreras como la **falta de canales para mostrar su experiencia, reseñas o certificaciones**. También existe interés en contar con una plataforma que les **brinde visibilidad, credibilidad** y **facilite la gestión de pedidos**. Están dispuestos a **pagar una suscripción si eso les garantiza mayor alcance**, clientes recurrentes y reputación digital consolidada.
+**Total entrevistados:** 3  
+**Edad promedio:** 24 años  
+**Estado laboral:** 100% independiente
 
-> **Insight clave:** **ElectroLink** puede convertirse en un ecosistema donde los proveedores formales fortalezcan su presencia, profesionalicen su oferta y generen relaciones duraderas con clientes que valoran la calidad y el cumplimiento normativo.
+#### Características objetivas:
+- **100%** cuenta con certificación técnica formal (técnico o ingeniero).
+- **100%** no usa plataformas digitales profesionales para su trabajo actual.
+- **100%** gestiona pedidos y agendas de forma manual (WhatsApp, libreta, calendario).
+- **100%** promociona servicios por redes sociales (especialmente Facebook y grupos).
+- **100%** expresó disposición a pagar por visibilidad si la plataforma les genera ingresos estables.
+
+#### Características subjetivas:
+- Sienten frustración por la **competencia informal** y la baja valoración del profesionalismo.
+- Expresan necesidad de herramientas digitales que respalden su credibilidad.
+- Buscan construir reputación digital (reseñas, portafolios, validación de certificados).
+- Desean pertenecer a una comunidad de técnicos certificados para diferenciarse.
+
+> **Insight clave:** ElectroLink puede convertirse en la plataforma que empodere a técnicos formales, permitiéndoles visibilizar sus habilidades y construir reputación sustentable.
+
+---
+
+## Síntesis de Hallazgos y Validación Cuantitativa
+
+A partir de los gráficos obtenidos del formulario post-entrevista, se destacan las siguientes tendencias cuantitativas que validan los hallazgos cualitativos anteriores:
+
+### Confianza y certificación
+
+![Grafico1](Assets/grafico1.png)  
+La mayoría de usuarios indica **desconfianza ante técnicos no certificados**. La presencia de técnicos informales es una barrera importante, validando que ElectroLink debe priorizar la **verificación de credenciales**.
+
+---
+
+### Historial técnico y trazabilidad
+
+![Grafico2](Assets/grafico2.png)  
+Un alto porcentaje de usuarios considera útil llevar **un historial digital** de los servicios realizados, actualmente ausente en su rutina. Esto sustenta la necesidad de un **módulo de registro digital**.
+
+---
+
+### Prevención y alertas
+
+![Grafico3](Assets/grafico3.png)  
+Los entrevistados no suelen tener una **cultura de mantenimiento preventivo**, pero valoran la idea de recibir **recordatorios o alertas automatizadas** para evitar fallas.
+
+---
+
+### Opiniones verificadas
+
+![Grafico4](Assets/grafico4.png)  
+La **transparencia y reseñas verificadas** son clave en la decisión de compra. Se valida la necesidad de incluir **calificaciones visibles** como criterio de confianza.
+
+---
+
+### Monetización por suscripción
+
+![Grafico5](Assets/grafico5.png)  
+Tanto clientes como proveedores muestran apertura a pagar por servicios premium o visibilidad, siempre que los beneficios sean tangibles y justificados.
+
+---
+
+### Conclusión general
+
+Las entrevistas permitieron identificar comportamientos comunes y expectativas claras en cada segmento. Las características objetivas (uso de redes, gestión manual, falta de mantenimiento) y las subjetivas (ansiedad, frustración, búsqueda de respaldo) se alinean directamente con las funcionalidades propuestas en ElectroLink. Esto fortalece la construcción de arquetipos sólidos y validados empíricamente.
 
 
-## Análisis de Hallazgos
-
-![Grafico1](Assets/grafico1.png)
-
-Los entrevistados resaltan como uno de los principales puntos de fricción la dificultad para identificar proveedores eléctricos realmente confiables. La presencia de técnicos informales sin certificaciones claras genera desconfianza. Este hallazgo valida la necesidad de que ElectroLink destaque las certificaciones legales de los proveedores como un diferenciador clave dentro de la plataforma.
-
-![Grafico2](Assets/grafico2.png)
-
-La posibilidad de llevar un registro digital de los servicios eléctricos realizados (por ejemplo, mantenimientos o reparaciones) es vista como una funcionalidad útil, especialmente para usuarios que hoy lo hacen de forma manual. Esto refuerza la importancia de integrar funciones de gestión documental dentro de ElectroLink, facilitando el seguimiento y la trazabilidad de los trabajos realizados.
-
-![Grafico3](Assets/grafico3.png)
- 
-Consultas relacionadas con la recepción de recordatorios permiten identificar una oportunidad para fomentar el mantenimiento eléctrico preventivo. La mayoría de los usuarios no tiene hábitos estructurados en este aspecto. Una funcionalidad de alertas o notificaciones podría ser clave para ayudar a prevenir fallas eléctricas y extender la vida útil de las instalaciones.
-
-![Grafico4](Assets/grafico4.png)
-
-Tanto en el entorno doméstico como empresarial, los entrevistados valoran la transparencia. Acceder a opiniones reales de otros usuarios es considerado un elemento crucial para decidir a qué proveedor contratar. Por ello, se valida la necesidad de incluir una sección de **comentarios y calificaciones** dentro de la app para fomentar la confianza y facilitar la toma de decisiones.
-
-![Grafico5](Assets/grafico5.png)
-
-Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
 
 ### 2.3. Needfinding
 En esta sección, el equipo presenta los elementos del needfinding
@@ -1683,36 +1790,48 @@ En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usu
 ### 4.3.1. Landing Page Wireframe.
 
 **Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
-<br>
+<hr>
+
 ![Sección1](Assets/landingpage-seccion1.png)
-<br>
+
+<hr>
 
 **Sección de "Testimonios" y "Por qué usar Electrolink?" **
-<br>
+<hr>
+
 ![Sección2](Assets/landingpage-seccion2.png)
-<br>
+
+<hr>
 
 **Sección de "Sobre Nosotros" **
-<br>
+<hr>
+
 ![Sección3](Assets/landingpage-seccion3.png)
-<br>
+
+<hr>
 
 **Sección de "Contacto" **
-<br>
+<hr>
+
 ![Sección4](Assets/landingpage-seccion4.png)
-<br>
+
+<hr>
 
 #### 4.3.2. Landing Page Mock-up
 
 **Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
-<br>
+<hr>
+
 ![LandingMockup1](Assets/landingpagemockup-1.png)
-<br>
+
+<hr>
 
 **Sección de "Testimonios" y "Por qué usar Electrolink?" **
-<br>
+<hr>
+
 ![LandingMockup2](Assets/landingpagemockup-2.png)
-<br>
+
+<hr>
 
 ### 4.4. Web Applications UX/UI Design
 En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usuario de la aplicación Front-End
@@ -1724,9 +1843,9 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 
 ---
 
-### 🔹 Elementos clave del diseño
+### Elementos clave del diseño
 
-#### 🧭 Arquitectura de la información
+#### Arquitectura de la información
 
 - El contenido y las funciones están organizadas para facilitar el acceso a herramientas como el historial de servicios, monitoreo de consumo energético, o gestión de citas.
 - Los wireframes incluyen pantallas clave como:
@@ -1736,7 +1855,7 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
   - Historial de dispositivos y consumo energético.
 - Se ha priorizado una **navegación simple y accesible**, permitiendo que usuarios con diversas habilidades puedan moverse con facilidad por la plataforma.
 
-#### 📐 Estructura de la interfaz
+#### Estructura de la interfaz
 
 - Los elementos interactivos (botones, menús, tarjetas de información) están ubicados estratégicamente para que el usuario pueda realizar tareas con pocos clics.
 - Las pantallas permiten acceso directo a secciones importantes como:
@@ -1747,7 +1866,7 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 
 ---
 
-### 🎨 Principios de diseño aplicados
+### Principios de diseño aplicados
 
 - **Simplicidad**: Cada interfaz está diseñada para minimizar la carga cognitiva, con estructuras limpias que priorizan las acciones más importantes para el usuario.
 - **Consistencia**: Todos los botones, iconos y menús siguen un mismo estilo visual y funcional, lo que reduce el tiempo de aprendizaje para los usuarios.
@@ -1762,31 +1881,38 @@ Los wireframes son una guía esencial para la implementación efectiva de la pla
 
 Vista de Iniciar Sesion
 ![V1](Assets/iniciarsecion.png)
-<br>
+
+<hr>
 
 Vista de Crear Cuenta
 ![V2](Assets/crearcuenta.png)
-<br>
+
+<hr>
 
 Vista de la pagina principal
 ![V3](Assets/paginaprincipal.png)
-<br>
+
+<hr>
 
 Vista de un dashboard principal para los propietarios de hogar
 ![V4](Assets/dashboard.png)
-<br>
+
+<hr>
 
 Vista del dashboard principal para los Tecnicos
 ![V5](Assets/dashboardtecnicos.png)
-<br>
+
+<hr>
 
 Vista para editar perfil
 ![V6](Assets/editarperfil.png)
-<br>
+
+<hr>
 
 Vista la sección de propiedades
 ![V7](Assets/seccionpropiedades.png)
-<br>
+
+<hr>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección, el equipo de Hampcoders define los wireflows diagrams para la aplicación Web
@@ -1794,35 +1920,46 @@ En esta sección, el equipo de Hampcoders define los wireflows diagrams para la 
 Wireflow para el Tecnico
 ![W1](Assets/seccionpropiedades.png)
 
+<hr>
+
 Wireflow para el Usuario se registre dentro de la plataforma
 ![W2](Assets/seccionpropiedades.png)
+
+<hr>
 
 Wireflow para el usuario busque tecnicos
 ![W3](Assets/seccionpropiedades.png)
 
 [https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
 
+
+
 #### 4.4.3. Web Applications Mock-ups
 
 Vista de Iniciar Sesion
 <img src="https://i.imgur.com/G3TSic5.png"/>
-<br>
+
+<hr>
 
 Vista de Crear Cuenta
 <img src="https://i.imgur.com/wZoh5ZE.png"/>
-<br>
+
+<hr>
 
 Vista de la pagina principal
 <img src="https://i.imgur.com/nDd5iLM.png"/>
-<br>
+
+<hr>
 
 Vista de un dashboard principal para visualizar el perfil de usuario
 <img src="https://i.imgur.com/peSNSOz.png"/>
-<br>
+
+<hr>
 
 Vista de un dashboard principal para gestionar propiedades
 <img src="https://i.imgur.com/6Ah62mr.png"/>
-<br>
+
+<hr>
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
@@ -1830,15 +1967,18 @@ En esta sección se presenta la propuesta de User Flows del sistema ElectroLink,
 
 User Flow diagrams para el Usuario se registre dentro de la plataforma
 <img src="https://i.imgur.com/fLb0bCw.png"/>
-<br>
+
+<hr>
 
 User Flow diagrams para el Usuario acceda desde la pagina principal a la vista de Perfiles y 
 <img src="https://i.imgur.com/FDCaGyc.png"/>
-<br>
+
+<hr>
 
 User flow para que el Usuario acceda a la sección para buscar Tecnicos y registrar propiedades.
 <img src="https://i.imgur.com/ss6IaYV.png"/>
-<br>
+
+<hr>
 
 [Ver diagrama en Lucidchart](https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3)  
 
@@ -1856,47 +1996,58 @@ interacción se fundamentan en criterios clave, como la facilidad de uso, la acc
 ### 4.6.1. Software Architecture Context Diagrams
 <img src="https://imgur.com/7vnlJEL.png"/>
 
+<hr>
 
 ### 4.6.2. Software Architecture Container Diagrams
 <img src="https://imgur.com/5qhpDhI.png"/>
 
+<hr>
 
 ### 4.6.3. Software Architecture Components Diagrams
 Authentication Bounded Context
 <img src="https://imgur.com/vKY4E5a.png"/>
 
+<hr>
+
 Profile Management Bounded Context
 <img src="https://imgur.com/ZZK7k9y.png" />
+
+<hr>
 
 Invoice Monitoring Bounded Context
 <img src="https://imgur.com/80VL1gt.png" />
 
+<hr>
+
 Service Management Bounded Context
 <img src="https://imgur.com/vRntRfs.png" />
+
+<hr>
 
 Notifiaction Management Bounded Context
 <img src="https://imgur.com/aapEy8Z.png"/>
 
+<hr>
+
 Service Contracting Bounded Context
 <img src="https://imgur.com/h5Uv4y9.png" />
+
+<hr>
 
 Subscription Billing Bounded Context
 <img src="https://imgur.com/m6I4Mak.png" />
 
 <hr>
 
-<hr>
 
 ### 4.7. Software Object-Oriented Design
-<hr>
-<hr>
 
 #### 4.7.1. Class Diagrams
 
 <img src="https://i.imgur.com/rzIgdUv.png"/>
-<hr>
 
 <hr>
+
 
 #### 4.7.2. Class Dictionary
 | Clase | Atributo | Descripción | Tipo de dato |

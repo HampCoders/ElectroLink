@@ -436,6 +436,8 @@ Nuestros usuarios principales son:
 <hr>
 
 #### 1.2.2.4. Lean UX Canvas
+En esta sección, el equipo presenta el Lean UX Canvas
+
 <img src="https://i.imgur.com/OD3PmHm.png"/>
 
 ### Segmentos Objetivo:

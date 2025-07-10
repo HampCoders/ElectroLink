@@ -502,8 +502,12 @@ Aspectos psicográficos:
 - Están enfocados en el crecimiento profesional y la fidelización de clientes.
   
 ## Capítulo II: Requirements Elicitation & Analysis
+En este capítlo, el equipo de Hampcoders realiza la Elicitación y el Analisis de los Requisitos
+
 ### 2.1. Competidores
-# Análisis del Mercado Digital de Servicios
+El equipo tras realizar una investigación sobre el mercado actual de servicios digitales, decide 
+
+### Análisis del Mercado Digital de Servicios
 
 Hoy en día, en el competitivo mercado digital para la contratación de servicios, existen diversas empresas importantes que ofrecen soluciones en áreas como reparaciones, mantenimiento y tareas domésticas. Entre los competidores más destacados se encuentran **Thumbtack**, **Handy** y **TaskRabbit**.
 
@@ -568,6 +572,7 @@ Plataforma donde puedes contratar **taskers** (personas que realizan tareas). Op
 ---
 
 #### 2.1.1. Análisis competitivo
+En esta sección, el equipo realiza el Analisi competitivo de aquellas Startups o Empresas ya consolidades que brindan servicios similares al que buscamos ofrecer.
 
 # Competitive Analysis Landscape
 
@@ -617,7 +622,7 @@ De acuerdo con Easwaramoorthy y Zarinpoush (2006), las entrevistas son un métod
 <hr>
 
 #### 2.2.1. Diseño de entrevistas
-
+En esta sección, el equipo de Hampcoders realiza el diseño de las entrevistas a realizar por segmento objetivo
 
 **Segmento #1: Propietarios de hogares urbanos:**
 
@@ -639,27 +644,7 @@ De acuerdo con Easwaramoorthy y Zarinpoush (2006), las entrevistas son un métod
 -   ¿En qué momentos específicos crees que te sería más útil tener acceso rápido a un proveedor certificado?
 -   ¿Te sentirías cómodo usando una plataforma para agendar mantenimientos eléctricos preventivos?
 
-**Segmento #2: Dueños de PYMES u oficinas:**
-
-**Preguntas principales:**
--   ¿Qué tipo de instalaciones eléctricas utilizas actualmente en tu negocio u oficina?
--   ¿Qué tan seguido te has enfrentado a fallas eléctricas en tus operaciones diarias?
--   ¿Cómo manejas actualmente el mantenimiento eléctrico de tu empresa? ¿Lo haces tú o lo delegas?
--   ¿Qué impacto tiene una falla eléctrica en tu productividad o en la atención al cliente?
--   ¿Qué criterios tomas en cuenta al contratar a un proveedor eléctrico para tu negocio?
--   ¿Has tenido malas experiencias con servicios técnicos eléctricos? ¿Qué aprendiste de esas situaciones?
--   ¿Qué tan importante es para ti que los proveedores cumplan con normativas legales y ofrezcan garantía?
--   ¿Te sentirías cómodo usando una plataforma que te conecte directamente con proveedores certificados?
--   ¿Qué funcionalidades esperarías de esa plataforma para que realmente te ayude a ahorrar tiempo y dinero?
--   ¿Crees que una herramienta así te daría una ventaja competitiva frente a otros negocios?
-
-**Preguntas complementarias:**
--   ¿Qué sueles hacer cuando necesitas encontrar un componente eléctrico específico para tu empresa?
--   ¿Qué herramientas digitales usas actualmente para gestionar el mantenimiento o las instalaciones eléctricas de tu negocio?
--   ¿Dónde buscarías una solución que reduzca riesgos y mejore la eficiencia energética en tu negocio?
--   ¿Te sentirías más confiado si pudieras ver opiniones, calificaciones y certificaciones de los proveedores antes de contratarlos?
-
-**Segmento #3: Proveedores de componentes o servicios eléctricos certificados:**
+**Segmento #2: Proveedores de servicios eléctricos certificados:**
 
 **Preguntas principales:**
 -   ¿Cómo te sientes actualmente con la forma en que consigues clientes para tus servicios eléctricos?
@@ -682,8 +667,9 @@ De acuerdo con Easwaramoorthy y Zarinpoush (2006), las entrevistas son un métod
 
 <hr>
 
-
 #### 2.2.2. Registro de entrevistas
+En esta sección, el equipo realiza el registro de las entrevistas realizadas
+
 ### Segmento #1: Propietarios de hogares urbanos
 
 **Entrevista: Mari Vallejos**  
@@ -743,10 +729,6 @@ Mari se deja influenciar por **referencias de su comunidad digital** y de su ent
 **Resumen:**
 Eric Jusfral es un propietario de hogar urbano que experimenta frustración y preocupación cuando surge un problema eléctrico en casa, especialmente por no tener a quién acudir de forma segura y rápida. Suele buscar soluciones en internet o pedir recomendaciones, aunque desconfía de técnicos sin certificación. Ha tenido malas experiencias con instalaciones mal hechas, lo que lo hace más cuidadoso y exigente. No realiza mantenimientos preventivos con frecuencia, pero reconoce que debería hacerlo para evitar fallos futuros.
 Está interesado en usar una plataforma como ElectroLink, siempre que garantice técnicos certificados, calificaciones visibles y procesos transparentes. Le gustaría acceder fácilmente a soporte, comparar proveedores y registrar su consumo mensual para detectar excesos o posibles fallos. Para él, la seguridad, legalidad y facilidad de uso son claves al momento de contratar servicios eléctricos.
-
-
-
-### Segmento #2: Dueños de PYMES u oficinas
 
 **Entrevista : Piero Tenorio**  
 - **Sexo:** Masculino  
@@ -942,7 +924,7 @@ Utiliza dispositivos móviles (smartphone) para la mayoría de sus actividades r
 
 
 #### 2.2.3. Análisis de entrevistas
-## 2.2.3. Análisis de entrevistas
+En esta sección, el equipo realiza el analisis respectivo de las entrevistas, consolidandolo en un resumen de acuerdo a los segmentos entrevistados.
 
 ### Mari Vallejos  
 **Resumen:**  

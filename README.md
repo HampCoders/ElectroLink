@@ -1003,14 +1003,6 @@ Alejandro vive un recorrido con muchos puntos de fricción, sobre todo relaciona
 - Falta de herramientas digitales.
 - Inseguridad en cumplimiento normativo.
 
-**User Persona: Eduardo Gonzales**
-![Empathy2](Assets/Journey-mapping-2.png)
-
-Eduardo sigue un recorrido rigurosamente técnico pero emocionalmente cargado, especialmente en momentos donde la decisión impacta la operación de su empresa. Sus mayores frustraciones están en:
-- Falta de claridad y confianza en los proveedores.
-- Procesos manuales y repetitivos que consumen tiempo.
-- Desconfianza e incertidumbre en cada paso previo a la contratación.
-A pesar de eso, su perfil proactivo y analítico lo convierte en un usuario ideal para una solución como ElectroLink, siempre que ésta le ofrezca:
 
 **User Persona: Olivia Perez**
 ![Empathy3](Assets/Journey-mapping-3.png)
@@ -1032,16 +1024,6 @@ En esta sección , el equipo presenta los mapas de empatia o Empathy Maps realiz
 <img src="https://i.imgur.com/koIIfNX.jpeg"/>
 
 **Olivia Rodriguez**
-
-<hr>
-
-<hr>
-
-<img src="https://i.imgur.com/7BCEdvZ.jpeg"/>
-
-**Eduardo Gonzales**
-
-<hr>
 
 <hr>
 
@@ -1099,51 +1081,6 @@ Entrega de productos:
 **Conclusión**
 
 Alejandro enfrenta varios puntos críticos en su proceso: publicidad poco efectiva, consultas y cotizaciones manuales que lo agobian, y entregas propensas a errores. Aunque hay momentos de esperanza, su experiencia general es frustrante. Esto evidencia la necesidad urgente de herramientas digitales que lo ayuden a automatizar, organizar y profesionalizar su servicio.
-
-**Eduardo Gonzales**
-
-<img src="https://i.imgur.com/0k7QAZ8.png"/>
-
-**Áreas negativas**
-
-Identificar una necesidad operativa o de mantenimiento:
-- Eduardo parte con incertidumbre al preguntarse si debe resolver el problema de inmediato o si puede esperar, lo que genera estrés.
-- Se siente preocupado y frustrado porque los problemas son frecuentes y no siempre encuentra soluciones rápidas, lo que podría acarrear riesgos operativos o pérdidas importantes para la empresa.
-
-Buscar proveedores adecuados:
-- Esta etapa está llena de desconfianza. Eduardo duda si los proveedores entienden realmente lo que necesita o si solo quieren cerrar una venta rápida.
-- Se siente inseguro e impaciente ante las respuestas lentas y poco claras, lo que afecta su percepción de profesionalismo y genera tensión en un momento clave para la toma de decisiones.
-  
-Solicitar cotización y evaluar propuestas:
-- Eduardo se enfrenta a la ansiedad de cometer errores al seleccionar proveedores, y sufre por tener que repetir procesos que no mejoran con el tiempo.
-- La sobrecarga de evaluar múltiples propuestas, sin estar seguro de si le responderán bien tras la compra, lo hace sentirse cansado, inseguro y con miedo a consecuencias graves.
-  
-Supervisar ejecución y validar resultados:
-- Aunque ya en una etapa avanzada, Eduardo aún siente incertidumbre y dudas sobre si tomó la mejor decisión o si dejó pasar una opción superior.
-- Esto lo hace sentirse dudoso, y aunque confía en algunos proveedores, no siempre puede validar si son la mejor opción a largo plazo.
-
-**Áreas positivas**
-
-Identificar una necesidad operativa o de mantenimiento:
-
-- Eduardo demuestra proactividad al realizar inspecciones periódicas y tomar nota del estado de los equipos, lo que le da visibilidad y control sobre su entorno operativo.
-- Se siente comprometido con su equipo y con la empresa, lo que impulsa su deseo de mejorar continuamente.
-  
-Buscar proveedores adecuados:
-- Aunque tiene dudas, Eduardo explora múltiples canales (web, catálogos, redes, recomendaciones) para encontrar proveedores, lo que muestra una búsqueda activa y estratégica.
-- Tiene un enfoque exigente y selectivo, no se conforma con la primera opción, lo que garantiza estándares de calidad más altos.
-
-Solicitar cotización y evaluar propuestas:
-- Filtra activamente a proveedores que no cumplen con aspectos técnicos o de confianza, lo que indica una evaluación rigurosa.
-- Esta etapa, aunque estresante, muestra que Eduardo sabe qué quiere y no acepta cualquier solución, buscando equilibrio entre precio, calidad y conocimiento técnico.
-
-Supervisar ejecución y validar resultados:
-- Finalmente, cuando logra decidir con seguridad, se siente aliviado por haber elegido correctamente pensando en el largo plazo.
-- Esta satisfacción final indica que, a pesar del proceso complejo, Eduardo valora las decisiones bien fundamentadas y aspira a establecer relaciones sostenibles con los proveedores.
-
-**Conclusión**
-
-Eduardo es un perfil técnico y exigente, que valora la calidad, la previsión y la confiabilidad en todo el proceso de adquisición y mantenimiento. Aunque su recorrido está lleno de tensiones y dudas, especialmente en la interacción con proveedores, también muestra una actitud proactiva y profesional. Una plataforma que le brinde confianza, claridad, rapidez en respuestas y herramientas para comparar y validar proveedores fácilmente puede ayudarlo a reducir su ansiedad, optimizar decisiones y reforzar la seguridad en sus elecciones.
 
 **Olivia Rodriguez**
 
@@ -1292,11 +1229,6 @@ Alejandro Lopez | To-Be Scenario Mapping
 
 <img src="https://i.imgur.com/vfkqiDy.jpeg"/>
 
-Eduardo Gonzales | To-Be Scenario Mapping
-
-<img src="https://i.imgur.com/X2xKKWG.jpeg"/>
-
-<hr>
 
 <hr>
 
@@ -1444,7 +1376,7 @@ En esta sección, el equipo establecio el product backlog de acuerdo al peso en 
 ### 3.3. Impact Mapping
 En este sección , el equipo presenta los mapas de impacto realizados
 
-<img src="https://i.imgur.com/mANqhxE.jpeg"/>
+<img src="https://i.postimg.cc/YCdKMQy1/Alejandro-Lopez-1.png"/>
 
 Este impact mapping refleja a un profesional independiente (freelancer) que enfrenta un reto muy típico en servicios profesionales:
 necesita construir una reputación sólida para atraer más clientes.
@@ -1459,25 +1391,8 @@ No está apostando a un solo camino, sino a dos estrategias complementarias:
 
 - Búsqueda activa: No esperar a que lleguen los clientes, sino salir a foros y plataformas donde se buscan proveedores.
 
-<img src="https://i.imgur.com/aanVKfD.jpeg"/>
 
-Este mapa de impacto refleja un escenario empresarial donde las fallas eléctricas afectan operaciones críticas.
-Se percibe un entorno donde el tiempo es dinero:
-
-Cada minuto de inactividad impacta en productividad o ventas.
-
-Eduardo (el actor) tiene responsabilidad operativa, por lo que necesita soluciones rápidas, confiables y eficientes.
-
-No están simplemente contratando cualquier servicio eléctrico, sino profesionalizando el proceso:
-
-Buscan automatizar, agilizar y minimizar riesgos.
-
-Quieren sistemas que ahorren tiempo en cotizaciones y selección de proveedores (ej: wizard, recomendaciones, filtros).
-
-Hay un énfasis en confianza y calidad del servicio, no solo en precio.
-
-
-<img src="https://i.imgur.com/1vPgwDR.jpeg"/>
+<img src="https://i.postimg.cc/DfsL46hP/Olvia-Perez.png"/>
 
 Este nuevo diagrama es otro Impact Mapping, pero ahora enfocado en hogares o usuarios residenciales, no empresas.
 La preocupación aquí no es el tiempo de inactividad, sino el gasto energético y económico.

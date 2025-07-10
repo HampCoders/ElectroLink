@@ -70,7 +70,6 @@ Integrantes como lvonmb11, Rexest01, ItaloSanche, y MatFragg realizaron contribu
 Los commits muestran trabajo en paralelo y complementario.
 
 ![TB1](Assets/TB1_insights.png)
-<img src="https://i.imgur.com/wWs4RX7.jpeg"/>
 <hr>
 
 <hr>
@@ -80,7 +79,7 @@ El repositorio ha tenido 63 clones y 38 usuarios únicos que accedieron al repos
 
 Las vistas alcanzaron 494 visualizaciones, mostrando una alta frecuencia de revisión por parte del equipo y evaluadores.
 
-<img src="https://i.imgur.com/VR2W6Ix.jpeg"/>
+![TB11](Assets/TB1_insights1.png)
 <hr>
 
 <hr>
@@ -89,7 +88,8 @@ Las vistas alcanzaron 494 visualizaciones, mostrando una alta frecuencia de revi
 Se han gestionado 58 pull requests activos relacionados al documento del informe, lo cual evidencia que se trabajó en ramas separadas para cada sección.
 
 No se registraron conflictos ni problemas en el control de versiones, manteniendo un flujo de trabajo limpio.
-<img src="https://i.imgur.com/tFvXuDv.jpeg"/>
+
+![TB11](Assets/TB1_Insights2.png)
 <hr>
 
 <hr>
@@ -662,7 +662,7 @@ En esta sección, el equipo realiza el registro de las entrevistas realizadas
 - **Inicia en:** 0:06  
 - **Duración:** 6:35
   
-<img src="https://i.imgur.com/4DuNuVf.png"/>
+![Entrevista1](Assets/entrevista1_segmento1.png)
 
 ### Resumen de entrevista: 
 
@@ -719,7 +719,8 @@ Está interesado en usar una plataforma como ElectroLink, siempre que garantice 
 - **Link:** [Ver entrevista](https://www.youtube.com/watch?v=_z8UNTi_cmA)  
 - **Inicia en:** 0:01  
 - **Duración:** 9:54
-<img src="https://i.imgur.com/9iDrwLt.png"/>
+  
+![Entrevista3](Assets/entrevista2_segmento1.png)
 
 ### Resumen de entrevista: 
 
@@ -757,7 +758,8 @@ Considera valiosa una plataforma que conecte a empresas como la suya con técnic
 - **Link:** [Ver entrevista](https://www.youtube.com/watch?v=m8Q_n7i_xEk)  
 - **Inicia en:** 0:01  
 - **Duración:** 6:16
-<img src="https://i.imgur.com/SGDI7gr.png"/>
+  
+![Entrevista4](Assets/entrevista3.png)
 
 ### Resumen de entrevista: 
 
@@ -798,8 +800,10 @@ Brian ve como una gran ventaja contar con una plataforma que conecte con proveed
 - **Edad:** 24  
 - **Link:** [Ver entrevista](https://www.youtube.com/watch?v=I_ISRdC6mHI&t=3s)  
 - **Inicia en:** 0:01  
-- **Duración:** 4:51  
-<img src="https://i.imgur.com/htfkjZb.png"/>
+- **Duración:** 4:51
+  
+![Entrevista5](Assets/entrevista4.png)
+
 **Resumen:**
 
 El entrevistado es un técnico electricista certificado que presta servicios eléctricos principalmente a clientes particulares y, en menor medida, empresas. Muestra una actitud profesional, consciente de la importancia de su certificación y la calidad de su trabajo, aunque siente frustración por la dificultad de ser valorado en el mercado frente a competidores informales que cobran menos y no cumplen con normativas.
@@ -861,7 +865,8 @@ No usa dispositivos especializados ni soluciones de automatización.
 - **Link:** [Ver entrevista](https://www.youtube.com/watch?v=K8hkUh16Gew)  
 - **Inicia en:** 0:02  
 - **Duración:** 7:59
-<img src="https://i.imgur.com/85KXK9D.png"/>
+  
+![Entrevista6](Assets/entrevista5.png)
 
 **Resumen:**  
 
@@ -927,23 +932,23 @@ Proveedores como **Juan Lucas** valoran el **reconocimiento profesional**, pero 
 
 ## Análisis de Hallazgos
 
-<img src="https://i.imgur.com/2ZhWXIG.png"/>
+![Grafico1](Assets/grafico1.png)
 
 Los entrevistados resaltan como uno de los principales puntos de fricción la dificultad para identificar proveedores eléctricos realmente confiables. La presencia de técnicos informales sin certificaciones claras genera desconfianza. Este hallazgo valida la necesidad de que ElectroLink destaque las certificaciones legales de los proveedores como un diferenciador clave dentro de la plataforma.
 
-<img src="https://i.imgur.com/hItEKBn.png"/>
+![Grafico2](Assets/grafico2.png)
 
 La posibilidad de llevar un registro digital de los servicios eléctricos realizados (por ejemplo, mantenimientos o reparaciones) es vista como una funcionalidad útil, especialmente para usuarios que hoy lo hacen de forma manual. Esto refuerza la importancia de integrar funciones de gestión documental dentro de ElectroLink, facilitando el seguimiento y la trazabilidad de los trabajos realizados.
 
-<img src="https://i.imgur.com/M41WK4G.png"/>
+![Grafico3](Assets/grafico3.png)
  
 Consultas relacionadas con la recepción de recordatorios permiten identificar una oportunidad para fomentar el mantenimiento eléctrico preventivo. La mayoría de los usuarios no tiene hábitos estructurados en este aspecto. Una funcionalidad de alertas o notificaciones podría ser clave para ayudar a prevenir fallas eléctricas y extender la vida útil de las instalaciones.
 
-<img src="https://i.imgur.com/AeSaVNR.png"/>
+![Grafico4](Assets/grafico4.png)
 
 Tanto en el entorno doméstico como empresarial, los entrevistados valoran la transparencia. Acceder a opiniones reales de otros usuarios es considerado un elemento crucial para decidir a qué proveedor contratar. Por ello, se valida la necesidad de incluir una sección de **comentarios y calificaciones** dentro de la app para fomentar la confianza y facilitar la toma de decisiones.
 
-<img src="https://i.imgur.com/vX729eS.png"/>
+![Grafico5](Assets/grafico5.png)
 
 Explorar si los usuarios estarían dispuestos a pagar por servicios premium (como soporte prioritario o asesoría técnica especializada) permite analizar la viabilidad de modelos de negocio basados en **suscripciones** o **comisiones por servicio**. Algunos entrevistados afirmaron estar dispuestos a pagar si los beneficios ofrecidos son claros y valiosos, lo cual abre la puerta a monetización sostenible para ElectroLink.
 
@@ -1022,15 +1027,15 @@ En esta sección , el equipo presenta los mapas de empatia o Empathy Maps realiz
 
 <hr>
 
-<img src="https://i.imgur.com/koIIfNX.jpeg"/>
+**Alejandro Lopez**
 
-**Olivia Rodriguez**
+![Alejandro Lopez](Assets/segmentoTecnicoAlejandro.png)
 
 <hr>
 
-<img src="https://i.imgur.com/RlO6qIK.jpeg"/>
+**Olivia Rodriguez**
 
-**Alejandro Lopez**
+![Olivia Rodriguez](Assets/segmentoHomeOwnerOlivia.png)
 
 <hr>
 
@@ -1040,7 +1045,7 @@ En esta sección, el equipo presenta los escnerarios as is para sus respectivos 
 
 **Alejandro Lopez**
 
-<img src="https://i.imgur.com/wdXr2ah.png"/>
+![Alejandro Lopez2](Assets/asisalejandro.png)
 
 **Áreas Negativas** 
 
@@ -1085,7 +1090,7 @@ Alejandro enfrenta varios puntos críticos en su proceso: publicidad poco efecti
 
 **Olivia Rodriguez**
 
-<img src="https://i.imgur.com/sTOJ4Wp.png"/>
+![Olivia Rodriguez2](Assets/asisolivia.png)
 
 **Áreas negativas**
 
@@ -1224,11 +1229,11 @@ En este capitulo, el equipo de Hampcoders plantea todos los artecfactos de Requi
 En esta sección , el equipo muestra los artecfactos To--Be Scenario Maps
 Olivia Perez | To-Be Scenario Mapping
 
-<img src="https://i.imgur.com/fxj0F1w.jpeg"/>
+![Olivia Rodriguez3](Assets/tobeolivia.png)
 
 Alejandro Lopez | To-Be Scenario Mapping
 
-<img src="https://i.imgur.com/vfkqiDy.jpeg"/>
+![Alejandro Lopez3](Assets/tobealejandra.png)
 
 
 <hr>
@@ -1544,15 +1549,15 @@ El logo de ElectroLink representa la esencia de la plataforma como un puente mod
 
 *Logo Original*
 
-<img src="https://i.imgur.com/6rBCfjh.png"/>
+![Logo OG](Assets/logooriginal.png)
 
 *Logo sin Letras*
 
-<img src="https://i.imgur.com/yD4YEyL.png"/>
+![Logo NL](Assets/logosinletras.png)
 
 *Colores Invertidos*
 
-<img src="https://i.imgur.com/uMK9ErV.png"/>
+![CI](Assets/coloresinvertidos.png)
 
 **Typography:**
 
@@ -1584,7 +1589,7 @@ De manera que el contenido de nuestro sitio web se vea organizado y sea mostrado
 El objetivo del patrón F en un sitio web es reflejar la forma natural en la que los usuarios escanean el contenido, empezando por la parte superior izquierda y moviéndose en forma de "F" hacia abajo. Este diseño resalta la información clave en las primeras líneas y en el lateral izquierdo, donde la vista se concentra más. 
 Mejora la usabilidad al alinear la estructura con el comportamiento visual del usuario, facilitando la lectura rápida y efectiva. Se utiliza para mejorar la experiencia del usuario y destacar contenido relevante.
 
-<img src="https://i.imgur.com/Y0zFN3L.png"/>
+![PatronF](Assets/usopatronf.png)
 
 ### 4.2. Information Architecture
 
@@ -1595,7 +1600,8 @@ Asimismo, cada proveedor tendrá un perfil verificado con información detallada
 #### 4.2.1. Organization Systems
 
 Para representar la estructura de los usuario se han realizado diagramas para la explicación de la funcionalidades de la aplicación y el recorrido del usuario en la misma.
-<img src="https://i.imgur.com/wdxy51q.png"/>
+
+![IA](Assets/ia.png)
 
 #### 4.2.2. Labeling Systems
 
@@ -1670,7 +1676,7 @@ ElectroLink cuenta con un sistema de búsqueda avanzada que permite a los usuari
 
 Los sistemas de navegación de ElectroLink han sido diseñados para guiar de forma intuitiva a los usuarios a través del Landing Page y la aplicación, facilitando la exploración del contenido y el acceso a las funcionalidades clave. La estructura sigue una lógica clara que permite a cada tipo de usuario (hogar, oficina, proveedor) encontrar rápidamente lo que necesita mediante menús jerárquicos, enlaces destacados y botones de acción visibles.
 
-<img src="https://i.imgur.com/UnlLqHv.png"/>
+![NavigationSystem](Assets/navigationsystems.png)
 
 ### 4.3. Landing Page UI Design
 En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usuario del sitio web de negocio
@@ -1678,27 +1684,35 @@ En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usu
 
 **Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
 <br>
-<img src="https://i.imgur.com/RIIZVSE.png"/>
+![Sección1](Assets/landingpage-seccion1.png)
 <br>
 
 **Sección de "Testimonios" y "Por qué usar Electrolink?" **
 <br>
-<img src="https://i.imgur.com/MdqLiaz.png"/>
+![Sección2](Assets/landingpage-seccion2.png)
 <br>
 
+**Sección de "Sobre Nosotros" **
+<br>
+![Sección3](Assets/landingpage-seccion3.png)
+<br>
+
+**Sección de "Contacto" **
+<br>
+![Sección4](Assets/landingpage-seccion4.png)
+<br>
 
 #### 4.3.2. Landing Page Mock-up
 
 **Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
 <br>
-<img src="https://i.imgur.com/hXEACTz.png"/>
+![LandingMockup1](Assets/landingpagemockup-1.png)
 <br>
 
 **Sección de "Testimonios" y "Por qué usar Electrolink?" **
 <br>
-<img src="https://i.imgur.com/gHvT3uz.png"/>
+![LandingMockup2](Assets/landingpagemockup-2.png)
 <br>
-
 
 ### 4.4. Web Applications UX/UI Design
 En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usuario de la aplicación Front-End
@@ -1747,46 +1761,46 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 Los wireframes son una guía esencial para la implementación efectiva de la plataforma ElectroLink, alineando las necesidades de los usuarios con un diseño funcional, ordenado y accesible para todos.
 
 Vista de Iniciar Sesion
-<img src="https://i.imgur.com/nwjF5Kr.png"/>
+![V1](Assets/iniciarsecion.png)
 <br>
 
 Vista de Crear Cuenta
-<img src="https://i.imgur.com/7GeJ7Ua.png"/>
+![V2](Assets/crearcuenta.png)
 <br>
 
 Vista de la pagina principal
-<img src="https://i.imgur.com/C5Q56pR.png"/>
+![V3](Assets/paginaprincipal.png)
 <br>
 
 Vista de un dashboard principal para los propietarios de hogar
-<img src="https://i.imgur.com/8gOZ6GA.png"/>
+![V4](Assets/dashboard.png)
 <br>
 
 Vista del dashboard principal para los Tecnicos
-<img src="https://i.imgur.com/5JAGI69.png"/>
+![V5](Assets/dashboardtecnicos.png)
 <br>
 
 Vista para editar perfil
-<img src="https://i.imgur.com/s4KR7ll.png"/>
+![V6](Assets/editarperfil.png)
 <br>
 
 Vista la sección de propiedades
-<img src="https://i.imgur.com/i8ba802.png"/>
+![V7](Assets/seccionpropiedades.png)
 <br>
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 En esta sección, el equipo de Hampcoders define los wireflows diagrams para la aplicación Web
 
 Wireflow para el Tecnico
-<img src="https://i.imgur.com/nZSSUMC.png"/>
+![W1](Assets/seccionpropiedades.png)
 
 Wireflow para el Usuario se registre dentro de la plataforma
-<img src="https://i.imgur.com/XQd56bO.png"/>
+![W2](Assets/seccionpropiedades.png)
 
 Wireflow para el usuario busque tecnicos
-<img src="https://i.imgur.com/soOCrA8.png"/>
+![W3](Assets/seccionpropiedades.png)
 
-[Ver diagrama en Lucidchart](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
+[https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
 
 #### 4.4.3. Web Applications Mock-ups
 

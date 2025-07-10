@@ -1937,27 +1937,34 @@ Wireflow para el usuario busque tecnicos
 #### 4.4.3. Web Applications Mock-ups
 
 Vista de Iniciar Sesion
-<img src="https://i.imgur.com/G3TSic5.png"/>
+![MU1](Assets/MOCKUP1.png)
 
 <hr>
 
 Vista de Crear Cuenta
-<img src="https://i.imgur.com/wZoh5ZE.png"/>
+![MU2](Assets/MOCKUP2.png)
 
 <hr>
 
 Vista de la pagina principal
-<img src="https://i.imgur.com/nDd5iLM.png"/>
+![MU3](Assets/MOCKUP3.png)
 
+<hr>
+
+Vista de un dashboard del Tecnico
+![MU4](Assets/MOCKUP5.png)
+<hr>
+
+Vista de un dashboard del Dueño de Hogar
+![MU5](Assets/MOCKUP4.png)
 <hr>
 
 Vista de un dashboard principal para visualizar el perfil de usuario
-<img src="https://i.imgur.com/peSNSOz.png"/>
-
+![MU6](Assets/MOCKUP6.png)
 <hr>
 
 Vista de un dashboard principal para gestionar propiedades
-<img src="https://i.imgur.com/6Ah62mr.png"/>
+![MU7](Assets/MOCKUP7.png)
 
 <hr>
 
@@ -1966,7 +1973,6 @@ Vista de un dashboard principal para gestionar propiedades
 En esta sección se presenta la propuesta de User Flows del sistema ElectroLink, diseñados para representar las rutas de interacción que los usuarios siguen dentro de la plataforma. Cada flujo corresponde a un User Goal específico, basado en los perfiles de User Persona definidos en el alcance del proyecto.
 
 User Flow diagrams para el Usuario se registre dentro de la plataforma
-<img src="https://i.imgur.com/fLb0bCw.png"/>
 
 <hr>
 
@@ -1980,62 +1986,36 @@ User flow para que el Usuario acceda a la sección para buscar Tecnicos y regist
 
 <hr>
 
-[Ver diagrama en Lucidchart](https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3)  
+[https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3](https://lucid.app/lucidchart/b3c387d9-c549-47ed-9031-2a57d09de81d/edit?view_items=AH5fHhdki0z6%2C1N5fesA322AP%2C-J5fOw.O-Rpx%2CSL5fpewO7xdg%2CqN5f9exTX67x%2CoG5f0jAqPIwc%2CMG5fxnk7bkkC%2C7O5f6NsDuFUm%2ChN5fUSXqc-z-%2CVO5fPwNEKRmt%2COO5fvVw-l5A_%2C2O5fZ6zVbKap&invitationId=inv_b529f77f-4538-4351-9514-1d6f0a23a9b3)  
 
 ### 4.5. Web Applications Prototyping
 
 Esta sección presenta los prototipos de interfaz de usuario , los cuales incluyen simulaciones de interacción y navegación. Las decisiones de
 interacción se fundamentan en criterios clave, como la facilidad de uso, la accesibilidad y la optimización para distintos dispositivos.
 
-<img src="https://i.imgur.com/rUlcOAc.png"/>
+![PROTO](Assets/PROTO1.png)
 
-[Ver diagrama en Figma](https://www.figma.com/proto/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-1288&t=i41XCGeFwgsrPY2X-1)
+[https://www.figma.com/proto/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-1288&t=i41XCGeFwgsrPY2X-1](https://www.figma.com/proto/sU4hpNItE2lZ88WrlTUKwy/Untitled?node-id=31-1288&t=i41XCGeFwgsrPY2X-1)
 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagrams
-<img src="https://imgur.com/7vnlJEL.png"/>
+En esta imagen, el equipo define el contexto de Electrolink
+![CONTEXT](Assets/electrolink-context.png)
 
 <hr>
 
 ### 4.6.2. Software Architecture Container Diagrams
-<img src="https://imgur.com/5qhpDhI.png"/>
+En esta imagen, el equipo presenta a los contenedores de la solución entera, delimitando las capas de Front-end, Back-end y Base de datos y a la vez incluye el sitio web de negocio y el Single Page Applicacion
+![CONTAINER](Assets/container.png)
 
 <hr>
 
 ### 4.6.3. Software Architecture Components Diagrams
-Authentication Bounded Context
-<img src="https://imgur.com/vKY4E5a.png"/>
 
-<hr>
+En esta imagen, el equipo presenta los diferentes Bounded Contexts que interactuan en la aplicación Backend.
 
-Profile Management Bounded Context
-<img src="https://imgur.com/ZZK7k9y.png" />
-
-<hr>
-
-Invoice Monitoring Bounded Context
-<img src="https://imgur.com/80VL1gt.png" />
-
-<hr>
-
-Service Management Bounded Context
-<img src="https://imgur.com/vRntRfs.png" />
-
-<hr>
-
-Notifiaction Management Bounded Context
-<img src="https://imgur.com/aapEy8Z.png"/>
-
-<hr>
-
-Service Contracting Bounded Context
-<img src="https://imgur.com/h5Uv4y9.png" />
-
-<hr>
-
-Subscription Billing Bounded Context
-<img src="https://imgur.com/m6I4Mak.png" />
+![COMPONENNT](Assets/components.png)
 
 <hr>
 

@@ -3558,7 +3558,7 @@ Y dentro de este menu dropbox, hacemos click en deploy latest commit
 <br>
 
 Y obtenemos la siguiente vista en la consola de commits
-<img src"">
+<img src="https://i.ibb.co/W83SVcP/image.png">
 <br>
 
 Enlace del api en Swagger

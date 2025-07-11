@@ -1,3 +1,4 @@
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="80px" height="80px" align="center"/>
 
 <h1 align="center">
@@ -37,6 +38,8 @@
 <div align="center"> Abril 2025 </div>
 
 <hr>
+
+<div style="page-break-after: always;"></div>
 
 ## Registro de Versiones del Informe
 
@@ -222,6 +225,7 @@ La gestión del informe ha sido completamente colaborativa. Cada entrega mostró
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+ 
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
@@ -232,8 +236,38 @@ La gestión del informe ha sido completamente colaborativa. Cada entrega mostró
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-<hr>
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+   
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+   
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
+
+<hr>
 
 
 ## Student Outcome 5 – Trabajo en equipo
@@ -1817,14 +1851,14 @@ En esta sección, el equipo de Hampcoders presenta el Diseño de Interfaz de Usu
 
 #### 4.3.2. Landing Page Mock-up
 
-**Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
+#### Sección "Cómo Funcion?" y "Resolvemos Problemas Reales" **
 <hr>
 
 ![LandingMockup1](Assets/landingpagemockup-1.png)
 
 <hr>
 
-**Sección de "Testimonios" y "Por qué usar Electrolink?" **
+#### Sección de "Testimonios" y "Por qué usar Electrolink?" **
 <hr>
 
 ![LandingMockup2](Assets/landingpagemockup-2.png)
@@ -1878,6 +1912,7 @@ El propósito de los wireframes es establecer la **estructura base de la aplicac
 Los wireframes son una guía esencial para la implementación efectiva de la plataforma ElectroLink, alineando las necesidades de los usuarios con un diseño funcional, ordenado y accesible para todos.
 
 Vista de Iniciar Sesion
+
 <hr>
 
 ![V1](Assets/iniciarsecion.png)
@@ -1885,6 +1920,7 @@ Vista de Iniciar Sesion
 <hr>
 
 Vista de Crear Cuenta
+
 <hr>
 
 ![V2](Assets/crearcuenta.png)
@@ -1899,6 +1935,7 @@ Vista de la pagina principal
 <hr>
 
 Vista de un dashboard principal para los propietarios de hogar
+
 <hr>
 
 ![V4](Assets/dashboard.png)
@@ -1906,6 +1943,7 @@ Vista de un dashboard principal para los propietarios de hogar
 <hr>
 
 Vista del dashboard principal para los Tecnicos
+
 <hr>
 
 ![V5](Assets/dashboardtecnicos.png)
@@ -1913,6 +1951,7 @@ Vista del dashboard principal para los Tecnicos
 <hr>
 
 Vista para editar perfil
+
 <hr>
 
 ![V6](Assets/editarperfil.png)
@@ -1920,6 +1959,9 @@ Vista para editar perfil
 <hr>
 
 Vista la sección de propiedades
+
+<hr>
+
 ![V7](Assets/seccionpropiedades.png)
 
 <hr>
@@ -1928,17 +1970,25 @@ Vista la sección de propiedades
 En esta sección, el equipo de Hampcoders define los wireflows diagrams para la aplicación Web
 
 Wireflow para el Tecnico
+<hr>
+
 ![W1](Assets/seccionpropiedades.png)
 
 <hr>
 
 Wireflow para el Usuario se registre dentro de la plataforma
+<hr>
+
 ![W2](Assets/seccionpropiedades.png)
 
 <hr>
 
 Wireflow para el usuario busque tecnicos
+<hr>
+
 ![W3](Assets/seccionpropiedades.png)
+
+<hr>
 
 [https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0](https://lucid.app/lucidchart/9bc93c27-6140-47f1-9cfc-e7c0c5a15134/edit?invitationId=inv_f9a0cb75-977e-4669-a09e-21a42409c64d&page=0_0)
 
@@ -2208,9 +2258,11 @@ En esta imagen, el equipo presenta los diferentes Bounded Contexts que interactu
 
 <hr>
 
-<img src="https://i.imgur.com/2JqyVmj.png"/>
+<img src="https://i.postimg.cc/FRhDBJpq/image-38.png"/>
 
 <hr>
+
+[https://lucid.app/lucidchart/e35ea46a-5876-4397-a02e-78697c3650a4/edit?viewport_loc=-3236%2C-1164%2C6652%2C3092%2C0_0&invitationId=inv_0cb888f0-b2ab-471a-b8fc-eaa28402d6ae](https://lucid.app/lucidchart/e35ea46a-5876-4397-a02e-78697c3650a4/edit?viewport_loc=-3236%2C-1164%2C6652%2C3092%2C0_0&invitationId=inv_0cb888f0-b2ab-471a-b8fc-eaa28402d6ae)  
 
 ## 5.1. Software Configuration Management
 
@@ -2946,6 +2998,7 @@ Continúa la documentación Swagger enfocada en Reports y ServiceOperations. En 
 <hr>
 
 #### Imagen 3 – Swagger Requests, Schedules y Services
+
 Se observa el conjunto de endpoints para los módulos Requests, Schedules y Services, que permite manipular solicitudes de servicios, programaciones de técnicos y el catálogo de servicios registrados.
 
 <img  src="https://i.postimg.cc/QMm3mCH3/Captura-de-pantalla-2025-07-10-165355.png"/>
@@ -2958,30 +3011,36 @@ Ilustra la API para la gestión de perfiles (Profiles), autenticación (Authenti
 <img  src="https://i.postimg.cc/mrLxP4V6/Captura-de-pantalla-2025-07-10-165523.png"/>
 
 <hr>
+
 #### Imagen 5– Swagger Components y ComponentTypes
+
 Incluye los endpoints relacionados a los componentes técnicos (Components) y sus tipos (ComponentTypes), fundamentales para la gestión de inventarios. Permite operaciones CRUD completas sobre ambos recursos.
 
 <img  src="https://i.postimg.cc/mZvgtc9X/Captura-de-pantalla-2025-07-10-165619.png"/>
 
 <hr>
+
 #### Imagen 6 –  Swagger Properties, TechnicianInventories y Plan
+
 Finalmente, se presenta la documentación de Properties (propiedades de los clientes), TechnicianInventories (inventario técnico) y Plan (planes de suscripción), evidenciando la integración de múltiples bounded contexts del sistema.
+
 <img  src="https://i.postimg.cc/yNkMmj4F/Captura-de-pantalla-2025-07-10-165719.png"/>
 
 <hr>
+
 #### Imagen 7 – Swagger Subscriptions
+
 <img  src="https://i.postimg.cc/XvC2Nz6D/Captura-de-pantalla-2025-07-10-165939.png"/>
 
 
 #Se realizó el despliegue del BackEnd en Render
 
-<img  src="https://i.imgur.com/pVphFsz.png"/>
+<img  src="https://i.postimg.cc/T3RqVWdH/423423.png"/>
 
 [Despliegue en Rendert](https://electrolink-backend.onrender.com/)
 
 <hr>
 
-<hr>
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
@@ -3125,12 +3184,12 @@ Finalmente, se presenta la documentación de Properties (propiedades de los clie
 <hr>
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
-<img  src="https://i.imgur.com/KMMWYFI.png"/>
-<img  src="https://i.imgur.com/yV2TrS9.png"/>
-<img  src="https://i.imgur.com/Rawm4sz.png"/>
-<img  src="https://i.imgur.com/p7CTMeD.png"/>
-<img  src="https://i.imgur.com/pjB7ptM.png"/>
-<img  src="https://i.imgur.com/27MSHgu.png"/>
+<img  src="https://i.postimg.cc/FsvjvJLs/42344.png"/>
+<img  src="https://i.postimg.cc/3xSp2Sbd/3453453.png"/>
+<img  src="https://i.postimg.cc/gjHLjNZc/5345345.png"/>
+<img  src="https://i.postimg.cc/qvR6BcM0/234234242.png"/>
+<img  src="https://i.postimg.cc/50cXmZ5N/6456464.png"/>
+<img  src="https://i.postimg.cc/FRQKS0mY/354534.png"/>
 
 <hr>
 
@@ -3150,7 +3209,7 @@ Esto demuestra una colaboración distribuida en el tiempo, con concentración en
 
 **Resumen visual de las contribuciones del equipo:**
 
-<img  src="https://i.imgur.com/JfJ7B61.png"/>
+<img  src="https://i.postimg.cc/fWCb33Pb/5345345.png"/>
 
 ---
 
@@ -3167,7 +3226,7 @@ Los Pull Requests destacados fueron:
 
 **Panel resumen del rendimiento colaborativo:**
 
-<img  src="https://i.imgur.com/H4SLsdv.png"/>
+<img  src="https://i.postimg.cc/3x4rbtxy/77567575.png"/>
 
 <hr>
 
@@ -3359,11 +3418,14 @@ Incluye los endpoints relacionados a los componentes técnicos (Components) y su
 
 <hr>
 #### Imagen 6 –  Swagger Properties, TechnicianInventories y Plan
+
 Finalmente, se presenta la documentación de Properties (propiedades de los clientes), TechnicianInventories (inventario técnico) y Plan (planes de suscripción), evidenciando la integración de múltiples bounded contexts del sistema.
+
 <img  src="https://i.postimg.cc/yNkMmj4F/Captura-de-pantalla-2025-07-10-165719.png"/>
 
 <hr>
 #### Imagen 7 – Swagger Subscriptions
+
 <img  src="https://i.postimg.cc/XvC2Nz6D/Captura-de-pantalla-2025-07-10-165939.png"/>
 
 --
@@ -3837,7 +3899,7 @@ Evaluación Heurística de ElectroLink
 [Ver video del producto](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=poBWky&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Video en YouTube (incrustado en el Landing Page):**  
-[https://www.youtube.com/watch?v=vajqovVXk3o](https://www.youtube.com/watch?v=vajqovVXk3o)
+[https://www.youtube.com/watch?v=Jgh28eiyuOY](https://www.youtube.com/watch?v=Jgh28eiyuOY)
 
 **Duración del video:** 2 minutos y 35 segundos
 
@@ -3884,16 +3946,50 @@ ElectroLink finaliza su desarrollo como una solución madura que conecta de form
 
 
 ### Bibliografía
+
+
 - Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A. (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales*. *Universia Business Review*, (35), 114-123. [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)
 
 - Mohammad-Al-dweeri, R. (2011). *La calidad en los servicios electrónicos como estrategia competitiva: Modelo de análisis de sus componentes y efectos sobre la satisfacción y la lealtad*. [https://libros.metabiblioteca.org/handle/001/291](https://libros.metabiblioteca.org/handle/001/291)
-  
+
 - Ramos, Á. F. V., & Sánchez-Franco, M. J. (2004). *La calidad de servicio electrónico: un análisis de los efectos moderadores del comportamiento de uso de la web*. *Cuadernos de Economía y Dirección de la Empresa*, (21), 121-125. [https://dialnet.unirioja.es/descarga/articulo/1143462.pdf](https://dialnet.unirioja.es/descarga/articulo/1143462.pdf)
+
+- Proud, N. (2024). *Minimal APIs in ASP.NET 9: Design, implement, and optimize robust APIs in C# with .NET 9*. Packt Publishing Ltd. [https://www.packtpub.com/product/minimal-apis-in-asp-net-9/](https://www.packtpub.com/product/minimal-apis-in-asp-net-9/)
+
+- Liberty, J., & Dluzen, J. (2024b). *Programming APIs with C# and .NET: Develop high-performance APIs that ensure seamless application communication and enhanced security*. Packt Publishing Ltd. [https://www.packtpub.com/product/programming-apis-with-c-and-dot-net/](https://www.packtpub.com/product/programming-apis-with-c-and-dot-net/)
+
+- Lock, A. (2023). *ASP.NET Core in Action* (3rd ed.). Simon and Schuster. [https://www.manning.com/books/asp-net-core-in-action-third-edition](https://www.manning.com/books/asp-net-core-in-action-third-edition)
+
+- Shavin, M., & Camden, R. (2023b). *Frontend Development Projects with Vue.js 3: Learn the fundamentals of building scalable web applications and dynamic user interfaces with Vue.js*. Packt Publishing Ltd. [https://www.packtpub.com/product/frontend-development-projects-with-vue-js-3/](https://www.packtpub.com/product/frontend-development-projects-with-vue-js-3/)
+
+- Cuomo, S. (2024). *Vue.js 3 for Beginners: Learn the essentials of Vue.js 3 and its ecosystem to build modern web applications*. Packt Publishing Ltd. [https://www.packtpub.com/product/vue-js-3-for-beginners/](https://www.packtpub.com/product/vue-js-3-for-beginners/)
+
+- Price, M. J. (2020). *C# 9 and .NET 5 – Modern Cross-Platform Development* (5th ed.). Packt Publishing. [https://www.packtpub.com/product/c-9-and-net-5-modern-cross-platform-development-fifth-edition/](https://www.packtpub.com/product/c-9-and-net-5-modern-cross-platform-development-fifth-edition/)
+
+
+- Labrecque, J., Love, J., Rosenbaum, D., Turner, N., Mehla, G., Hosford, A. L., Sloot, F., & Kirkbride, P. (2019). *The JavaScript Workshop* (1st ed.). Packt Publishing. [https://www.packtpub.com/product/the-javascript-workshop/](https://www.packtpub.com/product/the-javascript-workshop/)
+
+- Ribeiro, H. (2020). *Vue.js 3 Cookbook* (1st ed.). Packt Publishing. [https://www.packtpub.com/product/vue-js-3-cookbook/](https://www.packtpub.com/product/vue-js-3-cookbook/)
+
+
 <hr>
-<hr>
+
 
 ### Anexos
 - Enlace de Landing Page : 
 [https://hampcoders.github.io/Landing-Page//](https://hampcoders.github.io/Landing-Page/)
 [https://landing-page-3d9d4.web.app/]
+
+-Despliegue de la aplicacion :  
+[https://electrolink-frontend-vue.web.app/sign-in](https://electrolink-frontend-vue.web.app/sign-in)
+
+- Videos About the Product 
+  [https://www.youtube.com/watch?v=Jgh28eiyuOY](https://www.youtube.com/watch?v=Jgh28eiyuOY)
+  
+- Videos About the Product -  Microsoft Stream  [Ver video del producto](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318323_upc_edu_pe/EaX2Zgimos9BtP8A_A6NVnAB6Q4or5MhvSJrmp8EnSKkEg?e=poBWky&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- Video About the Team
+  [https://www.youtube.com/watch?v=WYFS6myXwj4&feature=youtu.be](https://www.youtube.com/watch?v=WYFS6myXwj4&feature=youtu.be)
+<hr>
+
 <hr>

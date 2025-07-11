@@ -1,4 +1,4 @@
-<p align="center">
+<img width="336" height="292" alt="image" src="https://github.com/user-attachments/assets/4ac3e15e-6145-43a1-9a2a-53dde314ff3a" /><p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="upc-logo" width="80px" height="80px"/>
 </p>
 
@@ -3216,99 +3216,98 @@ En esta sección, se presenta el sprint backlog 4
 |----------|----------|---|---|---|---|---|---|
 | **User Story** | | **Work-Item/task** | | | | | |
 | **ID** | **Title** | **Id** | **Title** | **Description** | **Estimation(Hrs)** | **Assigned To** | **Status** |
-| **US-13** | Registro de cuentas como Dueño de Hogar | T001 | Backend: API de registro para Dueño de Hogar | Crear endpoint POST /register/home-owner con validaciones de datos. | 5 | | |
-| | | T002 | Frontend: Formulario de registro | Desarrollar el componente React para el formulario de registro de Dueño de Hogar. | 5 | | |
-| **US-14** | Registro de cuentas como Dueño de Empresa | T001 | Backend: API de registro para Dueño de Empresa | Crear endpoint POST /register/business-owner con campos específicos para empresas. | 5 | | |
-| | | T002 | Frontend: Formulario de registro de Empresa | Desarrollar el componente React para el formulario de registro de Dueño de Empresa. | 5 | | |
-| **US-15** | Registro de cuentas para Técnicos | T001 | Backend: API de registro para Técnicos | Crear endpoint POST /register/technician con validaciones para perfil de técnico. | 5 | | |
-| | | T002 | Frontend: Formulario de registro de Técnico | Desarrollar el componente React para el formulario de registro de Técnico. | 5 | | |
-| **US-16** | Verificación de cuenta por correo | T001 | Backend: Lógica de envío de correo de verificación | Implementar servicio para generar un token único y enviarlo por correo tras el registro. | 5 | | |
-| | | T002 | Backend: Endpoint de confirmación | Crear endpoint GET /verify-email/:token que valide el token y active la cuenta del usuario. | 5 | | |
-| **US-17** | Inicio de sesión de usuarios | T001 | Backend: API de autenticación (Login) | Crear endpoint POST /login que valide credenciales y retorne un JWT. | 5 | | |
-| | | T002 | Frontend: Lógica de inicio de sesión | Implementar formulario de login, llamada a la API y almacenamiento seguro del token. | 5 | | |
-| **US-18** | Validación de datos de registro | T001 | Backend: Validación de datos en APIs | Reforzar validaciones en todos los endpoints de registro (formato, unicidad de email). | 3 | | |
-| | | T002 | Frontend: Validación en tiempo real | Implementar validaciones en los formularios de registro para dar feedback inmediato al usuario. | 3 | | |
-| **US-21** | Recuperación de Contraseña | T001 | Backend: Flujo de recuperación | Crear endpoints para solicitar un enlace de reseteo y para actualizar la contraseña con un token válido. | 5 | | |
-| | | T002 | Frontend: Interfaz de recuperación | Desarrollar las vistas para solicitar el reseteo y para ingresar la nueva contraseña. | 5 | | |
-| **US-22** | Cierre de Sesión | T001 | Backend: Lógica de Cierre de Sesión | Implementar endpoint para invalidar el token si se usa una lista de revocación (opcional). | 2 | | |
-| | | T002 | Frontend: Funcionalidad de Logout | Implementar botón de cierre de sesión que elimine el token del almacenamiento local y redirija al login. | 2 | | |
-| **US-23** | Visualización de Perfil de Propietario | T001 | Backend: API para obtener perfil de propietario | Crear endpoint GET /profile/owner para devolver la información del usuario autenticado. | 3 | | |
-| | | T002 | Frontend: Componente de visualización | Desarrollar una vista que muestre la información del perfil del propietario. | 3 | | |
-| **US-24** | Edición de Perfil de Propietario | T001 | Backend: API para actualizar perfil de propietario | Crear endpoint PUT /profile/owner para modificar los datos del usuario. | 5 | | |
-| | | T002 | Frontend: Formulario de edición de perfil | Desarrollar un formulario pre-poblado para que el propietario edite su información. | 5 | | |
-| **US-25** | Visualización de Perfil de Técnico | T001 | Backend: API para obtener perfil de técnico | Crear endpoint GET /profile/technician para devolver el perfil profesional del técnico. | 4 | | |
-| | | T002 | Frontend: Vista de perfil público de técnico | Desarrollar la vista que muestra el perfil del técnico, incluyendo portafolio y calificaciones. | 6 | | |
-| **US-26** | Edición de Perfil de Técnico | T001 | Backend: API para actualizar perfil de técnico | Crear endpoint PUT /profile/technician para modificar datos, certificaciones y especialidades. | 8 | | |
-| | | T002 | Frontend: Formulario de edición de perfil técnico | Desarrollar una interfaz completa para que el técnico gestione toda su información profesional. | 8 | | |
-| **US-27** | Dashboard Personalizado | T001 | Backend: API de datos para Dashboard | Crear un endpoint que agregue y devuelva los datos relevantes para el dashboard según el rol del usuario. | 5 | | |
-| | | T002 | Frontend: Componente de Dashboard | Desarrollar el componente principal del dashboard que visualice la información de la API. | 5 | | |
-| **US-28** | Crear Portafolio Digital | T001 | Backend: API CRUD para Portafolio | Crear endpoints para que el técnico pueda agregar, editar y eliminar trabajos de su portafolio. | 5 | | |
-| | | T002 | Frontend: Interfaz de gestión de portafolio | Desarrollar la interfaz que permita al técnico subir imágenes y descripciones de sus trabajos. | 5 | | |
-| **US-30** | Configuración de Notificaciones | T001 | Backend: API para preferencias de notificación | Crear endpoint PUT /settings/notifications para guardar las preferencias del usuario. | 3 | | |
-| | | T002 | Frontend: Formulario de configuración | Desarrollar la interfaz para que el usuario pueda activar/desactivar notificaciones. | 3 | | |
-| **US-63** | Historial de Clientes Atendidos | T001 | Backend: API de historial de clientes | Crear endpoint GET /technician/clients para listar los clientes atendidos por el técnico. | 3 | | |
-| | | T002 | Frontend: Vista de historial de clientes | Desarrollar la interfaz que muestre la lista de clientes atendidos. | 3 | | |
-| **US-67** | Visualización de Historial de Consumo | T001 | Backend: API de historial de consumo | Crear endpoint GET /consumption/history para devolver los datos de consumo del propietario. | 5 | | |
-| | | T002 | Frontend: Gráficos de consumo | Desarrollar componentes de gráficos (ej. Chart.js) para visualizar el historial de consumo. | 5 | | |
-| **US-68** | Exportación de Datos de Consumo | T001 | Backend: Lógica de exportación a CSV | Implementar la funcionalidad para convertir los datos de consumo a formato CSV. | 4 | | |
-| | | T002 | Frontend: Botón de exportación | Implementar la funcionalidad en el frontend para solicitar y descargar el archivo CSV. | 2 | | |
-| **US-69** | Repositorio de Facturas | T001 | Backend: API para gestión de facturas | Crear endpoints para subir y listar archivos de facturas (PDF/Imagen). | 5 | | |
-| | | T002 | Frontend: Interfaz del repositorio | Desarrollar la interfaz para que el usuario suba y visualice sus facturas. | 5 | | |
-| **US-70** | Verificación de Facturas | T001 | Backend: Lógica de verificación de cálculo | Implementar un servicio que, dados los datos de una factura, verifique el cálculo contra las tarifas conocidas. | 6 | | |
-| | | T002 | Frontend: Interfaz de verificación | Crear un formulario para ingresar datos de la factura y mostrar el resultado de la verificación. | 4 | | |
-| **US-71** | Configuración de Alertas de Consumo | T001 | Backend: API para gestión de alertas | Crear endpoints para que los usuarios puedan establecer y modificar umbrales de consumo. | 5 | | |
-| | | T002 | Frontend: Interfaz de configuración de alertas | Desarrollar el formulario para que el usuario defina sus umbrales de alerta. | 5 | | |
-| **US-72** | Sistema de Recomendaciones Personalizadas | T001 | Backend: Motor de recomendaciones | Desarrollar un algoritmo básico que analice el historial de servicios para sugerir otros nuevos. | 10 | | |
-| | | T002 | Frontend: Componente de recomendaciones | Mostrar las recomendaciones generadas por el backend en el dashboard del usuario. | 6 | | |
-| **US-73** | Visualización de Calificaciones Recibidas | T001 | Backend: API para obtener calificaciones | Crear endpoint GET /technician/ratings para devolver las calificaciones y reseñas recibidas. | 4 | | |
-| | | T002 | Frontend: Dashboard de calificaciones | Desarrollar una vista para el técnico donde pueda ver su rating promedio y leer las reseñas. | 6 | | |
-| **US-74** | Análisis de Demanda por Zona | T001 | Backend: API de análisis de demanda | Crear endpoint que procese y agregue datos históricos de servicios por zona geográfica. | 6 | | |
-| | | T002 | Frontend: Visualización de mapa de calor | Implementar un mapa (ej. Google Maps) que muestre la demanda de servicios por zona. | 4 | | |
-| **TS-17** | Endpoint de Autenticación JWT | T001 | Implementar endpoint de login | Desarrollar la lógica del endpoint POST /login que genera y firma un token JWT. | 5 | | |
-| | | T002 | Crear middleware de validación de token | Desarrollar un middleware para proteger rutas que verifique la validez del token JWT. | 5 | | |
-| **TS-18** | Endpoint de Registro de Usuarios | T001 | Endpoint de registro de Propietario | Implementar endpoint POST /register/owner con la lógica de negocio correspondiente. | 5 | | |
-| | | T002 | Endpoint de registro de Técnico | Implementar endpoint POST /register/technician con la lógica de negocio correspondiente. | 5 | | |
-| **TS-19** | Verificación de Email | T001 | Endpoint para generar y enviar token | Implementar la lógica para crear un token de verificación y enviarlo por correo electrónico. | 3 | | |
-| | | T002 | Endpoint para validar token | Crear el endpoint que recibe el token desde el enlace del correo y activa la cuenta. | 3 | | |
-| **TS-20** | Middleware de Autorización | T001 | Implementar middleware de roles | Crear un middleware que extraiga el rol del usuario desde el token JWT. | 5 | | |
-| | | T002 | Aplicar middleware a rutas protegidas | Integrar el middleware de autorización en los endpoints que requieren roles específicos (ej. técnico). | 5 | | |
-| **TS-21** | Recuperación de Contraseña | T001 | Endpoint de solicitud de reseteo | Crear endpoint que reciba un email, genere un token de reseteo y lo envíe por correo. | 3 | | |
-| | | T002 | Endpoint de confirmación de nueva contraseña | Crear endpoint que valide el token y actualice la contraseña en la base de datos. | 3 | | |
-| **TS-22** | Endpoints de Gestión de Perfiles | T001 | Endpoints GET y PUT para perfiles | Implementar los endpoints para leer y actualizar la información de los perfiles de usuario. | 4 | | |
-| | | T002 | Endpoint DELETE para perfiles | Implementar el endpoint para la eliminación de cuentas de usuario, incluyendo limpieza de datos asociados. | 4 | | |
-| **TS-23** | Sistema de Notificaciones Básico | T001 | Integración de servicio de email | Configurar un servicio como SendGrid o Nodemailer dentro de la aplicación. | 4 | | |
-| | | T002 | Creación de servicio de notificación | Crear una clase o función de servicio para abstraer el envío de correos electrónicos. | 4 | | |
-| **TS-24** | Endpoints de Datos de Consumo | T001 | Endpoints CRUD para datos de consumo | Implementar los endpoints POST, GET, PUT y DELETE para gestionar los registros de consumo del propietario. | 8 | | |
-| | | T002 | Lógica de validación de datos de consumo | Asegurar que los datos de consumo enviados al backend sean válidos y consistentes. | 8 | | |
-| **TS-25** | Exportación de Datos | T001 | Lógica de conversión a CSV | Implementar un servicio que tome datos en formato JSON y los convierta a una cadena en formato CSV. | 4 | | |
-| | | T002 | Implementar endpoint de exportación | Crear el endpoint GET /consumption/export que utilice el servicio de conversión y devuelva el archivo. | 2 | | |
-| **TS-26** | Dashboard de Métricas para Técnicos | T001 | Lógica de agregación de métricas | Desarrollar consultas a la base de datos para calcular estadísticas (servicios completados, ingresos). | 5 | | |
-| | | T002 | Implementar endpoint de métricas | Crear el endpoint GET /technicians/metrics para exponer las estadísticas calculadas. | 3 | | |
-| **TS-27** | Verificador de Facturas Básico | T001 | Lógica de cálculo de tarifas | Implementar la lógica para calcular el costo esperado basado en el consumo y las tarifas vigentes. | 6 | | |
-| | | T002 | Endpoint de verificación de facturas | Crear el endpoint POST /invoices/verify que reciba los datos y devuelva el resultado de la validación. | 4 | | |
-| **TS-28** | Sistema de Alertas de Consumo | T001 | Endpoints CRUD para umbrales de alerta | Implementar los endpoints que permitan al usuario crear, leer y actualizar sus umbrales de alerta. | 6 | | |
-| | | T002 | Job programado para verificar alertas | Crear un cron job que se ejecute periódicamente para comprobar si algún usuario ha superado su umbral. | 8 | | |
-| **TS-29** | Análisis de Demanda por Zona | T001 | Consulta optimizada de agregación | Diseñar e implementar una consulta eficiente para agregar el número de servicios por zona geográfica. | 6 | | |
-| | | T002 | Implementar endpoint de análisis de demanda | Crear el endpoint GET /analytics/demand-by-zone que devuelva los datos agregados. | 4 | | |
-| **TS-30** | Sistema de Recomendaciones Básico | T001 | Implementar algoritmo de recomendación | Desarrollar la lógica para analizar el historial de un usuario y generar una lista de servicios recomendados. | 8 | | |
-| | | T002 | Implementar endpoint de recomendaciones | Crear el endpoint GET /users/recommendations que devuelva la lista de servicios sugeridos. | 6 | | |
-| **US-57** | Beneficio de Solicitud Prioritaria | T001 | Backend: Lógica de priorización de solicitudes | Implementar la lógica en el sistema para que las solicitudes marcadas como prioritarias (de usuarios Premium) se procesen primero. | 5 | | |
-| | | T002 | Frontend: Opción de solicitud prioritaria | Mostrar y habilitar la opción para marcar una solicitud como prioritaria en la interfaz del propietario con plan Premium. | 5 | | |
-| **US-58** | Notificación de Límite de Solicitudes Alcanzado | T001 | Backend: Lógica de conteo y límite de solicitudes | Implementar un contador mensual de solicitudes por usuario y la lógica para restringir la creación de nuevas solicitudes al alcanzar el límite del plan Básico. | 5 | | |
-| | | T002 | Frontend: Notificación y opción de mejora | Mostrar una notificación clara al usuario cuando alcance su límite de solicitudes y presentar una opción para actualizar a Premium. | 5 | | |
-| **US-75** | Recibir Confirmación de Suscripción | T001 | Backend: Integración con Webhooks de Stripe | Configurar un endpoint para recibir y procesar webhooks de Stripe para confirmaciones de pago exitosas. | 5 | | |
-| | | T002 | Frontend: Página de confirmación de suscripción | Crear una página que confirme al usuario que su suscripción se ha activado correctamente. | 5 | | |
-| **US-76** | Gestionar Suscripción Activa | T001 | Backend: Integración con el Portal de Cliente de Stripe | Crear un endpoint que genere una sesión segura para que el usuario pueda gestionar su suscripción en el portal de Stripe. | 8 | | |
-| | | T002 | Frontend: Acceso al portal de gestión | Implementar un botón o enlace en el perfil del usuario para que pueda acceder al portal de cliente y gestionar su plan. | 8 | | |
-| **US-77** | Suscribirse al Plan Premium de Propietario | T001 | Backend: API para crear suscripción de Propietario | Integrar el SDK de Stripe para crear una nueva suscripción para un propietario. | 5 | | |
-| | | T002 | Frontend: Flujo de pago para Propietario | Desarrollar la interfaz de pago para que un propietario pueda seleccionar el plan Premium e ingresar sus datos de pago. | 5 | | |
-| **US-78** | Suscribirse al Plan Premium de Técnico | T001 | Backend: API para crear suscripción de Técnico | Integrar el SDK de Stripe para crear una nueva suscripción para un técnico, con los beneficios correspondientes. | 8 | | |
-| | | T002 | Frontend: Flujo de pago para Técnico | Desarrollar la interfaz de pago para que un técnico pueda suscribirse al plan Premium. | 8 | | |
-| **US-79** | Cancelar mi suscripción | T001 | Backend: API para cancelar suscripción | Implementar un endpoint que permita cancelar una suscripción activa a través de la API de Stripe. | 3 | | |
-| | | T002 | Frontend: Interfaz de cancelación | Desarrollar la interfaz en el portal de cliente que permita al usuario cancelar su suscripción. | 3 | | |
-| **US-80** | Manejo de Fallos en la Renovación | T001 | Backend: Lógica para manejar webhooks de fallo de pago | Configurar el endpoint de webhooks para procesar eventos de fallo en la renovación de la suscripción y notificar al usuario. | 5 | | |
-| | | T002 | Frontend: Notificación de fallo de pago | Mostrar una notificación en la interfaz del usuario informándole que ha ocurrido un problema con su pago y que debe actualizarlo. | 5 | | |
-
+| **US-13** | Registro de cuentas como Dueño de Hogar | T001 | Backend: API de registro para Dueño de Hogar | Crear endpoint POST /register/home-owner con validaciones de datos. | 5 | Ivo Machado | Done |
+| | | T002 | Frontend: Formulario de registro | Desarrollar el componente React para el formulario de registro de Dueño de Hogar. | 5 | Ethan Matias Aliaga | Done |
+| **US-14** | Registro de cuentas como Dueño de Empresa | T001 | Backend: API de registro para Dueño de Empresa | Crear endpoint POST /register/business-owner con campos específicos para empresas. | 5 | Ivo Machado | Done |
+| | | T002 | Frontend: Formulario de registro de Empresa | Desarrollar el componente React para el formulario de registro de Dueño de Empresa. | 5 | Ethan Matias Aliaga | Done |
+| **US-15** | Registro de cuentas para Técnicos | T001 | Backend: API de registro para Técnicos | Crear endpoint POST /register/technician con validaciones para perfil de técnico. | 5 | Ivo Machado | Done |
+| | | T002 | Frontend: Formulario de registro de Técnico | Desarrollar el componente React para el formulario de registro de Técnico. | 5 | Ethan Matias Aliaga | Done |
+| **US-16** | Verificación de cuenta por correo | T001 | Backend: Lógica de envío de correo de verificación | Implementar servicio para generar un token único y enviarlo por correo tras el registro. | 5 | Italo Ludwing Sanchez | Done |
+| | | T002 | Backend: Endpoint de confirmación | Crear endpoint GET /verify-email/:token que valide el token y active la cuenta del usuario. | 5 | Italo Ludwing Sanchez | Done |
+| **US-17** | Inicio de sesión de usuarios | T001 | Backend: API de autenticación (Login) | Crear endpoint POST /login que valide credenciales y retorne un JWT. | 5 | Ivo Machado | Done |
+| | | T002 | Frontend: Lógica de inicio de sesión | Implementar formulario de login, llamada a la API y almacenamiento seguro del token. | 5 | Ethan Matias Aliaga | Done |
+| **US-18** | Validación de datos de registro | T001 | Backend: Validación de datos en APIs | Reforzar validaciones en todos los endpoints de registro (formato, unicidad de email). | 3 | Ivo Machado | Done |
+| | | T002 | Frontend: Validación en tiempo real | Implementar validaciones en los formularios de registro para dar feedback inmediato al usuario. | 3 | Ethan Matias Aliaga | Done |
+| **US-21** | Recuperación de Contraseña | T001 | Backend: Flujo de recuperación | Crear endpoints para solicitar un enlace de reseteo y para actualizar la contraseña con un token válido. | 5 | Italo Ludwing Sanchez | Done |
+| | | T002 | Frontend: Interfaz de recuperación | Desarrollar las vistas para solicitar el reseteo y para ingresar la nueva contraseña. | 5 | Ethan Matias Aliaga | Done |
+| **US-22** | Cierre de Sesión | T001 | Backend: Lógica de Cierre de Sesión | Implementar endpoint para invalidar el token si se usa una lista de revocación (opcional). | 2 | Ivo Machado | Done |
+| | | T002 | Frontend: Funcionalidad de Logout | Implementar botón de cierre de sesión que elimine el token del almacenamiento local y redirija al login. | 2 | Ethan Matias Aliaga | Done |
+| **US-23** | Visualización de Perfil de Propietario | T001 | Backend: API para obtener perfil de propietario | Crear endpoint GET /profile/owner para devolver la información del usuario autenticado. | 3 | Ivo Machado | Done |
+| | | T002 | Frontend: Componente de visualización | Desarrollar una vista que muestre la información del perfil del propietario. | 3 | Ethan Matias Aliaga | Done |
+| **US-24** | Edición de Perfil de Propietario | T001 | Backend: API para actualizar perfil de propietario | Crear endpoint PUT /profile/owner para modificar los datos del usuario. | 5 | Ivo Machado | Done |
+| | | T002 | Frontend: Formulario de edición de perfil | Desarrollar un formulario pre-poblado para que el propietario edite su información. | 5 | Ethan Matias Aliaga | Done |
+| **US-25** | Visualización de Perfil de Técnico | T001 | Backend: API para obtener perfil de técnico | Crear endpoint GET /profile/technician para devolver el perfil profesional del técnico. | 4 | Ivo Machado | Done |
+| | | T002 | Frontend: Vista de perfil público de técnico | Desarrollar la vista que muestra el perfil del técnico, incluyendo portafolio y calificaciones. | 6 | Ethan Matias Aliaga | Done |
+| **US-26** | Edición de Perfil de Técnico | T001 | Backend: API para actualizar perfil de técnico | Crear endpoint PUT /profile/technician para modificar datos, certificaciones y especialidades. | 8 | Ivo Machado | Done |
+| | | T002 | Frontend: Formulario de edición de perfil técnico | Desarrollar una interfaz completa para que el técnico gestione toda su información profesional. | 8 | Ethan Matias Aliaga | Done |
+| **US-27** | Dashboard Personalizado | T001 | Backend: API de datos para Dashboard | Crear un endpoint que agregue y devuelva los datos relevantes para el dashboard según el rol del usuario. | 5 | Eric Olivera | Done |
+| | | T002 | Frontend: Componente de Dashboard | Desarrollar el componente principal del dashboard que visualice la información de la API. | 5 | Ethan Matias Aliaga | Done |
+| **US-28** | Crear Portafolio Digital | T001 | Backend: API CRUD para Portafolio | Crear endpoints para que el técnico pueda agregar, editar y eliminar trabajos de su portafolio. | 5 | Ivo Machado | Done |
+| | | T002 | Frontend: Interfaz de gestión de portafolio | Desarrollar la interfaz que permita al técnico subir imágenes y descripciones de sus trabajos. | 5 | Ethan Matias Aliaga | Done |
+| **US-30** | Configuración de Notificaciones | T001 | Backend: API para preferencias de notificación | Crear endpoint PUT /settings/notifications para guardar las preferencias del usuario. | 3 | Italo Ludwing Sanchez | Done |
+| | | T002 | Frontend: Formulario de configuración | Desarrollar la interfaz para que el usuario pueda activar/desactivar notificaciones. | 3 | Ethan Matias Aliaga | Done |
+| **US-63** | Historial de Clientes Atendidos | T001 | Backend: API de historial de clientes | Crear endpoint GET /technician/clients para listar los clientes atendidos por el técnico. | 3 | Eric Olivera | Done |
+| | | T002 | Frontend: Vista de historial de clientes | Desarrollar la interfaz que muestre la lista de clientes atendidos. | 3 | Ethan Matias Aliaga | Done |
+| **US-67** | Visualización de Historial de Consumo | T001 | Backend: API de historial de consumo | Crear endpoint GET /consumption/history para devolver los datos de consumo del propietario. | 5 | Eric Olivera | Done |
+| | | T002 | Frontend: Gráficos de consumo | Desarrollar componentes de gráficos (ej. Chart.js) para visualizar el historial de consumo. | 5 | Ethan Matias Aliaga | Done |
+| **US-68** | Exportación de Datos de Consumo | T001 | Backend: Lógica de exportación a CSV | Implementar la funcionalidad para convertir los datos de consumo a formato CSV. | 4 | Eric Olivera | Done |
+| | | T002 | Frontend: Botón de exportación | Implementar la funcionalidad en el frontend para solicitar y descargar el archivo CSV. | 2 | Ethan Matias Aliaga | Done |
+| **US-69** | Repositorio de Facturas | T001 | Backend: API para gestión de facturas | Crear endpoints para subir y listar archivos de facturas (PDF/Imagen). | 5 | Ivo Machado | Done |
+| | | T002 | Frontend: Interfaz del repositorio | Desarrollar la interfaz para que el usuario suba y visualice sus facturas. | 5 | Ethan Matias Aliaga | Done |
+| **US-70** | Verificación de Facturas | T001 | Backend: Lógica de verificación de cálculo | Implementar un servicio que, dados los datos de una factura, verifique el cálculo contra las tarifas conocidas. | 6 | Eric Olivera | Done |
+| | | T002 | Frontend: Interfaz de verificación | Crear un formulario para ingresar datos de la factura y mostrar el resultado de la verificación. | 4 | Ethan Matias Aliaga | Done |
+| **US-71** | Configuración de Alertas de Consumo | T001 | Backend: API para gestión de alertas | Crear endpoints para que los usuarios puedan establecer y modificar umbrales de consumo. | 5 | Eric Olivera | Done |
+| | | T002 | Frontend: Interfaz de configuración de alertas | Desarrollar el formulario para que el usuario defina sus umbrales de alerta. | 5 | Ethan Matias Aliaga | Done |
+| **US-72** | Sistema de Recomendaciones Personalizadas | T001 | Backend: Motor de recomendaciones | Desarrollar un algoritmo básico que analice el historial de servicios para sugerir otros nuevos. | 10 | Eric Olivera | Done |
+| | | T002 | Frontend: Componente de recomendaciones | Mostrar las recomendaciones generadas por el backend en el dashboard del usuario. | 6 | Ethan Matias Aliaga | Done |
+| **US-73** | Visualización de Calificaciones Recibidas | T001 | Backend: API para obtener calificaciones | Crear endpoint GET /technician/ratings para devolver las calificaciones y reseñas recibidas. | 4 | Eric Olivera | Done |
+| | | T002 | Frontend: Dashboard de calificaciones | Desarrollar una vista para el técnico donde pueda ver su rating promedio y leer las reseñas. | 6 | Ethan Matias Aliaga | Done |
+| **US-74** | Análisis de Demanda por Zona | T001 | Backend: API de análisis de demanda | Crear endpoint que procese y agregue datos históricos de servicios por zona geográfica. | 6 | Eric Olivera | Done |
+| | | T002 | Frontend: Visualización de mapa de calor | Implementar un mapa (ej. Google Maps) que muestre la demanda de servicios por zona. | 4 | Ethan Matias Aliaga | Done |
+| **TS-17** | Endpoint de Autenticación JWT | T001 | Implementar endpoint de login | Desarrollar la lógica del endpoint POST /login que genera y firma un token JWT. | 5 | Ivo Machado | Done |
+| | | T002 | Crear middleware de validación de token | Desarrollar un middleware para proteger rutas que verifique la validez del token JWT. | 5 | Ivo Machado | Done |
+| **TS-18** | Endpoint de Registro de Usuarios | T001 | Endpoint de registro de Propietario | Implementar endpoint POST /register/owner con la lógica de negocio correspondiente. | 5 | Ivo Machado | Done |
+| | | T002 | Endpoint de registro de Técnico | Implementar endpoint POST /register/technician con la lógica de negocio correspondiente. | 5 | Ivo Machado | Done |
+| **TS-19** | Verificación de Email | T001 | Endpoint para generar y enviar token | Implementar la lógica para crear un token de verificación y enviarlo por correo electrónico. | 3 | Italo Ludwing Sanchez | Done |
+| | | T002 | Endpoint para validar token | Crear el endpoint que recibe el token desde el enlace del correo y activa la cuenta. | 3 | Italo Ludwing Sanchez | Done |
+| **TS-20** | Middleware de Autorización | T001 | Implementar middleware de roles | Crear un middleware que extraiga el rol del usuario desde el token JWT. | 5 | Ivo Machado | Done |
+| | | T002 | Aplicar middleware a rutas protegidas | Integrar el middleware de autorización en los endpoints que requieren roles específicos (ej. técnico). | 5 | Ivo Machado | Done |
+| **TS-21** | Recuperación de Contraseña | T001 | Endpoint de solicitud de reseteo | Crear endpoint que reciba un email, genere un token de reseteo y lo envíe por correo. | 3 | Italo Ludwing Sanchez | Done |
+| | | T002 | Endpoint de confirmación de nueva contraseña | Crear endpoint que valide el token y actualice la contraseña en la base de datos. | 3 | Italo Ludwing Sanchez | Done |
+| **TS-22** | Endpoints de Gestión de Perfiles | T001 | Endpoints GET y PUT para perfiles | Implementar los endpoints para leer y actualizar la información de los perfiles de usuario. | 4 | Ivo Machado | Done |
+| | | T002 | Endpoint DELETE para perfiles | Implementar el endpoint para la eliminación de cuentas de usuario, incluyendo limpieza de datos asociados. | 4 | Ivo Machado | Done |
+| **TS-23** | Sistema de Notificaciones Básico | T001 | Integración de servicio de email | Configurar un servicio como SendGrid o Nodemailer dentro de la aplicación. | 4 | Italo Ludwing Sanchez | Done |
+| | | T002 | Creación de servicio de notificación | Crear una clase o función de servicio para abstraer el envío de correos electrónicos. | 4 | Italo Ludwing Sanchez | Done |
+| **TS-24** | Endpoints de Datos de Consumo | T001 | Endpoints CRUD para datos de consumo | Implementar los endpoints POST, GET, PUT y DELETE para gestionar los registros de consumo del propietario. | 8 | Eric Olivera | Done |
+| | | T002 | Lógica de validación de datos de consumo | Asegurar que los datos de consumo enviados al backend sean válidos y consistentes. | 8 | Eric Olivera | Done |
+| **TS-25** | Exportación de Datos | T001 | Lógica de conversión a CSV | Implementar un servicio que tome datos en formato JSON y los convierta a una cadena en formato CSV. | 4 | Eric Olivera | Done |
+| | | T002 | Implementar endpoint de exportación | Crear el endpoint GET /consumption/export que utilice el servicio de conversión y devuelva el archivo. | 2 | Eric Olivera | Done |
+| **TS-26** | Dashboard de Métricas para Técnicos | T001 | Lógica de agregación de métricas | Desarrollar consultas a la base de datos para calcular estadísticas (servicios completados, ingresos). | 5 | Eric Olivera | Done |
+| | | T002 | Implementar endpoint de métricas | Crear el endpoint GET /technicians/metrics para exponer las estadísticas calculadas. | 3 | Eric Olivera | Done |
+| **TS-27** | Verificador de Facturas Básico | T001 | Lógica de cálculo de tarifas | Implementar la lógica para calcular el costo esperado basado en el consumo y las tarifas vigentes. | 6 | Eric Olivera | Done |
+| | | T002 | Endpoint de verificación de facturas | Crear el endpoint POST /invoices/verify que reciba los datos y devuelva el resultado de la validación. | 4 | Eric Olivera | Done |
+| **TS-28** | Sistema de Alertas de Consumo | T001 | Endpoints CRUD para umbrales de alerta | Implementar los endpoints que permitan al usuario crear, leer y actualizar sus umbrales de alerta. | 6 | Eric Olivera | Done |
+| | | T002 | Job programado para verificar alertas | Crear un cron job que se ejecute periódicamente para comprobar si algún usuario ha superado su umbral. | 8 | Eric Olivera | Done |
+| **TS-29** | Análisis de Demanda por Zona | T001 | Consulta optimizada de agregación | Diseñar e implementar una consulta eficiente para agregar el número de servicios por zona geográfica. | 6 | Eric Olivera | Done |
+| | | T002 | Implementar endpoint de análisis de demanda | Crear el endpoint GET /analytics/demand-by-zone que devuelva los datos agregados. | 4 | Eric Olivera | Done |
+| **TS-30** | Sistema de Recomendaciones Básico | T001 | Implementar algoritmo de recomendación | Desarrollar la lógica para analizar el historial de un usuario y generar una lista de servicios recomendados. | 8 | Eric Olivera | Done |
+| | | T002 | Implementar endpoint de recomendaciones | Crear el endpoint GET /users/recommendations que devuelva la lista de servicios sugeridos. | 6 | Eric Olivera | Done |
+| **US-57** | Beneficio de Solicitud Prioritaria | T001 | Backend: Lógica de priorización de solicitudes | Implementar la lógica en el sistema para que las solicitudes marcadas como prioritarias (de usuarios Premium) se procesen primero. | 5 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Opción de solicitud prioritaria | Mostrar y habilitar la opción para marcar una solicitud como prioritaria en la interfaz del propietario con plan Premium. | 5 | Ethan Matias Aliaga | Done |
+| **US-58** | Notificación de Límite de Solicitudes Alcanzado | T001 | Backend: Lógica de conteo y límite de solicitudes | Implementar un contador mensual de solicitudes por usuario y la lógica para restringir la creación de nuevas solicitudes al alcanzar el límite del plan Básico. | 5 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Notificación y opción de mejora | Mostrar una notificación clara al usuario cuando alcance su límite de solicitudes y presentar una opción para actualizar a Premium. | 5 | Ethan Matias Aliaga | Done |
+| **US-75** | Recibir Confirmación de Suscripción | T001 | Backend: Integración con Webhooks de Stripe | Configurar un endpoint para recibir y procesar webhooks de Stripe para confirmaciones de pago exitosas. | 5 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Página de confirmación de suscripción | Crear una página que confirme al usuario que su suscripción se ha activado correctamente. | 5 | Ethan Matias Aliaga | Done |
+| **US-76** | Gestionar Suscripción Activa | T001 | Backend: Integración con el Portal de Cliente de Stripe | Crear un endpoint que genere una sesión segura para que el usuario pueda gestionar su suscripción en el portal de Stripe. | 8 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Acceso al portal de gestión | Implementar un botón o enlace en el perfil del usuario para que pueda acceder al portal de cliente y gestionar su plan. | 8 | Ethan Matias Aliaga | Done |
+| **US-77** | Suscribirse al Plan Premium de Propietario | T001 | Backend: API para crear suscripción de Propietario | Integrar el SDK de Stripe para crear una nueva suscripción para un propietario. | 5 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Flujo de pago para Propietario | Desarrollar la interfaz de pago para que un propietario pueda seleccionar el plan Premium e ingresar sus datos de pago. | 5 | Ethan Matias Aliaga | Done |
+| **US-78** | Suscribirse al Plan Premium de Técnico | T001 | Backend: API para crear suscripción de Técnico | Integrar el SDK de Stripe para crear una nueva suscripción para un técnico, con los beneficios correspondientes. | 8 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Flujo de pago para Técnico | Desarrollar la interfaz de pago para que un técnico pueda suscribirse al plan Premium. | 8 | Ethan Matias Aliaga | Done |
+| **US-79** | Cancelar mi suscripción | T001 | Backend: API para cancelar suscripción | Implementar un endpoint que permita cancelar una suscripción activa a través de la API de Stripe. | 3 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Interfaz de cancelación | Desarrollar la interfaz en el portal de cliente que permita al usuario cancelar su suscripción. | 3 | Ethan Matias Aliaga | Done |
+| **US-80** | Manejo de Fallos en la Renovación | T001 | Backend: Lógica para manejar webhooks de fallo de pago | Configurar el endpoint de webhooks para procesar eventos de fallo en la renovación de la suscripción y notificar al usuario. | 5 | Ricardo del Aguila | Done |
+| | | T002 | Frontend: Notificación de fallo de pago | Mostrar una notificación en la interfaz del usuario informándole que ha ocurrido un problema con su pago y que debe actualizarlo. | 5 | Ethan Matias Aliaga | Done |
 <br>
 
 #### 5.2.4.4. Development Evidence for Sprint Review 
@@ -3515,6 +3514,7 @@ Ahora, desde la consola del IDE, realizamos los siguientes comandos para validar
 <br>
 
 Validacion de Sesion Iniciada
+<br>
 <img src="https://i.ibb.co/FqbtFzV3/Screenshot-2025-07-11-121200.png">
 <br>
 
@@ -3532,6 +3532,37 @@ Tras haber depesplegado la aplicación, obtenemos el siguiente enlace
 <br>
 
 [https://electrolink-frontend-vue.web.app/sign-in](https://electrolink-frontend-vue.web.app/sign-in)
+<br>
+
+## Backend-Application Deployment
+
+Para desplegar la aplicación Back-end , ingresamos al servicio de Render
+
+<img src="https://i.ibb.co/DP01z6xr/Screenshot-2025-07-11-124001.png">
+<br>
+
+Una vez dentro de web site de render, nos dirijimos a dashboard y aparecera esta vista.
+<img src="https://i.ibb.co/7JP1Zj8h/image.png">
+<br>
+
+Ahora nos dirigimos a el proyecto Electrolink Backend
+<img src="https://i.ibb.co/Ld0xCJtn/image.png">
+<br>
+
+Hacemos click en la siguiente opción de Manual Deploy
+<img src="https://i.ibb.co/8hwMX3f/image.png">
+<br>
+
+Y dentro de este menu dropbox, hacemos click en deploy latest commit
+<img src="https://i.ibb.co/rRwmwDfh/image.png">
+<br>
+
+Y obtenemos la siguiente vista en la consola de commits
+<img src"">
+<br>
+
+Enlace del api en Swagger
+[https://electrolink-backend.onrender.com/swagger/index.html](https://electrolink-backend.onrender.com/swagger/index.html)
 <br>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint

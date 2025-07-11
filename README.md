@@ -3515,7 +3515,7 @@ Ahora, desde la consola del IDE, realizamos los siguientes comandos para validar
 <br>
 
 Validacion de Sesion Iniciada
-<img src="https://i.ibb.co/bgrQR0PY/Screenshot-2025-07-11-121217.png">
+<img src="https://i.ibb.co/FqbtFzV3/Screenshot-2025-07-11-121200.png">
 <br>
 
 Iniciar el comando Firebase init pra inicializar el despliegue

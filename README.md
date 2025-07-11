@@ -3504,26 +3504,34 @@ Ingresamos al portal de Firebase
 <br>
 <br>
 
-Dentro del portal, reutilizamos la aplicación front end previamente desplegada "electrolink-frontend-v2".
+Dentro del portal, reutilizamos la aplicación front end previamente desplegada "electrolink-frontend-vue".
 <br>
 
-<img src="https://i.ibb.co/xtKnQtdr/image.png">
-<br>
-<br>
-
-Ahora, desde la consola del IDE, realizamos los siguientes comandos
-<br>
-
-<img src="https://i.ibb.co/rfNWtpcp/image.png">
+<img src="https://i.ibb.co/xtKnQtdr/image.png](https://i.ibb.co/zTDWrDLC/Screenshot-2025-07-11-122813.png">
 <br>
 <br>
 
-
-Tras haber compilado subido el directorio dist, desplegamos con el siguiente comando y obtendremós el enlace de la aplicación front-end
+Ahora, desde la consola del IDE, realizamos los siguientes comandos para validar que hemso iniciado sesion en firebase
 <br>
 
-<img src="https://i.ibb.co/fdzrZCP6/image.png">
+Validacion de Sesion Iniciada
+<img src="https://i.ibb.co/rfNWtpcp/image.png](https://i.ibb.co/FqbtFzV3/Screenshot-2025-07-11-121200.png">
 <br>
+
+Iniciar el comando Firebase init pra inicializar el despliegue
+<img src="https://i.ibb.co/bgrQR0PY/Screenshot-2025-07-11-121217.png">
+<br>
+
+Colocamos las respectivas configuraciones para facilitar el Despliegue e introducimos el comando Firebase Deploy
+<img src="https://i.ibb.co/Nnm3QS3G/Screenshot-2025-07-11-121225.png">
+<br>
+
+
+Tras haber depesplegado la aplicación, obtenemos el siguiente enlace
+<img src="https://i.ibb.co/pBVBnR30/image.png">
+<br>
+
+[https://electrolink-frontend-vue.web.app/sign-in](https://electrolink-frontend-vue.web.app/sign-in)
 <br>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint

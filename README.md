@@ -3511,7 +3511,7 @@ Dentro del portal, reutilizamos la aplicación front end previamente desplegada 
 <br>
 <br>
 
-Ahora, desde la consola del IDE, realizamos los siguientes comandos para validar que hemso iniciado sesion en firebase
+Ahora, desde la consola del IDE, realizamos los siguientes comandos para validar que hemos iniciado sesion en firebase
 <br>
 
 Validacion de Sesion Iniciada

@@ -3553,7 +3553,7 @@ Hacemos click en la siguiente opción de Manual Deploy
 <img src="https://i.ibb.co/8hwMX3f/image.png">
 <br>
 
-Y dentro de este menu dropbox, hacemos click en deploy latest commit
+Y dentro de este menu dropbox, hacemos click en "deploy latest commit"
 <img src="https://i.ibb.co/rRwmwDfh/image.png">
 <br>
 

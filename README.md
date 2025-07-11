@@ -3312,7 +3312,18 @@ En esta sección, se presenta el sprint backlog 4
 <br>
 
 #### 5.2.4.4. Development Evidence for Sprint Review 
-En esta sección, se muestran evidencias del desarrollo del sprint 4
+
+| Repository                     | Branch                                         | Commit ID | Commit Message                                                  | Commit Message Body                                      | Committed on                   |
+|-------------------------------|------------------------------------------------|-----------|------------------------------------------------------------------|----------------------------------------------------------|--------------------------------|
+| HampCoders/Electrolink-Backend | HEAD -> main, origin/main, origin/HEAD         | ff88fe7   | Merge pull request #6 from HampCoders/feature/ServiceDesignAndPlanning-bc | Implementing ServiceDesignAndPlanning Bounded Context | Sat Jun 21 17:37:59 2025 -0500 |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceDesignAndPlanning-bc     | ef68b22   | Implementing ServiceDesignAndPlanning Bounded Context            |                                                          | Mon Jul 7 17:37:07 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 0defeab   | Merge pull request #4 from HampCoders/feature/ServiceOperations-BC | SOM Backend Implementation                             | Mon Jul 7 17:02:13 2025 -0500  |
+| HampCoders/Electrolink-Backend | origin/feature/ServiceOperations-BC            | 4b88ae2   | Implementación inicial de ServiceOperations bounded context      |                                                          | Mon Jul 7 17:01:27 2025 -0500  |
+| HampCoders/Electrolink-Backend | origin/feature/Analytics-bounded-context       | 3400e28   | feature: Add Analytics Bounded Context                          |                                                          | Mon Jul 7 03:05:22 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 450356b   | Merge pull request #3 from HampCoders/feature/Analytics-bounded-context | Merge pull request #2 from HampCoders/main           | Mon Jul 7 02:07:40 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 6ba24ae   | Merge pull request #2 from HampCoders/main                       | Merge main to feature Analytics                         | Mon Jul 7 02:06:01 2025 -0500  |
+| HampCoders/Electrolink-Backend | *(none)*                                       | 2a7ae64   | Merge branch 'develop'                                          |                                                          | Thu Jul 17 13:12:44 2025 -0500 |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
@@ -3516,10 +3527,46 @@ Tras haber compilado subido el directorio dist, desplegamos con el siguiente com
 <br>
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
-En esta sección, el equipo presenta evidencia de la colaboración activa en github.
+
+Durante el Sprint 4, se observó una participación activa del equipo en el repositorio de GitHub, tanto en términos de commits como de ramificaciones de desarrollo. A continuación, se detallan los principales hallazgos:
+### Actividad de Commits
+<img src="https://i.postimg.cc/rFC82GFF/evidence-sprint4.png">
+
+MatFragg lideró la colaboración con 44 commits, destacando por una alta productividad y un volumen significativo de líneas de código modificadas (+6,699 líneas agregadas y -3,470 eliminadas).
+
+Rexest01, ItaloSanche e ivommb11 también realizaron contribuciones relevantes, especialmente hacia el final del sprint.
+
+El mayor pico de actividad se registró durante la semana del 7 de julio, reflejando un cierre intensivo del sprint con más de 20 contribuciones en total.
+
+Este comportamiento es indicativo de un patrón común en los sprints: mayor concentración de esfuerzos en la fase final para consolidar avances y cerrar tareas pendientes.
+
 
 <hr>
+### Gráfico de Ramas y Colaboración
+
+<img src="https://i.postimg.cc/1Rvn1ZWj/sprint4-evidence2.png">
+
+El repositorio muestra una estructura de colaboración organizada por ramas funcionales, siguiendo una estrategia basada en feature branches.
+
+Se crearon y gestionaron ramas específicas como:
+
+feature/service-design-and-planning-full-branch
+
+feature/inventory-BCs
+
+feature/identity-api-management
+
+Todas estas ramas confluyen finalmente en main, lo que evidencia una integración adecuada y continua de las funcionalidades desarrolladas.
+
+<hr>
+### Conclusiones
+
+El equipo demostró una colaboración técnica sólida, con una clara distribución de tareas por ramas, integración continua y entregas alineadas al cierre del sprint.
+
+La visibilidad de las contribuciones y la trazabilidad de las ramas sugieren un enfoque disciplinado de trabajo en equipo, que permitió mantener control sobre la evolución del proyecto.
+
 ### 5.3. Validation Interviews.
+
 En esta sección, el equipo presenta la entrevistas de validación
 
 #### 5.3.1. Diseño de Entrevistas.
